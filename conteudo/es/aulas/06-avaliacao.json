@@ -1,0 +1,271 @@
+{
+  "slug": "avaliacao",
+  "num": 6,
+  "menu": "Evaluación",
+  "titulo": "Evaluar a las personas que trabajan con agentes",
+  "titulo_curto": "Evaluar personas",
+  "minutos": 18,
+  "lead": "La meta de Juliana sigue siendo \"conversaciones atendidas por día\". Pero Hora atiende a la mayoría. Medir a Juliana por volumen es medir a Hora, y además empuja a Juliana a quitarle las conversaciones fáciles. Su trabajo cambió: ahora es decidir, revisar, mejorar y cuidar de las personas. En esta clase la evaluación cambia junto con él.",
+  "objetivo": "cambiar la evaluación de un cargo de \"cuánto hizo\" a \"qué decidió, revisó, mejoró y enseñó\", con evidencia para cada criterio.",
+  "competencias": [
+    "redesenhar-avaliacao-de-cargo",
+    "medir-decisao-e-revisao",
+    "evitar-incentivo-errado"
+  ],
+  "aprende": [
+    {
+      "t": "Por qué la meta de volumen pasó a medir al agente"
+    },
+    {
+      "t": "Los cuatro criterios: decidir, revisar, mejorar, relación y enseñanza"
+    },
+    {
+      "t": "De dónde sale la evidencia de cada criterio"
+    },
+    {
+      "t": "Qué no puede entrar en la evaluación"
+    }
+  ],
+  "hero_alt": "Un gerente y un vendedor conversan sentados frente a frente; entre ellos, una ficha impresa con cuadros de colores y una notebook con un gráfico simple.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "De \"cuánto hizo\" a \"qué decidió\"",
+      "sub": "El volumen sale de la meta individual; entran cuatro criterios. Haz clic en cada uno.",
+      "nos": [
+        {
+          "icone": "grafico",
+          "titulo": "Volumen",
+          "sub": "sale de la meta",
+          "detalhe": "Conversaciones atendidas, pedidos registrados: si el agente hace la mayor parte, el número es suyo. Sigue en el panel del equipo, no en la evaluación de la persona."
+        },
+        {
+          "icone": "check",
+          "titulo": "Decidir",
+          "sub": "verbo correcto, a tiempo",
+          "forte": true,
+          "detalhe": "Las excepciones que la persona resolvió: a tiempo, con el verbo correcto (aprobar, devolver, interrumpir) y con motivo escrito. Evidencia: el registro de la cola de excepciones."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Revisar",
+          "sub": "lo que detectó",
+          "detalhe": "Los errores del agente que la persona encontró en la muestra y registró, y los que pasaron y alguien encontró después. Encontrar un error siempre cuenta a favor."
+        },
+        {
+          "icone": "memoria",
+          "titulo": "Mejorar",
+          "sub": "lo que se volvió regla",
+          "detalhe": "Casos que la persona convirtió en un cambio: un caso de prueba nuevo, una línea en la matriz, una frase en la constitución, un paso del proceso que desapareció."
+        },
+        {
+          "icone": "usuario",
+          "titulo": "Relación",
+          "sub": "y enseñanza",
+          "detalhe": "Lo que solo las personas hacen bien: el cliente difícil que se quedó, el colega nuevo que aprendió. Evidencia: casos contados por la propia persona y por quien ella atendió o formó."
+        }
+      ],
+      "legenda": "Criterios recomendados por INEMA para cargos que trabajan con agentes; no sustituyen la política de evaluación ni la legislación laboral de tu empresa."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Cómo cambiar la evaluación",
+      "sub": "Cuatro pasos, con la ficha de Juliana como ejemplo.",
+      "passos": [
+        {
+          "titulo": "El volumen cambió de dueño",
+          "sub": "y la meta quedó torcida",
+          "texto": [
+            "Cuando el agente hace la mayor parte del volumen, la meta de volumen de la persona mide al agente. Peor aún: incentiva a la persona a quedarse con las conversaciones fáciles, o a dejar la cola de excepciones esperando.",
+            "Saca el volumen de la evaluación individual y mantenlo en el panel del equipo. La pregunta de la evaluación pasa a ser qué hizo la persona con el trabajo que solo ella hace."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte (empresa ficticia de estudio)",
+            "texto": "Meta anterior de Juliana: 120 conversaciones por día. Con Hora, ella atiende las que sobran, más difíciles y más largas. La meta anterior la reprobaría por el trabajo más importante."
+          }
+        },
+        {
+          "titulo": "Cuatro criterios",
+          "sub": "uno por tipo de trabajo",
+          "texto": [
+            "Decidir (excepciones a tiempo, verbo correcto, motivo), revisar (errores encontrados y errores que pasaron), mejorar (lo que se volvió regla o prueba), relación y enseñanza (cliente difícil, colega formado).",
+            "Da peso según el cargo. Para quien atiende, decidir y revisar pesan más; para quien forma al júnior, la enseñanza entra con más peso."
+          ],
+          "exemplo": {
+            "rot": "En la ficha de Juliana",
+            "texto": "Decidir 35% · Revisar 25% · Mejorar 20% · Relación y enseñanza 20%."
+          }
+        },
+        {
+          "titulo": "Evidencia, no impresión",
+          "sub": "y escala descrita",
+          "texto": [
+            "Para cada criterio, escribe de dónde sale la evidencia: el registro de la cola, la planilla de revisión, los pedidos de cambio, los casos contados. Una evaluación sin fuente se vuelve simpatía.",
+            "Describe cada nota de la escala de 1 a 4 con un comportamiento. \"3 = resuelve a tiempo con motivo, a veces con el verbo cambiado\" se puede evaluar; \"3 = bueno\" no."
+          ],
+          "exemplo": {
+            "rot": "Evidencia de \"decidir\"",
+            "texto": "Registro de la cola: 26 de 28 excepciones del mes a tiempo, todas con motivo, 2 con el verbo cambiado (devolvió lo que había que interrumpir). Números ficticios."
+          }
+        },
+        {
+          "titulo": "Lo que no entra",
+          "sub": "incentivos equivocados",
+          "texto": [
+            "Nunca castigues a quien señala un error del agente: un error encontrado es una contribución. Nunca uses un número del agente como meta personal. Nunca compares la velocidad de la persona con la del agente.",
+            "En la conversación de evaluación, la persona trae tres casos del período: una decisión difícil, un error que detectó y una mejora. La conversación parte de ellos, no de la planilla."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte",
+            "texto": "Juliana trajo el pedido del hotel que ella retuvo, el error de plazo de Hora que ella registró y el caso de prueba que propuso. La conversación duró 30 minutos y terminó con una meta de enseñanza: ayudar a Lucas en la semana 3."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "La ficha de evaluación del cargo y un prompt que busca incentivos equivocados. La pestaña de al lado muestra la de Juliana.",
+      "blocos": [
+        {
+          "rot": "Ficha de evaluación del cargo",
+          "icone": "lista",
+          "conteudo": "FICHA DE EVALUACIÓN · cargo <...> · persona <nombre> · período <...> · evaluador <nombre>\nAgentes con quienes trabaja la persona: <nombres>\n\nCRITERIO        PESO  QUÉ CUENTA                          EVIDENCIA (DE DÓNDE SALE)\n1 Decidir       <%>   excepciones a tiempo, verbo         <registro de la cola>\n                      correcto, motivo escrito\n2 Revisar       <%>   errores del agente encontrados y    <planilla de revisión>\n                      registrados; errores que pasaron\n3 Mejorar       <%>   casos que se volvieron prueba,      <pedidos de cambio>\n                      regla o ajuste en el proceso\n4 Relación y    <%>   cliente difícil resuelto;           <casos contados; quién\n  enseñanza           colega formado                       fue atendido o formado>\n\nESCALA (describe cada nota por criterio)\n1 = <comportamiento> · 2 = <...> · 3 = <...> · 4 = <...>\n\nNO ENTRA: volumen que hace el agente · comparación de velocidad con el agente\n  · error del agente señalado por la persona (cuenta a favor, en \"revisar\")\n\nLA PERSONA TRAE 3 CASOS: decisión difícil · error que detectó · mejora\nNOTAS: 1 <..> 2 <..> 3 <..> 4 <..> · acuerdo del equipo para el próximo período: <...>"
+        },
+        {
+          "rot": "Prompt · buscar incentivo equivocado",
+          "icone": "chat",
+          "conteudo": "Revisas la ficha de evaluación de un cargo que trabaja junto con\nagentes de IA. No pongas notas y no reescribas: señala riesgos.\n\n1. ¿Algún criterio mide, en la práctica, el trabajo del agente y no el de\n   la persona?\n2. ¿Algún criterio puede castigar a quien señala un error del agente?\n3. ¿Algún criterio incentiva a la persona a recuperar el trabajo fácil\n   o a dejar excepciones esperando?\n4. ¿Cada criterio tiene evidencia con fuente? ¿La escala describe\n   comportamiento o solo adjetivos?\n\nFicha:\n\"\"\"<pega aquí>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Ficha de Juliana (ejemplo)",
+            "html": "<p><b>Ficha de evaluación · atención al cliente · Juliana · 4.º trimestre</b> · evaluadora: Patrícia · trabaja con Hora · Horizonte, empresa ficticia de estudio</p><ol><li><b>Decidir (35%)</b> · excepciones a tiempo, verbo correcto, motivo · registro de la cola. 4 = todo a tiempo y con el verbo correcto; 3 = a tiempo, a veces con el verbo cambiado; 2 = retrasos frecuentes; 1 = decide sin motivo.</li><li><b>Revisar (25%)</b> · errores de Hora encontrados en la muestra semanal y registrados · planilla de revisión.</li><li><b>Mejorar (20%)</b> · casos de prueba y ajustes propuestos que se incorporaron · pedidos de cambio.</li><li><b>Relación y enseñanza (20%)</b> · clientes difíciles resueltos; apoyo a Lucas en la semana 3 · casos contados y la conversación con Sandra.</li></ol><p><b>No entra:</b> conversaciones por día (es de Hora). <b>Casos presentados:</b> el pedido del hotel retenido; el plazo equivocado de Hora registrado; el caso de prueba \"cliente pide un plazo que la app no muestra\".</p>"
+          },
+          {
+            "rot": "Cómo verificar / errores comunes",
+            "html": "<ol><li><b>Meta de volumen que sobró.</b> Si el agente hace el volumen, el número es suyo.</li><li><b>Contar el error contra la persona.</b> Quien encuentra un error del agente está haciendo el trabajo de revisar; cuéntalo a favor.</li><li><b>Escala con adjetivos.</b> \"Bueno\", \"excelente\" no se pueden comprobar. Describe el comportamiento.</li><li><b>Evidencia sin fuente.</b> Cada criterio dice de dónde sale el dato.</li><li><b>Ficha escrita sin la persona.</b> Muéstrala antes de que empiece el período, no el día de la evaluación.</li></ol>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Rehaz la ficha de Juliana; después la de un cargo de tu equipo, con la persona.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · La ficha de Juliana",
+          "min": "25 min",
+          "texto": "Con la matriz de la clase 2 y lo que Juliana pasó a hacer, escribe su ficha de evaluación con los cuatro criterios, pesos, evidencia y escala. Ejecuta el prompt de incentivo equivocado y corrige.",
+          "pronto": "la ficha tiene 4 criterios con pesos que suman 100%, evidencia con fuente en cada uno, escala de 1 a 4 descrita por comportamiento en al menos 2 criterios, \"conversaciones por día\" fuera de la evaluación individual y error encontrado contado a favor."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · La ficha de un cargo tuyo",
+          "min": "40 min",
+          "texto": "Elige un cargo de tu equipo que ya trabaja con un agente, o que va a trabajar. Escribe la ficha y muéstrasela a la persona antes de que empiece el próximo período. Anota qué cambiaría.",
+          "pronto": "la ficha tiene los 4 criterios con evidencia y escala, ningún criterio mide el volumen del agente, la persona la leyó antes del período y al menos un ajuste vino de ella."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "Hora atiende la mayor parte de las conversaciones. La meta \"conversaciones por día\" de Juliana, ¿qué mide?",
+          "opcoes": [
+            "En buena parte Hora, y además crea un incentivo equivocado",
+            "El desempeño de Juliana en la atención del día",
+            "La satisfacción de los clientes atendidos por el equipo"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "Cuando el volumen es del agente, la meta de volumen de la persona mide al agente y crea un incentivo equivocado. El volumen va al panel del equipo."
+        },
+        {
+          "p": "Juliana encontró y registró 6 errores de Hora en el mes. ¿Cómo entra eso en la evaluación?",
+          "opcoes": [
+            "En su contra: muchos errores en el área que ella atiende",
+            "A favor, en \"revisar\": encontrar errores es el trabajo",
+            "No entra: el error del agente es asunto de TI"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Castigar a quien señala un error del agente enseña al equipo a esconder errores. La revisión es parte del cargo; cuéntala a favor."
+        },
+        {
+          "p": "¿Qué escala se puede evaluar?",
+          "opcoes": [
+            "3 = buen desempeño en el período, por encima de lo esperado para el cargo",
+            "3 = por encima del promedio del equipo",
+            "3 = a tiempo, con motivo, a veces con el verbo cambiado"
+          ],
+          "certa": 2,
+          "ref": "passos",
+          "explica": "Una escala descrita por comportamiento se puede comprobar con la evidencia. El adjetivo se vuelve simpatía del evaluador."
+        },
+        {
+          "p": "En la conversación de evaluación, ¿por qué la persona trae tres casos?",
+          "opcoes": [
+            "Para que ella se defienda de las notas de la planilla",
+            "Para partir del trabajo real, no solo de la planilla",
+            "Para cumplir el protocolo de RR. HH. de la empresa"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Los casos muestran el criterio que los números no capturan y dan base para acordar el próximo período."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "El volumen es del agente",
+          "texto": "Sale de la meta individual y queda en el panel del equipo."
+        },
+        {
+          "t": "Cuatro criterios",
+          "texto": "Decidir, revisar, mejorar, relación y enseñanza."
+        },
+        {
+          "t": "Evidencia con fuente",
+          "texto": "Registro, planilla, pedido de cambio, caso contado; escala por comportamiento."
+        },
+        {
+          "t": "El error encontrado cuenta a favor",
+          "texto": "Nunca castigar a quien señala un error del agente."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir más allá",
+      "links": [
+        {
+          "t": "G3 · Agentes: la cola de excepciones y los tres verbos",
+          "href": "https://inematds.github.io/gestao-ia-agentes-v72/aulas/supervisao/",
+          "icone": "fila"
+        },
+        {
+          "t": "Área Gestión de IA: los indicadores de un agente y del equipo híbrido",
+          "href": "https://eventos.inema.pro/gestao-ia/",
+          "icone": "grafico"
+        },
+        {
+          "t": "Gestoria: administrar una operación híbrida de punta a punta",
+          "href": "https://inematds.github.io/gestoria/",
+          "icone": "camadas"
+        }
+      ]
+    }
+  ]
+}

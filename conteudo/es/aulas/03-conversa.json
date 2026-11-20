@@ -1,0 +1,420 @@
+{
+  "slug": "conversa",
+  "num": 3,
+  "menu": "Conversación",
+  "titulo": "Miedo, resistencia y cambio",
+  "titulo_curto": "Miedo y cambio",
+  "minutos": 20,
+  "lead": "Tarde o temprano alguien pregunta: \"¿la IA me va a reemplazar?\". En Horizonte fue Juliana, al final de la jornada. Las respuestas fáciles son dos, y las dos fallan: prometer que nada va a cambiar o decir que así es el mercado. En esta clase practicas la tercera: contar qué cambia, qué no cambia y qué todavía no se sabe.",
+  "objetivo": "conducir la conversación \"¿la IA me va a reemplazar?\" con honestidad: qué cambia, qué no cambia y qué todavía no sabemos, sin prometer.",
+  "competencias": [
+    "conducir-conversa-dificil",
+    "separar-fato-de-promessa",
+    "assumir-compromisso-verificavel"
+  ],
+  "aprende": [
+    {
+      "t": "Escuchar el miedo como información, no como ataque"
+    },
+    {
+      "t": "Contar qué cambia y qué no cambia, tarea por tarea"
+    },
+    {
+      "t": "Decir en voz alta lo que todavía no se sabe"
+    },
+    {
+      "t": "Cerrar con un compromiso que puedas cumplir, con fecha"
+    }
+  ],
+  "hero_alt": "En una sala pequeña, la gerente y la asistente de atención, con el auricular apoyado en el cuello, conversan en la punta de la mesa; la asistente parece preocupada, la gerente escucha.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "La conversación honesta",
+      "sub": "Cinco partes, en este orden. Haz clic en cada una.",
+      "nos": [
+        {
+          "icone": "chat",
+          "titulo": "Escuchar",
+          "sub": "el miedo es información",
+          "detalhe": "Pregunta qué vio, oyó o sintió la persona. El miedo suele traer un hecho consigo (\"solo me queda lo que Hora no sabe\") que necesitas conocer. No lo minimices (\"tonterías\") ni corras a la respuesta."
+        },
+        {
+          "icone": "seta",
+          "titulo": "Lo que cambia",
+          "sub": "tarea por tarea",
+          "detalhe": "Di qué cambia en el día de la persona, con las tareas de la matriz de la clase 2: qué salió, qué entró, quién decide qué. Lo concreto tranquiliza más que lo genérico."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Lo que no cambia",
+          "sub": "y por qué",
+          "detalhe": "La relación con el cliente difícil, la responsabilidad por las decisiones, lo que solo una persona hace bien. Explica por qué no cambia: es una decisión de gestión, tomada antes, y está escrita."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "No sabemos",
+          "sub": "dicho en voz alta",
+          "forte": true,
+          "detalhe": "Lo que pasará con el cargo dentro de un año, nadie lo sabe con certeza, ni tú. Decirlo es lo que da crédito al resto. Di también quién decide lo que no te corresponde a ti y cuándo vuelves con una respuesta."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Compromiso",
+          "sub": "que sí cumples",
+          "detalhe": "Promete solo lo que depende de ti: avisar antes, conversar cada mes, incluir a la persona en lo que cambia. Con fecha. Una promesa sobre el empleo que la empresa no decidió por escrito no te corresponde hacerla."
+        }
+      ],
+      "legenda": "Estructura recomendada por INEMA para la conversación (lo que cambia, lo que no cambia, lo que no sabemos). No es un protocolo de RR. HH. ni orientación jurídica."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "La conversación en cuatro pasos",
+      "sub": "Qué decir, qué evitar y qué hizo Patrícia.",
+      "passos": [
+        {
+          "titulo": "Escucha antes de explicar",
+          "sub": "la pregunta es justa",
+          "texto": [
+            "Quien pregunta si lo van a reemplazar no está atacando el cambio; está pidiendo información que nadie le dio. Agradece la pregunta y devuélvele la pregunta: qué vio la persona.",
+            "Evita las dos salidas rápidas: \"quédate tranquila\" (promesa) y \"así es el mercado\" (abandono). Las dos cierran la conversación y dejan el miedo intacto."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte (empresa ficticia de estudio)",
+            "texto": "\"Desde que Hora entró, yo solo respondo lo que ella no sabe.\" Juliana trajo un hecho: la parte fácil de su trabajo salió. Por ahí empieza la conversación."
+          }
+        },
+        {
+          "titulo": "Lo que cambia, lo que no cambia",
+          "sub": "usa la matriz",
+          "texto": [
+            "Lleva la matriz de la clase 2. Muestra las tareas que salieron, las que entraron y las que siguen con la persona, con el motivo. La decisión escrita pesa más que cualquier frase de consuelo.",
+            "No endulces: si Hora ya responde la mitad de las preguntas, dilo. La confianza viene de que la persona reconozca en tus palabras lo que ve en su día."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte",
+            "texto": "Salió: catálogo y plazo de entrega. Entró: revisar altas nuevas de clientes y la cola de excepciones con Patrícia. Sigue: cliente irritado, cliente que solo habla con ella."
+          }
+        },
+        {
+          "titulo": "Di lo que no se sabe",
+          "sub": "es lo que da crédito",
+          "texto": [
+            "Nadie sabe con certeza cómo estarán los cargos dentro de un año. El Stanford Digital Economy Lab (08/2026) registró una caída relativa de cerca de 19% en el empleo de jóvenes de 22 a 25 años en las ocupaciones más expuestas a la IA, sin afirmar que la IA sea la causa.",
+            "Así se habla de un dato difícil: lo que muestra y lo que no prueba. Haz lo mismo con tu caso: di lo que sabes, lo que no sabes y quién decide el resto."
+          ],
+          "exemplo": {
+            "rot": "Frase que funciona",
+            "texto": "\"No puedo garantizar el cargo dentro de un año: no depende solo de mí. Lo que sí puedo es contártelo antes, yo mismo, y no que te enteres por el pasillo.\""
+          }
+        },
+        {
+          "titulo": "Cierra con un compromiso",
+          "sub": "con fecha",
+          "texto": [
+            "Un buen compromiso depende de ti y se puede verificar: una conversación por mes, la persona en la prueba de los cambios del agente, las preguntas sin respuesta contestadas hasta una fecha.",
+            "Dale también una tarea concreta a la persona. Quien participa en cómo cambia el agente tiene menos motivo para temer y más para aportar: quien atiende sabe dónde se equivoca el agente."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte",
+            "texto": "Dos semanas anotando cada caso en que Hora se equivocó o se lo pasó a Juliana; el viernes, las dos lo revisan juntas. Y Juliana entra en la prueba de los próximos cambios de Hora."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "simconversa",
+      "titulo": "Simulación: \"¿Hora va a ocupar mi lugar?\"",
+      "sub": "Conversación simulada para practicar. Juliana te busca al final de la jornada; elige cada respuesta. El comentario aparece justo después.",
+      "personagem": {
+        "nome": "Juliana · atención al cliente (simulación)",
+        "papel": "Horizonte Distribuidora, empresa ficticia de estudio"
+      },
+      "inicio": "abre",
+      "falas": {
+        "abre": {
+          "cliente": "Patrícia, ¿puedo decirte algo? Desde que entró Hora, yo solo respondo lo que ella no sabe. Vi en las noticias que están recortando puestos de atención al cliente en todas partes. ¿Hora me va a quitar el lugar?",
+          "opcoes": [
+            {
+              "t": "Quédate tranquila, aquí nadie va a perder el empleo.",
+              "vai": "fim-promessa",
+              "nota": 0,
+              "comenta": "Es una promesa que no te corresponde hacer: la decisión sobre los cargos no depende solo de ti. Calmas hoy y te pasan la factura el día en que algo cambie."
+            },
+            {
+              "t": "Sinceramente, no sé. Eso es con Carlos.",
+              "vai": "muda",
+              "nota": 1,
+              "comenta": "Es honesto decir que no sabes, pero la frase cierra la conversación y le devuelve el miedo a ella. Puedes ser honesta y aun así contar lo que sí sabes."
+            },
+            {
+              "t": "La pregunta es justa. Te voy a decir lo que sé, lo que cambia y lo que todavía no sé. ¿Qué has visto en el día a día?",
+              "vai": "muda",
+              "nota": 2,
+              "comenta": "Reconociste la pregunta, anunciaste una conversación honesta y empezaste escuchando. Su miedo trae información que necesitas."
+            }
+          ]
+        },
+        "muda": {
+          "cliente": "Ella ya hace la mitad de lo que yo hacía. Catálogo, plazo de entrega, pedidos simples... todo es de ella ahora. ¿Qué me quedó a mí?",
+          "opcoes": [
+            {
+              "t": "Para nada, tú sigues haciendo todo igual.",
+              "vai": "futuro",
+              "nota": 0,
+              "comenta": "Ella ve todos los días que no es igual. Negar lo que la persona ve le quita crédito a todo lo que digas después."
+            },
+            {
+              "t": "Es el mercado, Juliana. Todos vamos a tener que adaptarnos.",
+              "vai": "futuro",
+              "nota": 1,
+              "comenta": "Puede que sea cierto, pero es genérico y echa la responsabilidad hacia afuera. Ella preguntó por su trabajo, aquí."
+            },
+            {
+              "t": "Es verdad, las preguntas repetidas pasaron a ella. Contigo quedó lo que ella no resuelve: el cliente molesto, el pedido fuera de lo normal. Y quiero que empieces a revisar conmigo los registros nuevos y la cola de excepciones.",
+              "vai": "futuro",
+              "nota": 2,
+              "comenta": "Confirmaste lo que ella ve, dijiste qué sigue con ella y qué se suma, con la decisión ya tomada. Lo concreto calma más que el consuelo."
+            }
+          ]
+        },
+        "futuro": {
+          "cliente": "Bueno. ¿Pero y dentro de un año? ¿Me aseguras que mi cargo va a seguir existiendo?",
+          "opcoes": [
+            {
+              "t": "Te lo aseguro. Te doy mi palabra.",
+              "vai": "fim-promessa",
+              "nota": 0,
+              "comenta": "Nadie sabe cómo estará el cargo dentro de un año, y la decisión no es solo tuya. Una promesa que no controlas se vuelve después una ruptura de confianza."
+            },
+            {
+              "t": "Sobre eso no puedo hablar.",
+              "vai": "agora",
+              "nota": 1,
+              "comenta": "No prometer está bien. Pero el silencio suena a mala noticia escondida. Di lo que sí puedes hacer."
+            },
+            {
+              "t": "No puedo asegurarlo: no depende solo de mí y las cosas están cambiando rápido. Lo que sí puedo es contarte antes, yo misma y no por los pasillos, y que lo conversemos todos los meses.",
+              "vai": "agora",
+              "nota": 2,
+              "comenta": "Dijiste lo que no sabes, de quién es la decisión y qué depende de ti, con un compromiso que se puede cumplir y comprobar."
+            }
+          ]
+        },
+        "agora": {
+          "cliente": "Está bien. ¿Y qué hago ahora, entonces?",
+          "opcoes": [
+            {
+              "t": "Sigue haciendo tu trabajo y todo va a salir bien.",
+              "vai": "fim-vago",
+              "nota": 0,
+              "comenta": "Sin una tarea, ella vuelve al mismo lugar de donde vino: esperando a ver qué pasa."
+            },
+            {
+              "t": "Haz un curso de IA el fin de semana, que ayuda.",
+              "vai": "fim-curso",
+              "nota": 1,
+              "comenta": "Aprender ayuda, pero la sugerencia echa el problema a su tiempo libre y no se conecta con nada del trabajo de aquí."
+            },
+            {
+              "t": "Durante dos semanas, anota cada caso en que Hora se equivocó o te lo pasó. El viernes lo revisamos juntas. Y te quiero en la prueba de sus próximos cambios: quien atiende sabe dónde se equivoca.",
+              "vai": "fim-bom",
+              "nota": 2,
+              "comenta": "Tarea concreta, con plazo, que usa lo que ella sabe y la pone dentro del cambio, no afuera."
+            }
+          ]
+        },
+        "fim-promessa": {
+          "fim": true,
+          "titulo": "Una promesa que no era tuya",
+          "texto": "Juliana salió aliviada. Pero la decisión sobre los cargos no es solo de Patrícia, y nadie sabe cómo estará la atención al cliente dentro de un año. Si algo cambia, la promesa se vuelve el recuerdo más fuerte de la conversación. La honestidad sobre lo que no se sabe protege la confianza mejor que la garantía."
+        },
+        "fim-vago": {
+          "fim": true,
+          "titulo": "Conversación sin próximo paso",
+          "texto": "La conversación fue honesta, pero terminó sin nada que hacer. En una semana, el miedo vuelve con la próxima noticia. Cierra siempre con una tarea concreta y una fecha."
+        },
+        "fim-curso": {
+          "fim": true,
+          "titulo": "Aprender, pero lejos de aquí",
+          "texto": "La sugerencia no es mala, solo está desconectada del trabajo. Juliana sabe mejor que nadie dónde se equivoca Hora; ese saber es lo que la pone dentro del cambio. Empieza de nuevo y compara."
+        },
+        "fim-bom": {
+          "fim": true,
+          "titulo": "Honesta y con próximo paso",
+          "texto": "Juliana sabe qué cambió, qué sigue con ella, qué no sabe nadie todavía y qué hacer la próxima semana. Revisa el puntaje: si quedó por debajo del máximo, alguna respuesta prometió, negó o cerró la conversación. Empieza de nuevo y compara los comentarios."
+        }
+      },
+      "licao": "La honestidad tiene tres partes: lo que cambia, lo que no cambia y lo que no sabemos. Promete solo lo que depende de ti, con fecha, y cierra con una tarea que ponga a la persona dentro del cambio."
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "El guion de la reunión de 30 minutos con el equipo y un prompt que busca promesas. La pestaña de al lado muestra el de Patrícia.",
+      "blocos": [
+        {
+          "rot": "Guion de reunión · 30 min",
+          "icone": "calendario",
+          "conteudo": "REUNIÓN: QUÉ CAMBIA CON <nombre del agente> · equipo <nombre> · <fecha y hora> · conduce: <nombre>\n\n00-05 APERTURA\n  Por qué estamos aquí: <una frase>. Voy a decir lo que sé, lo que cambia y lo que no sé.\n05-12 QUÉ CAMBIA (de la matriz de división)\n  Salió de ustedes: <tareas> · Entró: <tareas> · Quién decide qué: <...>\n12-17 QUÉ NO CAMBIA, Y POR QUÉ\n  <relación con el cliente, decisiones, ...> · porque: <decisión escrita>\n17-22 QUÉ NO SABEMOS\n  <lo que nadie sabe todavía> · quién decide: <nombre> · cuándo vuelvo con la respuesta: <fecha>\n22-28 PREGUNTAS\n  Anotar todas. La que no sepa responder: la respondo hasta el <fecha>, por <canal>.\n28-30 COMPROMISOS (solo lo que depende de mí)\n  <compromiso 1, con fecha> · <compromiso 2, con fecha>\n  Tarea de cada uno hasta el <fecha>: <...>\n  Próxima conversación: <fecha>\n\nFRASES QUE AYUDAN: \"la pregunta es justa\" · \"eso no lo sé, y te aviso cuando lo sepa\"\n  · \"esa decisión es de <nombre>; traigo la respuesta hasta el <fecha>\"\nFRASES QUE EVITAR: \"quédate tranquilo\" · \"nadie va a perder el empleo\" (si no está decidido)\n  · \"es el mercado\" · \"no puedo hablar de eso\" (sin decir cuándo se podrá)"
+        },
+        {
+          "rot": "Prompt · buscar promesas",
+          "icone": "chat",
+          "conteudo": "Eres quien revisa el guion de una reunión en la que un gestor va a hablar con el\nequipo sobre la llegada de agentes de IA. No lo reescribas: señala riesgos.\n\n1. Enumera toda frase que suene a promesa sobre empleo, cargo, salario\n   o ahorro, e indica si el guion muestra quién decidió eso.\n2. Enumera frases genéricas (\"es el mercado\", \"va a mejorar\") sin una tarea\n   concreta detrás.\n3. Indica si el guion tiene las tres partes: lo que cambia, lo que no cambia y\n   lo que no sabemos.\n4. Señala compromisos sin fecha o que no dependen de quien conduce.\n\nGuion:\n\"\"\"<pega aquí>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Guion de Patrícia (ejemplo)",
+            "html": "<p><b>Reunión: qué cambia con Hora</b> · comercial · viernes, 9 h · conduce: Patrícia · Horizonte, empresa ficticia de estudio</p><ol><li><b>Apertura:</b> \"Hora lleva un mes con nosotros y nadie se sentó a conversar. Voy a decirles lo que sé, lo que cambia y lo que no sé.\"</li><li><b>Cambia:</b> el catálogo y los plazos dejaron de estar en manos de Juliana; ella revisa los registros nuevos y la cola conmigo. Descuentos de 5% a 10% y pedidos de más de R$ 5 mil: Hora los prepara, yo los apruebo.</li><li><b>No cambia:</b> el cliente molesto, la visita y la negociación siguen con ustedes, porque eso es relación.</li><li><b>No sabemos:</b> cómo será la atención dentro de un año. Quien decide los cargos es Carlos; le llevo la pregunta y vuelvo con la respuesta a más tardar el 13/11.</li><li><b>Preguntas:</b> anotadas en el canal del equipo.</li><li><b>Compromisos:</b> conversación mensual; nadie se entera de un cambio por el pasillo; Juliana en la prueba de los cambios de Hora. Tarea: dos semanas anotando los errores de Hora.</li></ol>"
+          },
+          {
+            "rot": "Cómo verificar / errores comunes",
+            "html": "<ol><li><b>Promesa de empleo.</b> Si la empresa no lo decidió por escrito, no lo prometas. Di quién decide y cuándo vuelves.</li><li><b>Solo lo que cambia.</b> Sin lo que no cambia, el equipo se imagina lo peor.</li><li><b>Saltarte el \"no sabemos\".</b> Es la parte que da credibilidad al resto.</li><li><b>Pregunta sin dueño.</b> Una pregunta que no supiste responder necesita fecha y canal.</li><li><b>Cerrar sin tarea.</b> Sin un próximo paso, el miedo vuelve con la próxima noticia.</li></ol>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "video",
+      "titulo": "Video: la resistencia que empieza en el gestor",
+      "sub": "Nei habla de la otra resistencia: la del gerente que dice \"eso es cosa de TI\". Antes de conducir la conversación con el equipo, vale la pena mirar la tuya.",
+      "chave": "gerente-de-agentes"
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Practica en la simulación, escribe el guion de Patrícia y después el tuyo.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · La conversación con Juliana",
+          "min": "10 min",
+          "texto": "Haz la simulación de esta clase. Si no llegas al puntaje máximo, lee los comentarios, empieza de nuevo e inténtalo otra vez.",
+          "pronto": "terminaste la simulación con el puntaje máximo y puedes decir, en una frase cada uno, qué cambia, qué no cambia y qué no se sabe para Juliana."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · El guion de Patrícia",
+          "min": "20 min",
+          "texto": "Con la matriz de la clase 2, escribe el guion de la reunión de 30 minutos de Patrícia con el equipo comercial. Corre el prompt de promesas y corrige lo que señale.",
+          "pronto": "el guion tiene los seis bloques con minutos, al menos 3 tareas que cambian y 2 que no cambian, un \"no sabemos\" con quién decide y fecha de respuesta, y ninguna promesa sobre empleo o cargo."
+        },
+        {
+          "id": "e3",
+          "titulo": "3 · Tu reunión",
+          "min": "30 min + la reunión",
+          "texto": "Escribe el guion para tu equipo y agenda la reunión. Después de ella, anota las preguntas que surgieron y responde las que quedaron abiertas antes de la fecha que prometiste.",
+          "pronto": "la reunión se hizo en la fecha acordada, las preguntas están anotadas, cada pregunta sin respuesta tiene fecha, y el compromiso con fecha se cumplió o está en el calendario."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "5 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "Juliana pregunta si Hora va a ocupar su lugar. ¿Cuál es la mejor primera respuesta?",
+          "opcoes": [
+            "\"Tranquila, aquí nadie pierde el empleo.\"",
+            "\"Es el mercado; todos van a tener que adaptarse, yo incluido.\"",
+            "\"Buena pregunta. ¿Qué has visto en el día a día?\""
+          ],
+          "certa": 2,
+          "ref": "simconversa",
+          "explica": "Prometer que nadie pierde el empleo no es decisión tuya; decir que es el mercado deja sola a la persona. La respuesta correcta reconoce la pregunta y empieza escuchando."
+        },
+        {
+          "p": "¿Por qué decir en voz alta lo que todavía no se sabe?",
+          "opcoes": [
+            "Porque le da crédito a lo que dices sobre el resto",
+            "Porque así el equipo se prepara para el peor escenario",
+            "Porque pasa la responsabilidad a la dirección"
+          ],
+          "certa": 0,
+          "ref": "diagrama",
+          "explica": "Quien solo trae certezas suena como alguien que esconde algo. Admitir la incertidumbre, con quién decide y cuándo vuelves, hace que se escuche el resto."
+        },
+        {
+          "p": "¿Cómo citar el estudio de Stanford en la conversación?",
+          "opcoes": [
+            "\"La IA eliminó el 19 % de los empleos de jóvenes de 22 a 25 años en las ocupaciones expuestas, según Stanford\"",
+            "\"Caída relativa de ~19% en el empleo de 22 a 25 años en las ocupaciones expuestas, sin causa afirmada\"",
+            "\"Stanford prueba que quien tiene menos de 25 años está perdiendo el puesto por la IA\""
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "El estudio muestra una caída y no afirma la causa. Repetir solo el número, como si probara la causa, asusta y le enseña al equipo a leer mal un dato."
+        },
+        {
+          "p": "¿Cuál de estos es un compromiso que Patrícia puede asumir?",
+          "opcoes": [
+            "\"Te enteras de cualquier cambio por mí, antes que nadie.\"",
+            "\"Tu cargo está garantizado durante los próximos dos años.\"",
+            "\"Nadie del equipo se va mientras yo sea la gerente.\""
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "Un buen compromiso depende de quien promete y se puede verificar. La garantía de un cargo no es decisión solo de ella."
+        },
+        {
+          "p": "¿Por qué cerrar la conversación con una tarea para la persona?",
+          "opcoes": [
+            "Para ocupar el tiempo que la Hora liberó en su día",
+            "Para ponerla dentro del cambio, usando lo que ella sabe",
+            "Para tener evidencia de su desempeño en la próxima evaluación del año"
+          ],
+          "certa": 1,
+          "ref": "simconversa",
+          "explica": "Quien atiende sabe dónde se equivoca el agente. Anotar los casos y entrar en la prueba de los cambios convierte el miedo en contribución."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Escuchar primero",
+          "texto": "El miedo trae un hecho que necesitas saber."
+        },
+        {
+          "t": "Cambia y no cambia",
+          "texto": "Tarea por tarea, con la matriz de la clase 2."
+        },
+        {
+          "t": "No sabemos",
+          "texto": "Dicho en voz alta, con quién decide y cuándo vuelves."
+        },
+        {
+          "t": "Compromiso tuyo",
+          "texto": "Solo lo que depende de ti, con fecha, y una tarea para la persona."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir más allá",
+      "links": [
+        {
+          "t": "Video: gerente que no domina los agentes (página con guion)",
+          "href": "https://inematds.github.io/gerente-de-agentes/videos/",
+          "icone": "video"
+        },
+        {
+          "t": "Laboratorio Horizonte: el resumen de atención que Juliana leía (empresa ficticia de estudio)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "icone": "chat"
+        },
+        {
+          "t": "Área Gestión de IA: gestión de personas y de agentes",
+          "href": "https://eventos.inema.pro/gestao-ia/",
+          "icone": "alvo"
+        }
+      ]
+    }
+  ]
+}

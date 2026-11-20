@@ -1,0 +1,274 @@
+{
+  "slug": "exemplo",
+  "num": 1,
+  "menu": "Ejemplo",
+  "titulo": "El gestor da el ejemplo",
+  "titulo_curto": "El gestor da el ejemplo",
+  "minutos": 15,
+  "lead": "El equipo de Patrícia ya usa IA: un vendedor pega la planilla de clientes en un chatbot personal, otro graba visitas sin avisar. Nadie lo contó porque nadie preguntó, y la gerente no usaba. Antes de cualquier regla, el equipo necesita ver a la líder usando agentes de verdad, equivocándose y corrigiendo, y saber qué se puede y qué no.",
+  "objetivo": "usar agentes en tu trabajo frente al equipo y abrir un espacio acordado para experimentar, con una regla para el dato del cliente.",
+  "competencias": [
+    "dar-el-ejemplo-con-agentes",
+    "acordar-regla-del-dato",
+    "abrir-espacio-para-experimentar"
+  ],
+  "aprende": [
+    {
+      "t": "Por qué el ejemplo del gestor viene antes que la regla"
+    },
+    {
+      "t": "Mostrar el error del agente, y no solo el acierto"
+    },
+    {
+      "t": "Acordar la regla del dato en tres líneas"
+    },
+    {
+      "t": "Abrir tiempo y canal para que el equipo experimente"
+    }
+  ],
+  "hero_alt": "La gerente comercial muestra la pantalla de su propio notebook en la TV de la sala; cuatro colegas siguen alrededor de la mesa, uno de ellos anota en papel.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Del ejemplo al acuerdo del equipo",
+      "sub": "Cinco movimientos de una semana. Haz clic en cada uno.",
+      "volta": "Lo que el equipo trae el viernes vuelve al acuerdo del equipo de la semana siguiente",
+      "nos": [
+        {
+          "icone": "usuario",
+          "titulo": "Usar",
+          "sub": "tú primero",
+          "detalhe": "Elige tres tareas tuyas, de verdad, y hazlas con un agente: el resumen de la semana, la respuesta a un cliente difícil, la agenda de la reunión. No es una demostración preparada; es tu trabajo."
+        },
+        {
+          "icone": "play",
+          "titulo": "Mostrar",
+          "sub": "el error también",
+          "forte": true,
+          "detalhe": "En la reunión del equipo, abre la pantalla y muestra lo que hizo el agente, lo que tú corregiste y por qué. El error corregido enseña más que el acierto: muestra que revisar es parte del trabajo y que equivocarse con el agente no da vergüenza."
+        },
+        {
+          "icone": "cadeado",
+          "titulo": "Acordar",
+          "sub": "la regla del dato",
+          "detalhe": "Antes del entusiasmo, tres líneas: qué se puede, qué nunca se puede (dato de cliente en cuenta personal, grabar sin avisar) y a quién preguntar en caso de duda. Regla corta, dicha en voz alta, escrita en el grupo del equipo."
+        },
+        {
+          "icone": "relogio",
+          "titulo": "Abrir espacio",
+          "sub": "tiempo y canal",
+          "detalhe": "Una hora protegida por semana para probar, un canal para intercambiar lo que funcionó y el acuerdo del equipo de que nadie es castigado por contar lo que usa. Sin eso, la experimentación sigue ocurriendo, solo que escondida."
+        },
+        {
+          "icone": "lista",
+          "titulo": "Recoger",
+          "sub": "lo que funcionó",
+          "detalhe": "El viernes, cada uno trae un uso que funcionó y uno que salió mal. Lo que funcionó se vuelve práctica del equipo; lo que toca datos o clientes pasa a la regla."
+        }
+      ],
+      "legenda": "Secuencia recomendada por INEMA (área Gestión de IA y videos de Nei). La hora protegida y el canal son una recomendación, no un dato de investigación."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Cuatro pasos para empezar",
+      "sub": "Cada pestaña trae el porqué y lo que Patrícia hizo en Horizonte.",
+      "passos": [
+        {
+          "titulo": "Empieza por tu escritorio",
+          "sub": "tres tareas reales",
+          "texto": [
+            "Gestionar agentes se aprende usándolos, del mismo modo que nadie aprendió a liderar solo leyendo libros de liderazgo. Elige tareas que haces cada semana, que el equipo conoce y en las que un error no sale al cliente sin que tú lo veas.",
+            "También hay un dato de mercado. Microsoft, Work Trend Index 2026 (05/2026): cuando el gestor usa IA frente al equipo, el valor percibido sube 17 puntos. Es una encuesta de quien vende la herramienta; léela como señal, no como prueba."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte (empresa ficticia de estudio)",
+            "texto": "Patrícia eligió: el resumen de la semana de ventas, el borrador de respuesta a un cliente que se quejó por un retraso y la agenda de la reunión del lunes. Ninguna sale al exterior sin que ella la lea."
+          }
+        },
+        {
+          "titulo": "Muestra el error",
+          "sub": "la corrección es la clase",
+          "texto": [
+            "Mostrar solo el resultado bonito le enseña al equipo a confiar sin verificar. Muestra el borrador del agente, el fragmento que estaba mal y lo que cambiaste.",
+            "Di en voz alta lo que todavía no sabes. El equipo aprende que el trabajo ahora incluye revisar, y que quien señala el error del agente está ayudando, no estorbando."
+          ],
+          "exemplo": {
+            "rot": "En la reunión del lunes",
+            "texto": "\"El resumen inventó un cliente que no compró en la semana. Lo encontré porque lo verifiqué con la app de pedidos. Por eso nadie le manda un resumen a Carlos sin verificarlo.\""
+          }
+        },
+        {
+          "titulo": "Define la regla del dato",
+          "sub": "tres líneas, antes del entusiasmo",
+          "texto": [
+            "Cuando el líder empieza a usarla, el equipo se anima y trae lo que ya usa a escondidas. Es el momento de acordar qué se puede y qué no se puede, sin castigar a quien lo contó.",
+            "La regla cabe en tres líneas: qué está permitido, qué nunca se hace y a quién preguntar. Nada de prohibir la IA: prohíbe el camino que expone al cliente y ofrece un camino seguro."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte",
+            "texto": "La encuesta interna encontró la planilla de clientes en un chatbot personal y visitas grabadas sin aviso (falla F12 del laboratorio). La regla: datos de clientes solo en herramientas de la empresa; grabar solo con aviso; ante la duda, pregunta a Patrícia o a Rafael."
+          }
+        },
+        {
+          "titulo": "Abre espacio para experimentar",
+          "sub": "hora protegida y canal",
+          "texto": [
+            "Experimentar sin tiempo se vuelve experimentar a escondidas, en el celular, fuera del horario de trabajo. Reserva una hora por semana en la agenda del equipo y un canal para mostrar lo que salió bien y lo que salió mal.",
+            "El acuerdo del equipo más importante es que nadie sea castigado por contar lo que usa. Sin eso, la próxima encuesta vuelve vacía y el riesgo sigue ahí."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte",
+            "texto": "Jueves, de 16 h a 17 h, cada uno prueba una tarea suya. Viernes, 10 minutos en la reunión: un acierto y un error de cada persona. El canal es un grupo del equipo con la regla fijada arriba."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "El acuerdo de una semana y un prompt que revisa el acuerdo sin decidir por ti. La pestaña de al lado muestra el de Patrícia.",
+      "blocos": [
+        {
+          "rot": "Acuerdo de una semana",
+          "icone": "calendario",
+          "conteudo": "ACUERDO DE LA SEMANA · equipo <nombre del equipo> · <fecha de inicio> · líder: <nombre>\n\n1. MIS 3 TAREAS CON AGENTE (hechas por mí, mostradas al equipo)\n   a) <tarea> · herramienta: <cuál, cuenta de la empresa> · cuándo: <día>\n   b) <tarea> · herramienta: <...> · cuándo: <día>\n   c) <tarea> · herramienta: <...> · cuándo: <día>\n   Lo muestro en la reunión de <día y hora>: qué hizo el agente, qué corregí y por qué.\n\n2. REGLA DEL DATO (3 líneas, fijada en el canal del equipo)\n   SE PUEDE: <qué está permitido, en qué herramientas>\n   NUNCA: <datos de clientes en cuenta personal; grabar sin avisar; ...>\n   ANTE LA DUDA: pregunta a <nombre> o a <nombre> antes de usar.\n\n3. ESPACIO PARA EXPERIMENTAR\n   Hora protegida: <día, de hh a hh> · Canal: <grupo o carpeta>\n   Acuerdo: nadie es castigado por contar lo que usa.\n\n4. RECOGER EL VIERNES (10 min)\n   Cada persona trae: 1 uso que salió bien + 1 que salió mal.\n   Lo que salió bien se vuelve práctica · lo que toca a clientes o datos pasa a la regla.\n\nReacciones anotadas del equipo: <...>\nPróxima revisión del acuerdo: <fecha>"
+        },
+        {
+          "rot": "Prompt · revisar el acuerdo",
+          "icone": "chat",
+          "conteudo": "Tú revisas el acuerdo que un gestor va a presentar al equipo sobre el\nuso de agentes de IA. No reescribas y no decidas: señala vacíos.\n\n1. ¿Alguna de las 3 tareas del gestor pone en riesgo datos de clientes o\n   puede salir hacia afuera sin que él la verifique?\n2. ¿La regla del dato tiene qué se puede, qué nunca se puede y a quién preguntar?\n   ¿Algún \"nunca\" es demasiado vago para que alguien sepa si lo cumplió?\n3. ¿Hay tiempo y canal definidos, con día y horario?\n4. ¿El texto castiga, incluso sin querer, a quien cuente lo que ya usa?\n\nResponde en viñetas cortas, citando el fragmento.\n\nAcuerdo:\n\"\"\"<pega aquí>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Acuerdo de Patrícia (ejemplo)",
+            "html": "<p><b>Acuerdo de la semana · comercial · 26/10 · líder: Patrícia</b> · Horizonte, empresa ficticia de estudio</p><ol><li><b>Tareas:</b> resumen de la semana de ventas (lunes) · borrador de respuesta al cliente que reclamó por un retraso (martes) · agenda de la reunión (miércoles). Herramienta: asistente de IA en cuenta de la empresa, con contrato. Lo muestra en la reunión del viernes, 9 h.</li><li><b>Regla del dato:</b> SE PUEDE texto sin nombre de cliente, catálogo y tabla. NUNCA planilla de clientes en cuenta personal, ni grabar una visita sin avisar al cliente. ANTE LA DUDA Patrícia o Rafael.</li><li><b>Espacio:</b> jueves, 16 h a 17 h · canal: grupo \"comercial · IA\", regla fijada · nadie es castigado por contar lo que usa.</li><li><b>Viernes:</b> un acierto y un error de cada uno.</li></ol><p><b>Reacciones:</b> \"¿puedo usarla para una propuesta?\" (sí, sin la planilla completa); \"¿y el resumen de las 18 h?\" (queda con Juliana y Rafael, clase 7).</p>"
+          },
+          {
+            "rot": "Cómo verificar / errores comunes",
+            "html": "<ol><li><b>Demostración ensayada.</b> Si la tarea no es tuya de verdad, el equipo lo nota. Usa el trabajo de la semana.</li><li><b>Solo el acierto.</b> Sin mostrar lo que corregiste, enseñas a confiar sin verificar.</li><li><b>Regla que prohíbe todo.</b> \"No usen IA\" empuja el uso al celular personal. Prohíbe el camino peligroso y ofrece el seguro.</li><li><b>Espacio sin fecha.</b> \"Cuando se pueda\" no sucede. Día, hora y canal.</li><li><b>Castigar a quien contó.</b> Un regaño y la próxima encuesta vuelve vacía.</li></ol>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Entrena con el equipo de Patrícia; después haz tu semana de verdad.",
+      "fonte": "Pieza del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">inventario de TI y encuesta interna (F12)</a>.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · El acuerdo de Patrícia",
+          "min": "20 min",
+          "texto": "Lee las 22 respuestas de la encuesta interna en el inventario del laboratorio. Escribe el acuerdo de una semana de Patrícia con el modelo: tres tareas suyas, la regla del dato que resuelve los dos usos riesgosos del área comercial y el espacio para experimentar. Ejecuta el prompt de revisión y corrige lo que señale.",
+          "pronto": "el acuerdo tiene 3 tareas con día y herramienta, una regla del dato con al menos 2 \"nunca\" sacados de la encuesta (planilla en cuenta personal y grabación sin aviso), un día y horario para experimentar y un canal con nombre."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Tu semana",
+          "min": "1 semana",
+          "dias": 7,
+          "texto": "Haz tu acuerdo y cúmplelo: tres tareas tuyas con agente a lo largo de la semana, mostradas al equipo en una reunión con lo que corregiste. Anota lo que el equipo preguntó o contó que ya usa.",
+          "pronto": "las 3 tareas se hicieron y se mostraron en una reunión con fecha, la regla del dato está fijada en el canal del equipo y anotaste al menos 2 reacciones o preguntas del equipo."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "¿Por qué el gestor debe mostrar el error del agente, y no solo el buen resultado?",
+          "opcoes": [
+            "Porque la corrección muestra que verificar forma parte del trabajo",
+            "Porque así el equipo ve que el agente todavía no es confiable",
+            "Porque equivocarse en público deja al equipo con libertad para pedir ayuda"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "Mostrar solo el acierto enseña a confiar sin verificar. El error corregido muestra el trabajo nuevo: revisar. Y quita la vergüenza de equivocarse con el agente."
+        },
+        {
+          "p": "La encuesta reveló que un vendedor pega la planilla de clientes en un chatbot personal. ¿Qué acuerdo del equipo tiene más sentido?",
+          "opcoes": [
+            "Prohibir el uso de IA en el equipo hasta que TI elija una herramienta",
+            "Permitirlo, ya que la propuesta sale más rápido y el cliente ni lo nota",
+            "Datos de clientes solo en herramientas de la empresa, sin castigar a quien lo contó"
+          ],
+          "certa": 2,
+          "ref": "passos",
+          "explica": "La necesidad es legítima; lo que expone al cliente es el camino. Prohibirlo todo empuja el uso hacia lo oculto; dejarlo como está mantiene el riesgo."
+        },
+        {
+          "p": "El Work Trend Index 2026 dice que el valor percibido sube 17 puntos cuando el gestor usa IA frente al equipo. ¿Cómo usar ese número?",
+          "opcoes": [
+            "Como prueba de que el mismo efecto va a ocurrir también en tu equipo",
+            "Como señal de la encuesta del proveedor, que no decide por sí sola",
+            "Como meta: subir 17 puntos en la próxima encuesta interna"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Es una encuesta de quien vende la herramienta. Sirve para orientar el movimiento; la prueba de tu caso es lo que pasa en tu equipo después del acuerdo del equipo."
+        },
+        {
+          "p": "El equipo no tiene tiempo para probar nada. ¿Qué recomienda el diagrama?",
+          "opcoes": [
+            "Dejar que cada uno pruebe cuando le sobre un rato en el día",
+            "Esperar a que TI elija una herramienta y capacite a todos en ella antes",
+            "Reservar una hora protegida por semana y un canal de intercambio"
+          ],
+          "certa": 2,
+          "ref": "diagrama",
+          "explica": "Sin tiempo, la experimentación ocurre igual, solo que escondida. La hora protegida es una recomendación de INEMA: ajusta el tamaño, pero ponle fecha."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Tú primero",
+          "texto": "Tres tareas tuyas, reales, hechas con el agente."
+        },
+        {
+          "t": "Error a la vista",
+          "texto": "Lo que el agente erró y lo que tú corregiste enseñan a verificar."
+        },
+        {
+          "t": "Regla del dato",
+          "texto": "Se puede, nunca, a quien pregunte. Sin castigar a quien lo contó."
+        },
+        {
+          "t": "Espacio con fecha",
+          "texto": "Una hora por semana, un canal y el viernes para recoger."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir más allá",
+      "links": [
+        {
+          "t": "Laboratorio Horizonte: inventario de TI y las 22 respuestas de la encuesta (empresa ficticia de estudio)",
+          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "icone": "lupa"
+        },
+        {
+          "t": "Video: del técnico al gestor de agentes",
+          "href": "https://inematds.github.io/gestor-de-agentes/videos/",
+          "icone": "video"
+        },
+        {
+          "t": "Área Gestión de IA: la tesis y las 8 competencias",
+          "href": "https://eventos.inema.pro/gestao-ia/",
+          "icone": "alvo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "slug": "rh",
+  "num": 7,
+  "menu": "RR. HH.",
+  "titulo": "RR. HH. de personas y agentes",
+  "titulo_curto": "RR. HH. de personas y agentes",
+  "minutos": 18,
+  "lead": "Cuando alguien entra en Horizonte, tiene ficha, credencial, acceso al sistema y un responsable. Cuando sale, el acceso se corta el mismo día. Hora entró sin nada de eso: en el inventario, el responsable es TI. Y el resumen automático fue suspendido, pero nadie dijo quién lee ahora las conversaciones. En esta clase cuidas la entrada y la salida de agentes como cuidas la de las personas.",
+  "objetivo": "organizar la entrada, el seguimiento y la salida de un agente como se hace con las personas: dueño, accesos, registro y quién asume el trabajo.",
+  "competencias": [
+    "admitir-agente-com-dono",
+    "manter-registro-de-agentes",
+    "desligar-agente-com-sucessao"
+  ],
+  "aprende": [
+    {
+      "t": "Lo que debe tener la incorporación de un agente"
+    },
+    {
+      "t": "El registro de agentes, como la lista de quienes trabajan en la empresa"
+    },
+    {
+      "t": "Formar a quien supervisa, no solo al agente"
+    },
+    {
+      "t": "Desvincular a un agente sin dejar trabajo huérfano ni acceso abierto"
+    }
+  ],
+  "hero_alt": "Una profesional de RR. HH. y un técnico de TI revisan una lista de verificación en una tablilla junto a una laptop; una credencial con cordón está sobre la mesa.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "El ciclo de vida de un agente",
+      "sub": "Las mismas etapas de una persona, con lo que cambia para el agente. Haz clic en cada etapa.",
+      "volta": "El cambio de modelo, herramienta o constitución vuelve a la experiencia: las acciones afectadas recomienzan en amarillo",
+      "nos": [
+        {
+          "icone": "usuario",
+          "titulo": "Incorporación",
+          "sub": "dueño y acceso mínimo",
+          "forte": true,
+          "detalhe": "Entra en el registro de agentes con cargo, dueño del negocio (no TI), quién supervisa, versión y fecha. Recibe solo los accesos que necesita, con identidad propia, nunca la contraseña de una persona."
+        },
+        {
+          "icone": "relogio",
+          "titulo": "Experiencia",
+          "sub": "empieza en amarillo",
+          "detalhe": "Como el período de prueba de una persona: casos de prueba antes de empezar, casi todo preparado para que alguien apruebe, una muestra mayor y una fecha para decidir si sigue, se ajusta o sale."
+        },
+        {
+          "icone": "grafico",
+          "titulo": "Seguimiento",
+          "sub": "revisión con fecha",
+          "detalhe": "Rutina de supervisión y revisión periódica, como la evaluación de una persona. Cada cambio queda registrado: qué, quién aprobó, cuándo, cómo volver atrás."
+        },
+        {
+          "icone": "camadas",
+          "titulo": "Cambio",
+          "sub": "de función o de modelo",
+          "detalhe": "Cambiar de modelo, de herramienta o de constitución es un cambio de función: nueva ronda de casos de prueba y las acciones afectadas vuelven al amarillo hasta que haya evidencia."
+        },
+        {
+          "icone": "x",
+          "titulo": "Desvinculación",
+          "sub": "acceso cortado, trabajo con dueño",
+          "detalhe": "Accesos y credenciales revocados el mismo día, quién asume el trabajo con fecha, qué hacer con los datos que quedaron en el proveedor, el registro guardado y el equipo avisado."
+        }
+      ],
+      "legenda": "Ciclo recomendado por INEMA, con base en el método Gestoria (niveles, registro, cambio con reversión). No sustituye la política de seguridad de la información de la empresa."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "RR. HH. de personas y agentes en la práctica",
+      "sub": "Cuatro pasos, con Hora y el resumen automático de Horizonte.",
+      "passos": [
+        {
+          "titulo": "Un agente también se incorpora",
+          "sub": "con dueño del negocio",
+          "texto": [
+            "Deloitte (Tech Trends 2026) trata a los agentes como una fuerza de trabajo que necesita onboarding en los datos y en la operación, autonomía graduada con disparadores de supervisión humana, y recuerda que los supervisores humanos también necesitan capacitación.",
+            "En la práctica, la incorporación tiene tres preguntas: quién es el dueño del resultado, qué puede acceder y con qué identidad, y quién supervisa. Sin dueño del negocio, el agente queda con TI, que no responde por el resultado comercial."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte (empresa ficticia de estudio)",
+            "texto": "En el inventario del laboratorio, el responsable de Hora es Rafael, de TI. En la incorporación retroactiva, la dueña pasa a ser Patrícia; Rafael sigue encargándose del acceso técnico."
+          }
+        },
+        {
+          "titulo": "El registro de agentes",
+          "sub": "la lista de quienes trabajan",
+          "texto": [
+            "Toda empresa sabe quién trabaja en ella. El registro de agentes es la misma lista para los agentes: nombre, función, dueño, quién supervisa, versión, accesos, fecha de entrada, próxima revisión y situación (activo, en experiencia, suspendido, desvinculado).",
+            "Empieza por el inventario de TI y agrega lo que encontró la encuesta de IA en la sombra. Un agente que no está en el registro no tiene dueño, y un agente sin dueño no tiene quién lo apague."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte",
+            "texto": "El registro empieza con Hora y el asistente de correo, que están en el inventario oficial, y con el resumen diario de atención (F10), que el inventario ni siquiera listaba. Después entran las herramientas que la encuesta encontró por su cuenta (F12)."
+          }
+        },
+        {
+          "titulo": "Forma a quien supervisa",
+          "sub": "el lado de las personas",
+          "texto": [
+            "Incorporar un agente crea trabajo nuevo para alguien: revisar una muestra, leer un paquete de excepción, decidir con el verbo correcto, apretar el botón de apagado. Ese alguien necesita ser formado, con tiempo reservado para ello.",
+            "Escribe quién supervisa a cada agente, qué aprendió esa persona y quién la reemplaza en las vacaciones. Un supervisor sin formación se vuelve un sello."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte",
+            "texto": "Juliana supervisa la cola con Patrícia. Formación: la lista de revisión de la clase 4, el paquete de excepción y el botón de apagado, probado una vez con Rafael. Suplente: Sandra."
+          }
+        },
+        {
+          "titulo": "Desvincular es un proceso",
+          "sub": "nadie queda huérfano",
+          "texto": [
+            "Dar de baja a un agente requiere los mismos cuidados que una desvinculación: cortar el acceso el mismo día, decir quién asume el trabajo y desde cuándo, decidir qué hacer con los datos que quedaron con el proveedor y guardar el registro.",
+            "El paso que más se olvida es el trabajo que hacía el agente. Si nadie lo asume, vuelve a escondidas a quien ya estaba sobrecargado, o desaparece sin que nadie lo note."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte",
+            "texto": "El resumen diario (F10) quedó suspendido hasta el cambio de proveedor. Mientras tanto, Juliana lee solo la cola de excepciones y una muestra de 20 conversaciones por día. Rafael corta el envío y le pregunta al servicio cómo borrar lo que ya se envió."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "La incorporación con la línea del registro, la desvinculación y un prompt que busca huecos. La pestaña de al lado muestra los de Horizonte.",
+      "blocos": [
+        {
+          "rot": "Incorporación de agente + línea del registro",
+          "icone": "usuario",
+          "conteudo": "INCORPORACIÓN DE AGENTE · <nombre> · <fecha>\n\n[ ] Ficha de cargo escrita (misión, entrega, prohibidos) · versión <...>\n[ ] Dueño del negocio: <nombre> (no TI) · responsable técnico: <nombre>\n[ ] Supervisor: <nombre> · formado en <revisión, paquete, botón de apagado> el <fecha>\n    · sustituto: <nombre>\n[ ] Accesos: <herramienta · leer/escribir · límite> (solo lo necesario)\n[ ] Identidad propia del agente (no usa la contraseña de nadie)\n[ ] Casos de prueba ejecutados antes de empezar: <n> · resultado <...>\n[ ] Experiencia: empieza en amarillo hasta <fecha> · muestra de <n> por <día/semana>\n[ ] Botón de apagado: quién <nombres> · probado el <fecha>\n[ ] Equipo avisado de lo que cambia (reunión del <fecha>)\n\nLÍNEA DEL REGISTRO DE AGENTES\n| Agente | Función | Dueño | Supervisor | Versión | Accesos | Entrada | Próxima revisión | Situación |\n| <nombre> | <...> | <nombre> | <nombre> | <v> | <...> | <fecha> | <fecha> | <activo / en experiencia / suspendido / desvinculado> |"
+        },
+        {
+          "rot": "Desvinculación de agente",
+          "icone": "x",
+          "conteudo": "DESVINCULACIÓN DE AGENTE · <nombre> · motivo <...> · <fecha> · decidido por <nombre>\n\n[ ] Accesos y credenciales revocados hoy: <lista> · por <nombre> · verificado por <nombre>\n[ ] Automatizaciones e integraciones detenidas: <lista>\n[ ] QUIÉN ASUME EL TRABAJO: <persona o agente> · desde <fecha>\n    · qué cambia para esa persona: <...> · acordado con ella el <fecha>\n[ ] Datos en el proveedor: <qué quedó allá> · solicitud de eliminación: <hecha / no es posible, por qué>\n[ ] Registro e historial guardados en <dónde> por <plazo>\n[ ] Registro de agentes actualizado: situación = desvinculado (o suspendido)\n[ ] Avisados: equipo <fecha> · clientes, si algo cambia para ellos <...>\n[ ] Revisión el <fecha>: ¿se está haciendo el trabajo? ¿alguien volvió a usarlo a escondidas?"
+        },
+        {
+          "rot": "Prompt · buscar huecos",
+          "icone": "chat",
+          "conteudo": "Tú revisas la incorporación o la desvinculación de un agente de IA en una\nempresa. No decidas nada: señala los huecos.\n\n1. ¿Hay un dueño del negocio con nombre (no solo TI)?\n2. ¿Algún acceso es mayor que el necesario, o usa la credencial de una\n   persona?\n3. ¿Quien supervisa fue formado y tiene sustituto?\n4. En la desvinculación: ¿quién asume el trabajo, desde cuándo, y esa\n   persona fue consultada?\n5. ¿Qué pasa con los datos que quedaron con el proveedor?\n\nDocumento:\n\"\"\"<pega aquí>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Hora y resumen diario (ejemplo)",
+            "html": "<p><b>Incorporación retroactiva · Hora · 05/11</b> · Horizonte, empresa ficticia de estudio</p><ul><li><b>Dueña:</b> Patrícia (antes: Rafael, en el inventario) · responsable técnico: Rafael.</li><li><b>Supervisora:</b> Juliana, formada en la lista de revisión, en el paquete de excepción y en el botón de apagado · sustituta: Sandra.</li><li><b>Accesos:</b> catálogo (leer) · registro del cliente de la conversación (leer) · app de pedidos (escribir hasta R$ 5 mil y 5%) · identidad propia.</li><li><b>Experiencia:</b> muestra de 20 conversaciones por semana hasta el 04/12.</li></ul><p><b>Desvinculación (suspensión) · resumen diario de atención · F10</b></p><ul><li><b>Motivo:</b> conversaciones con CPF y dirección en un servicio gratuito fuera de Brasil, sin contrato.</li><li><b>Detenido:</b> la automatización de las 18 h, por Rafael, verificado por Patrícia.</li><li><b>Quién asume:</b> Juliana lee la cola de excepciones y 20 conversaciones por día, acordado con ella; lo que no alcance sube a Patrícia.</li><li><b>Datos en el proveedor:</b> Rafael pide la eliminación y registra la respuesta.</li><li><b>Registro:</b> situación = suspendido hasta el cambio de proveedor.</li></ul>"
+          },
+          {
+            "rot": "Cómo verificar / errores comunes",
+            "html": "<ol><li><b>Dueño de TI.</b> TI cuida el acceso; el resultado es de quien responde por el proceso.</li><li><b>Contraseña prestada.</b> Un agente que usa la cuenta de una persona no tiene registro propio y no se da de baja sin dar de baja a la persona.</li><li><b>Supervisor sin formación.</b> Se vuelve un sello de aprobación.</li><li><b>Trabajo huérfano.</b> Se dio de baja al agente y nadie asumió: el trabajo vuelve a escondidas o desaparece.</li><li><b>Olvidar al proveedor.</b> Los datos que quedaron allá siguen allá hasta que alguien pida borrarlos.</li></ol>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Incorpora a Hora y apaga el resumen automático; después haz el registro de los agentes de tu área.",
+      "fonte": "Piezas del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">inventario de TI</a> y <a href=\"https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/\">resumen de atención (F10)</a>.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Incorporar a Hora, apagar el resumen",
+          "min": "30 min",
+          "texto": "Haz la incorporación retroactiva de Hora con el modelo. Después haz la desvinculación (suspensión) del resumen diario de atención, que manda conversaciones a un servicio gratuito sin contrato. Arma el registro de agentes de Horizonte con lo que muestran el inventario y la encuesta. Ejecuta el prompt en los dos documentos.",
+          "pronto": "la incorporación tiene dueña del negocio, supervisora formada con sustituta y accesos con límite; la desvinculación dice quién asume la lectura de las conversaciones, desde cuándo y qué pasa con los datos en el proveedor; y el registro tiene al menos 3 agentes o automatizaciones, cada uno con dueño y situación."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · El registro de tu área",
+          "min": "40 min",
+          "texto": "Lista los agentes y automatizaciones de IA de tu área, incluidos los que el equipo usa por su cuenta. Arma el registro. Elige uno de ellos y haz la incorporación completa (o la desvinculación, si corresponde).",
+          "pronto": "el registro tiene todos los agentes que conoces, cada uno con dueño y situación, hay al menos un checklist completo, y cada supervisor nombrado tiene sustituto."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "En el inventario, el responsable de Hora es Rafael, de TI. ¿Qué cambia con la incorporación?",
+          "opcoes": [
+            "Nada: TI conoce mejor el sistema de Hora",
+            "Carlos pasa a ser el dueño, porque es quien responde por toda la empresa",
+            "Patrícia pasa a ser la responsable; Rafael se queda con el acceso técnico"
+          ],
+          "certa": 2,
+          "ref": "passos",
+          "explica": "Quien responde por el resultado comercial es quien tiene la autoridad comercial. TI cuida el acceso, no el descuento que dio Hora."
+        },
+        {
+          "p": "¿Cuál es el paso que más se olvida al dar de baja a un agente?",
+          "opcoes": [
+            "Avisar al proveedor que el contrato terminó y pedir la factura final",
+            "Decir quién asume el trabajo y desde cuándo",
+            "Borrar al agente del registro de agentes"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Sin sucesión, el trabajo vuelve a escondidas a alguien sobrecargado o desaparece. En el caso del resumen diario, Juliana asumió una lectura menor, acordada con ella."
+        },
+        {
+          "p": "¿Por qué el agente necesita identidad propia y no la contraseña de alguien?",
+          "opcoes": [
+            "Para tener registro y límite propios y poder desvincularlo por separado",
+            "Porque la contraseña de una persona le cuesta más cara a la empresa",
+            "Para que el agente gane más autonomía con el paso del tiempo"
+          ],
+          "certa": 0,
+          "ref": "diagrama",
+          "explica": "Con la cuenta de una persona, todo lo que hace el agente parece hecho por ella, y cortarle el acceso al agente le corta el suyo a ella."
+        },
+        {
+          "p": "Horizonte cambió el modelo de Hora. ¿Qué pasa en el ciclo de vida?",
+          "opcoes": [
+            "Nada: sigue siendo el mismo agente, solo con un modelo más nuevo",
+            "Casos de prueba de nuevo y acciones afectadas en amarillo",
+            "Desvincular a Hora e incorporar un agente nuevo desde cero"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Cambiar de modelo, herramienta o constitución puede cambiar el comportamiento. Vuelve a la experiencia, no a cero."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Incorporación",
+          "texto": "Dueño del negocio, acceso mínimo, identidad propia, experiencia en amarillo."
+        },
+        {
+          "t": "Registro de agentes",
+          "texto": "La lista de quienes trabajan, ahora con los agentes, cada uno con dueño y situación."
+        },
+        {
+          "t": "Supervisor formado",
+          "texto": "Quien supervisa aprende, tiene tiempo y tiene reemplazo."
+        },
+        {
+          "t": "Desvinculación",
+          "texto": "Acceso cortado el mismo día, trabajo con dueño, datos en el proveedor tratados."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir más allá",
+      "links": [
+        {
+          "t": "Laboratorio Horizonte: inventario de TI (empresa ficticia de estudio)",
+          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "icone": "lista"
+        },
+        {
+          "t": "G4 · Recursos: IA en la sombra y acceso mínimo",
+          "href": "https://inematds.github.io/gestao-ia-recursos-v72/",
+          "icone": "cadeado"
+        },
+        {
+          "t": "G3 · Agentes: el cargo digital",
+          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "icone": "usuario"
+        }
+      ]
+    }
+  ]
+}

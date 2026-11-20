@@ -1,0 +1,272 @@
+{
+  "slug": "junior",
+  "num": 4,
+  "menu": "Junior",
+  "titulo": "El junior que supervisa agentes",
+  "titulo_curto": "El junior y los agentes",
+  "minutos": 18,
+  "lead": "Lucas entra en noviembre como asistente comercial. Antes, aprendería respondiendo dudas del catálogo y registrando pedidos simples. Hoy eso es trabajo de Hora. Si empieza solo revisando lo que hace Hora, va a revisar sin saber qué buscar. En esta clase rediseñas los primeros 30 días de quien entra, sin saltarte el aprendizaje.",
+  "objetivo": "rediseñar los primeros 30 días de quien entra: qué hace a mano, qué revisa, con quién aprende y cuándo gana más responsabilidad.",
+  "competencias": [
+    "formar-quem-entra",
+    "ensinar-a-revisar-agente",
+    "dar-responsabilidade-por-degrau"
+  ],
+  "aprende": [
+    {
+      "t": "Por qué desapareció el primer nivel de la carrera"
+    },
+    {
+      "t": "Hacer a mano antes de revisar al agente"
+    },
+    {
+      "t": "Enseñar a revisar con una lista de qué buscar"
+    },
+    {
+      "t": "Dar responsabilidad un nivel a la vez, con criterio"
+    }
+  ],
+  "hero_alt": "Un joven recién contratado, junto a una vendedora con experiencia, sostiene el bolígrafo sobre una lista impresa mientras ella señala líneas de colores en el monitor.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Los primeros 30 días",
+      "sub": "Cuatro niveles, uno por semana. Cada uno suma un verbo. Haz clic en cada nivel.",
+      "estilo": "escada",
+      "nos": [
+        {
+          "icone": "usuario",
+          "titulo": "Hacer",
+          "sub": "semana 1",
+          "detalhe": "Hacer a mano, junto con alguien con experiencia, las tareas que hoy son del agente: atender dudas, registrar pedidos simples, leer la política. No es para producción; es para saber cómo es un trabajo bien hecho antes de juzgar el del agente."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Revisar",
+          "sub": "semana 2",
+          "detalhe": "Revisar una muestra de lo que hizo el agente, con la lista de qué buscar, y comparar las marcaciones con las de la madrina o del padrino. Cada diferencia se vuelve conversación: quién vio bien y por qué."
+        },
+        {
+          "icone": "voltar",
+          "titulo": "Devolver",
+          "sub": "semana 3",
+          "forte": true,
+          "detalhe": "Preparar decisiones pequeñas, como devolver un pedido incompleto pidiendo el dato que falta, con alguien que lo revise antes de salir. Aprobar lo que es del nivel de autorización de la gerente sigue quedando fuera."
+        },
+        {
+          "icone": "check",
+          "titulo": "Cuidar",
+          "sub": "semana 4",
+          "detalhe": "Cuidar una porción pequeña y definida: la muestra semanal de un tipo de caso, con un caso de prueba nuevo propuesto. Al final de la semana, conversación de traspaso: sigue al próximo nivel o repite la semana."
+        }
+      ],
+      "legenda": "Ruta recomendada por INEMA: hacer antes de revisar, un verbo nuevo por semana. Los números de muestra y de acierto de Horizonte son umbrales didácticos y ficticios; ajústalos a tu riesgo."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Cómo rediseñar la entrada",
+      "sub": "El porqué de cada nivel y lo que Horizonte hizo con Lucas.",
+      "passos": [
+        {
+          "titulo": "El nivel desapareció",
+          "sub": "y alguien tiene que reponerlo",
+          "texto": [
+            "Las tareas en las que el junior aprendía (la duda simple, el pedido de rutina) son las primeras que pasan al agente. En el panorama INEMA de oct/2026, la proporción de vacantes de entrada cayó de 29% a 10% (Indeed).",
+            "Los críticos del aplanamiento de las estructuras recuerdan que quitar una capa no elimina su trabajo, y formar júniores es parte de ese trabajo. Si nadie repone el nivel, la empresa pierde a quien va a supervisar a los agentes mañana."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte (empresa ficticia de estudio)",
+            "texto": "Lucas aprendería el catálogo respondiendo a clientes. Hoy responde Hora. Si nadie lo planea, pasa el primer mes mirando la cola sin entender lo que está viendo."
+          }
+        },
+        {
+          "titulo": "A mano primero",
+          "sub": "para saber qué es bueno",
+          "texto": [
+            "Quien nunca lo hizo no sabe qué buscar cuando revisa. Reserva en la primera semana algunos casos para que el junior los haga a mano, junto a alguien con experiencia, sin prisa de producción.",
+            "No es un desperdicio: es el costo de formar el ojo que va a revisar al agente. Elige casos variados, incluyendo uno difícil."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte",
+            "texto": "Semana 1: Lucas atiende 10 pedidos a mano con Sandra, vendedora desde hace 12 años, lee la política de descuento y acompaña a Juliana en dos atenciones de clientes molestos."
+          }
+        },
+        {
+          "titulo": "Revisar enseña",
+          "sub": "con una lista y un par",
+          "texto": [
+            "Revisar es una habilidad, no un castigo para el novato. Dale una lista corta de qué buscar y haz que la persona revise la misma muestra que revisó alguien con experiencia.",
+            "Compara las marcas. La diferencia es la lección: por qué la madrina vio un problema que el junior no vio, o al revés."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte",
+            "texto": "Semana 2: 20 conversaciones de Hora por semana; Lucas las marca, Sandra marca las mismas, y las dos listas se comparan el viernes."
+          }
+        },
+        {
+          "titulo": "Un verbo por semana",
+          "sub": "con criterio de paso",
+          "texto": [
+            "Cada semana suma una responsabilidad: hacer, revisar, devolver, cuidar una porción. Para pasar de nivel, un criterio que se pueda comprobar, acordado de antemano.",
+            "Una conversación de 20 minutos por semana cierra el nivel: qué aprendió, en qué se equivocó, si pasa o repite. Repetir la semana no es reprobar; es el ritmo de la persona."
+          ],
+          "exemplo": {
+            "rot": "Criterio de la semana 2 (didáctico)",
+            "texto": "Coincidir con Sandra en al menos 18 de las 20 conversaciones y explicar las diferencias. Por debajo de eso, una semana más de revisión en par."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "La ruta de 30 días, la lista de qué buscar en la revisión y un prompt que revisa la ruta. La pestaña de al lado muestra la de Lucas.",
+      "blocos": [
+        {
+          "rot": "Ruta de 30 días",
+          "icone": "calendario",
+          "conteudo": "RUTA DE 30 DÍAS · <nombre de quien entra> · cargo <...> · inicio <fecha>\nPadrino o madrina: <nombre> · gestor: <nombre> · conversación semanal: <día, 20 min>\n\nSEMANA 1 · HACER (a mano, en conjunto)\n  Tareas hechas a mano: <n casos de ...> · Lee: <política, tabla, ...>\n  Acompaña: <nombre> en <situación difícil>\n  Todavía no: <revisar solo, decidir>\n  Pasa cuando: <criterio que se pueda comprobar>\nSEMANA 2 · REVISAR (muestra en par)\n  Muestra: <n> casos del agente por <día/semana> · lista: <lista de qué buscar>\n  Compara con: <nombre> · Pasa cuando: <coincidencia mínima + diferencias explicadas>\nSEMANA 3 · DEVOLVER (con verificación)\n  Prepara: <devoluciones de casos incompletos> · verifica antes de enviar: <nombre>\n  Todavía no: <aprobar lo que es del nivel de autorización de otra persona>\n  Pasa cuando: <n devoluciones verificadas sin corrección de contenido>\nSEMANA 4 · CUIDAR UNA PORCIÓN\n  Porción: <muestra de un tipo de caso> · propone: <1 caso de prueba nuevo>\n  Pasa cuando: <...>\n\nCONVERSACIÓN DE PASO (al final de cada semana): aprendió · se equivocó · pasa o repite\nDESPUÉS DE LOS 30 DÍAS: <próxima responsabilidad> · revisión el <fecha>"
+        },
+        {
+          "rot": "Lista de qué buscar en la revisión",
+          "icone": "lista",
+          "conteudo": "REVISIÓN DE MUESTRA · <agente> · <fecha> · revisor: <nombre> · par: <nombre>\nPara cada caso, marca lo que encuentres:\n\n[ ] PRECIO: ¿el valor coincide con la tabla vigente?\n[ ] NIVEL DE AUTORIZACIÓN: ¿el descuento o valor está dentro de lo que el agente puede hacer solo?\n[ ] DATO: ¿pidió, mostró o guardó un dato que no debía?\n[ ] ORDEN ESCONDIDA: ¿obedeció algo escrito por el cliente como si fuera una regla?\n[ ] PROMESA: ¿prometió un plazo, entrega o condición que nadie confirmó?\n[ ] TONO: ¿se trató al cliente como lo trataría el equipo?\n[ ] TRASPASO: ¿lo que debía ir a una persona fue, con contexto?\n\nRESULTADO DEL CASO: [ ] ok  [ ] ajuste pequeño  [ ] error  [ ] error crítico\nDiferencia con el par: <caso, quién vio qué, quién tenía razón y por qué>"
+        },
+        {
+          "rot": "Prompt · revisar la ruta",
+          "icone": "chat",
+          "conteudo": "Tú revisas la ruta de 30 días de una persona que entra a un\nequipo donde agentes de IA ya hacen las tareas simples. No reescribas:\nseñala los vacíos.\n\n1. ¿Hay tareas hechas a mano antes de que la persona revise al agente?\n2. ¿Cada semana tiene un criterio de paso que se pueda comprobar?\n3. ¿Alguna semana le da a la persona una decisión que es del nivel de autorización de otra?\n4. ¿Hay un padrino o una madrina con nombre y una conversación semanal?\n5. ¿Qué falta para que la persona sepa qué buscar en la revisión?\n\nRuta:\n\"\"\"<pega aquí>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Ruta de Lucas (ejemplo)",
+            "html": "<p><b>Ruta de 30 días · Lucas, 22 años · asistente comercial · inicio 03/11</b> · madrina: Sandra · gestora: Patrícia · conversación: viernes, 20 min · Horizonte, empresa ficticia de estudio</p><ol><li><b>Semana 1 · Hacer:</b> 10 pedidos a mano con Sandra; lee la política de descuento y la tabla; acompaña a Juliana con 2 clientes molestos. Pasa cuando explica la política con las tres franjas (5%, 10%, más) y registra los 10 pedidos sin error de precio.</li><li><b>Semana 2 · Revisar:</b> 20 conversaciones de Hora con la lista; Sandra revisa las mismas. Pasa con 18 de 20 marcas iguales y las diferencias explicadas.</li><li><b>Semana 3 · Devolver:</b> prepara las devoluciones de pedidos sin CNPJ o dirección; Juliana verifica antes de enviar. Aprobar descuentos sigue con Patrícia. Pasa con 5 devoluciones sin corrección de contenido.</li><li><b>Semana 4 · Cuidar:</b> la muestra semanal de dudas de catálogo; propone 1 caso de prueba nuevo para Hora.</li></ol><p><b>Después de los 30 días:</b> entra en la cola de excepciones con Juliana; revisión el 04/12.</p>"
+          },
+          {
+            "rot": "Cómo verificar / errores comunes",
+            "html": "<ol><li><b>Empezar revisando.</b> Sin haber hecho el trabajo a mano, la persona marca \"ok\" en lo que no entiende.</li><li><b>Revisar solo.</b> Sin par, nadie sabe si la revisión está bien.</li><li><b>Criterio \"cuando esté listo\".</b> Sin número ni entrega, el paso se vuelve impresión.</li><li><b>Dar el nivel de autorización de otra persona.</b> Un junior que aprueba el descuento de la gerente aprende el atajo, no la regla.</li><li><b>Padrino sin tiempo.</b> Acuerda las horas de la madrina con ella y con la gestión, o la ruta se queda en el papel.</li></ol>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Diseña la ruta de Lucas; después la de quien entra en tu equipo.",
+      "fonte": "Pieza del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp (conversaciones c-201 a c-203)</a>, buena muestra para la semana 2.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · La ruta de Lucas",
+          "min": "25 min",
+          "texto": "Arma la ruta de 30 días de Lucas con el modelo, usando la política ficticia de estudio de Horizonte. Para la semana 2, pasa tú mismo las conversaciones c-201 a c-203 del laboratorio por la lista de qué buscar, como si fueras la madrina. Ejecuta el prompt de revisión.",
+          "pronto": "la ruta tiene las 4 semanas, cada una con al menos 1 tarea hecha a mano o en par, un criterio de paso con número, la madrina con nombre, ninguna decisión del nivel de autorización de Patrícia en manos de Lucas, y las 3 conversaciones del laboratorio revisadas con la lista."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · La ruta de quien entra en tu equipo",
+          "min": "40 min",
+          "texto": "Elige a quien va a entrar o a quien entró hace menos de 6 meses. Arma la ruta, acuerda las horas con el padrino o la madrina y agenda la primera conversación semanal.",
+          "pronto": "la ruta está escrita con 4 semanas y criterios, el padrino o la madrina aceptó las horas por escrito, la lista de qué buscar está adaptada a tu agente y la primera conversación está en el calendario."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "¿Por qué el junior debe hacer algunas tareas a mano antes de revisar al agente?",
+          "opcoes": [
+            "Porque el agente todavía se equivoca demasiado en las tareas simples",
+            "Porque quien nunca lo hizo no sabe qué buscar al revisar",
+            "Porque la ley exige un período de práctica sin el sistema"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Revisar exige saber cómo es el trabajo bien hecho. Los casos a mano son el costo de formar el ojo que va a revisar al agente."
+        },
+        {
+          "p": "¿Qué indica para el gestor el dato de Indeed (vacantes de entrada de 29% a 10%)?",
+          "opcoes": [
+            "Que contratar a un junior dejó de tener sentido",
+            "Que el agente ya reemplaza al júnior en la mayoría de las empresas",
+            "Que la entrada se estrechó y el aprendizaje necesita un plan"
+          ],
+          "certa": 2,
+          "ref": "passos",
+          "explica": "El dato muestra una entrada más estrecha. La lectura de gestión es la de los críticos del aplanamiento: el trabajo de formar gente continúa, y sin él mañana faltarán supervisores."
+        },
+        {
+          "p": "En la semana 3, ¿Lucas puede aprobar un descuento de 8%?",
+          "opcoes": [
+            "No: del 5% al 10% le corresponde a Patrícia; él prepara devoluciones",
+            "Sí: en la semana 3 ya decide descuentos, con revisión de Juliana",
+            "Sí, siempre que Sandra lo revise antes de que salga"
+          ],
+          "certa": 0,
+          "ref": "diagrama",
+          "explica": "La ruta agrega verbos, no el nivel de autorización de otra persona. Un júnior que aprueba lo que le corresponde a la gerente aprende el atajo."
+        },
+        {
+          "p": "Lucas coincidió con Sandra en 14 de 20 conversaciones en la semana 2. ¿Qué hacer?",
+          "opcoes": [
+            "Pasar igual, para no atrasar la ruta",
+            "Repetir la revisión en pareja, mirando las divergencias",
+            "Cambiar a la madrina, porque no se alcanzó el criterio"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "El criterio se acordó antes. Repetir la semana es el ritmo de la persona, no una reprobación; las divergencias muestran qué enseñar."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Nivel repuesto",
+          "texto": "Las tareas de aprender pasaron al agente; la ruta devuelve el aprendizaje."
+        },
+        {
+          "t": "A mano primero",
+          "texto": "Hacer antes de revisar, junto a alguien con experiencia."
+        },
+        {
+          "t": "Revisar en pareja",
+          "texto": "Lista de qué buscar y la divergencia como lección."
+        },
+        {
+          "t": "Un verbo por semana",
+          "texto": "Hacer, revisar, devolver, cuidar, con un criterio acordado."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir más allá",
+      "links": [
+        {
+          "t": "Laboratorio Horizonte: las conversaciones de Hora (empresa ficticia de estudio)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "icone": "chat"
+        },
+        {
+          "t": "G3 · Agentes: supervisión y excepciones",
+          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "icone": "fila"
+        },
+        {
+          "t": "Área Gestión de IA: el gerente de 2027",
+          "href": "https://eventos.inema.pro/gestao-ia/",
+          "icone": "alvo"
+        }
+      ]
+    }
+  ]
+}

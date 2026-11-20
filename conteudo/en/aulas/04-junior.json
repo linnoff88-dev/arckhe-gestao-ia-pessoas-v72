@@ -1,0 +1,272 @@
+{
+  "slug": "junior",
+  "num": 4,
+  "menu": "Junior",
+  "titulo": "The junior who supervises agents",
+  "titulo_curto": "The junior and the agents",
+  "minutos": 18,
+  "lead": "Lucas joins in November as a sales assistant. Before, he would have learned by answering catalog questions and entering simple orders. Today that is Hora's work. If he starts out only reviewing what Hora does, he will review without knowing what to look for. In this lesson you redesign the first 30 days of a new hire, without skipping the learning.",
+  "objetivo": "redesign the first 30 days of a new hire: what they do by hand, what they review, who they learn with, and when they get more responsibility.",
+  "competencias": [
+    "formar-quem-entra",
+    "ensinar-a-revisar-agente",
+    "dar-responsabilidade-por-degrau"
+  ],
+  "aprende": [
+    {
+      "t": "Why the first step of the career ladder disappeared"
+    },
+    {
+      "t": "Do it by hand before reviewing the agent"
+    },
+    {
+      "t": "Teach reviewing with a list of what to look for"
+    },
+    {
+      "t": "Give responsibility one step at a time, with a clear criterion"
+    }
+  ],
+  "hero_alt": "A recently hired young man, next to an experienced saleswoman, holds a pen over a printed list while she points to colored lines on the monitor.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The first 30 days",
+      "sub": "Four steps, one per week. Each one adds a verb. Click each step.",
+      "estilo": "escada",
+      "nos": [
+        {
+          "icone": "usuario",
+          "titulo": "Do",
+          "sub": "week 1",
+          "detalhe": "Do by hand, together with someone experienced, the tasks that today belong to the agent: answering questions, entering simple orders, reading the policy. This is not for production; it is to learn what well-done work looks like before judging the agent's work."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Review",
+          "sub": "week 2",
+          "detalhe": "Review a sample of what the agent did, with the list of what to look for, and compare your marks with those of the mentor. Each disagreement becomes a conversation: who saw it right and why."
+        },
+        {
+          "icone": "voltar",
+          "titulo": "Send back",
+          "sub": "week 3",
+          "forte": true,
+          "detalhe": "Prepare small decisions, such as sending back an incomplete order asking for the missing data, with someone checking before it goes out. Approving what falls within the manager's authority limit stays out."
+        },
+        {
+          "icone": "check",
+          "titulo": "Take care of",
+          "sub": "week 4",
+          "detalhe": "Take care of a small, defined slice: the weekly sample of one type of case, with a new test case proposed. At the end of the week, a handoff conversation: move on to the next step or repeat the week."
+        }
+      ],
+      "legenda": "Path recommended by INEMA: do before reviewing, one new verb per week. The sample and hit-rate numbers at Horizonte are didactic, fictional thresholds; adjust them to your risk."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "How to redesign the entry path",
+      "sub": "The reason for each step and what Horizonte did with Lucas.",
+      "passos": [
+        {
+          "titulo": "The step disappeared",
+          "sub": "and someone needs to put it back",
+          "texto": [
+            "The tasks where the junior used to learn (the simple question, the routine order) are the first ones to go to the agent. In the INEMA overview of Oct/2026, the share of entry-level openings fell from 29% to 10% (Indeed).",
+            "Critics of flattened structures remind us that removing a layer does not eliminate its work, and training juniors is part of that work. If no one puts the step back, the company loses the people who will supervise the agents tomorrow."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte (fictional study company)",
+            "texto": "Lucas would have learned the catalog by answering customers. Today Hora answers. If no one plans for it, he spends the first month watching the queue without understanding what he is seeing."
+          }
+        },
+        {
+          "titulo": "By hand first",
+          "sub": "to know what good looks like",
+          "texto": [
+            "Someone who has never done it doesn't know what to look for when reviewing. In the first week, set aside a few cases for the junior to do by hand, next to someone experienced, with no production pressure.",
+            "It is not a waste: it is the cost of training the eye that will check the agent. Choose varied cases, including a hard one."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "Week 1: Lucas handles 10 orders by hand with Sandra, a salesperson for 12 years, reads the discount policy and sits in on two of Juliana's calls with an angry customer."
+          }
+        },
+        {
+          "titulo": "Review that teaches",
+          "sub": "with a checklist and a partner",
+          "texto": [
+            "Reviewing is a skill, not a punishment for the newcomer. Give a short list of what to look for and have the person review the same sample that an experienced colleague reviewed.",
+            "Compare the markings. The disagreement is the lesson: why the mentor saw a problem the junior did not see, or the other way around."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "Week 2: 20 Hora conversations per week; Lucas marks them, Sandra marks the same ones, and the two lists are compared on Friday."
+          }
+        },
+        {
+          "titulo": "One verb per week",
+          "sub": "with a passing criterion",
+          "texto": [
+            "Each week adds one responsibility: do, review, send back, take care of a slice. To move up a step, use a criterion you can check, agreed on beforehand.",
+            "A 20-minute conversation each week closes the step: what they learned, what they got wrong, whether they pass or repeat. Repeating the week is not failing; it is the person's own pace."
+          ],
+          "exemplo": {
+            "rot": "Week 2 criterion (teaching example)",
+            "texto": "Agree with Sandra on at least 18 of the 20 conversations and explain the disagreements. Below that, one more week of paired review."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The 30-day path, the list of what to look for in the review, and a prompt that reviews the path. The tab next to it shows Lucas's.",
+      "blocos": [
+        {
+          "rot": "30-day path",
+          "icone": "calendario",
+          "conteudo": "30-DAY PATH · <name of the person joining> · role <...> · start <date>\nMentor: <name> · manager: <name> · weekly conversation: <day, 20 min>\n\nWEEK 1 · DO (by hand, together)\n  Tasks done by hand: <n cases of ...> · Reads: <policy, table, ...>\n  Sits in with: <name> on <hard situation>\n  Not yet: <reviewing alone, deciding>\n  Passes when: <criterion you can check>\nWEEK 2 · REVIEW (paired sample)\n  Sample: <n> agent cases per <day/week> · list: <list of what to look for>\n  Compares with: <name> · Passes when: <minimum agreement + disagreements explained>\nWEEK 3 · SEND BACK (with a check)\n  Prepares: <send-backs of incomplete cases> · checks before sending: <name>\n  Not yet: <approving what is another person's authority limit>\n  Passes when: <n send-backs checked with no content corrections>\nWEEK 4 · TAKE CARE OF A SLICE\n  Slice: <sample of one type of case> · proposes: <1 new test case>\n  Passes when: <...>\n\nHAND-OFF CONVERSATION (end of each week): learned · got wrong · passes or repeats\nAFTER 30 DAYS: <next responsibility> · review on <date>"
+        },
+        {
+          "rot": "List of what to look for in the review",
+          "icone": "lista",
+          "conteudo": "SAMPLE REVIEW · <agent> · <date> · reviewer: <name> · partner: <name>\nFor each case, mark what you find:\n\n[ ] PRICE: does the amount match the current table?\n[ ] AUTHORITY LIMIT: is the discount or amount within what the agent can do alone?\n[ ] DATA: did it ask for, show or store data it should not have?\n[ ] HIDDEN ORDER: did it obey something written by the customer as if it were a rule?\n[ ] PROMISE: did it promise a deadline, delivery or condition that nobody confirmed?\n[ ] TONE: was the customer treated the way the team would treat them?\n[ ] HAND-OFF: what should have gone to a person did go, with context?\n\nCASE RESULT: [ ] ok  [ ] small adjustment  [ ] error  [ ] critical error\nDisagreement with partner: <case, who saw what, who was right and why>"
+        },
+        {
+          "rot": "Prompt · review the path",
+          "icone": "chat",
+          "conteudo": "You are reviewing the 30-day path of a person who is joining a\nteam where AI agents already do the simple tasks. Do not rewrite:\npoint out gaps.\n\n1. Are there tasks done by hand before the person reviews the agent?\n2. Does each week have a passing criterion that can be checked?\n3. Does any week give the person a decision that belongs to someone else's authority limit?\n4. Is there a mentor with a name and a weekly conversation?\n5. What is missing for the person to know what to look for in the review?\n\nPath:\n\"\"\"<paste here>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Lucas's path (example)",
+            "html": "<p><b>30-day path · Lucas, 22 years old · sales assistant · start 03/11</b> · mentor: Sandra · manager: Patrícia · conversation: Friday, 20 min · Horizonte, fictional study company</p><ol><li><b>Week 1 · Do:</b> 10 orders by hand with Sandra; reads the discount policy and the table; sits in with Juliana on 2 angry customers. Passes when he explains the policy with its three tiers (5%, 10%, above) and enters the 10 orders with no price errors.</li><li><b>Week 2 · Review:</b> 20 Hora conversations with the list; Sandra reviews the same ones. Passes with 18 of 20 markings matching and the disagreements explained.</li><li><b>Week 3 · Send back:</b> prepares the send-backs for orders missing a CNPJ or address; Juliana checks before they go out. Approving a discount stays with Patrícia. Passes with 5 send-backs with no content corrections.</li><li><b>Week 4 · Take care:</b> the weekly sample of catalog questions; proposes 1 new test case for Hora.</li></ol><p><b>After 30 days:</b> joins the exception queue with Juliana; review on 04/12.</p>"
+          },
+          {
+            "rot": "How to check / common mistakes",
+            "html": "<ol><li><b>Starting with review.</b> Without having done it by hand, the person marks \"ok\" on what they do not understand.</li><li><b>Reviewing alone.</b> Without a partner, nobody knows whether the review is any good.</li><li><b>A \"when they are ready\" criterion.</b> Without a number or a deliverable, passing becomes a feeling.</li><li><b>Giving someone else's authority limit.</b> A junior who approves the manager's discount learns the shortcut, not the rule.</li><li><b>A mentor with no time.</b> Agree on the mentor's hours with them and with management, or the path stays on paper.</li></ol>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Design Lucas's path; then the path for the person joining your team.",
+      "fonte": "Lab piece: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">WhatsApp agent (conversations c-201 to c-203)</a>, a good sample for week 2.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Lucas's path",
+          "min": "25 min",
+          "texto": "Build Lucas's 30-day path with the template, using Horizonte's fictional study policy. For week 2, run lab conversations c-201 to c-203 through the list of what to look for yourself, as if you were the mentor. Run the review prompt.",
+          "pronto": "the path has all 4 weeks, each with at least 1 task done by hand or in a pair, a passing criterion with a number, the mentor by name, no decision within Patrícia's authority limit in Lucas's hands, and the 3 lab conversations reviewed with the list."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · The path for the person joining your team",
+          "min": "40 min",
+          "texto": "Choose who is about to join or who joined less than 6 months ago. Build the path, agree on the hours with the mentor, and schedule the first weekly conversation.",
+          "pronto": "the path is written with 4 weeks and criteria, the mentor accepted the hours in writing, the list of what to look for is adapted to your agent, and the first conversation is on the calendar."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "Why should the junior do some tasks by hand before reviewing the agent?",
+          "opcoes": [
+            "Because the agent still makes too many mistakes on simple tasks",
+            "Because someone who has never done it doesn't know what to look for when reviewing",
+            "Because the law requires a training period without the system"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Reviewing requires knowing what good work looks like. The hand-done cases are the cost of training the eye that will check the agent."
+        },
+        {
+          "p": "What does the Indeed data (entry-level openings falling from 29% to 10%) tell the manager?",
+          "opcoes": [
+            "That hiring juniors no longer makes sense",
+            "That the agent already replaces the junior at most companies",
+            "That the way in has narrowed and learning needs a plan"
+          ],
+          "certa": 2,
+          "ref": "passos",
+          "explica": "The data shows a narrower entry point. The management reading is the one from the critics of flattening: the work of training people continues, and without it there will be no supervisors tomorrow."
+        },
+        {
+          "p": "In week 3, can Lucas approve an 8% discount?",
+          "opcoes": [
+            "No: 5% to 10% is Patrícia's call; he prepares returns",
+            "Yes: in week 3 he already decides discounts, with Juliana checking",
+            "Yes, as long as Sandra checks it before it goes out"
+          ],
+          "certa": 0,
+          "ref": "diagrama",
+          "explica": "The path adds verbs, not another person's authority limit. A junior who approves what belongs to the manager learns the shortcut."
+        },
+        {
+          "p": "Lucas agreed with Sandra in 14 of 20 conversations in week 2. What should you do?",
+          "opcoes": [
+            "Pass anyway, so the 30-day path doesn't fall behind",
+            "Repeat the paired review, looking at the differences",
+            "Change the mentor, because the criterion was not met"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "The criterion was agreed on beforehand. Repeating the week is the person's pace, not a failure; the disagreements show what to teach."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Step restored",
+          "texto": "The learning tasks went to the agent; the path gives the learning back."
+        },
+        {
+          "t": "By hand first",
+          "texto": "Do the work before reviewing it, alongside someone experienced."
+        },
+        {
+          "t": "Paired review",
+          "texto": "A list of what to look for, and disagreement as a lesson."
+        },
+        {
+          "t": "One verb per week",
+          "texto": "Do, review, send back, look after, with an agreed criterion."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "Horizonte Lab: Hora's conversations (fictional study company)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "icone": "chat"
+        },
+        {
+          "t": "G3 · Agents: supervision and exceptions",
+          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "icone": "fila"
+        },
+        {
+          "t": "AI Management Area: the manager of 2027",
+          "href": "https://eventos.inema.pro/gestao-ia/",
+          "icone": "alvo"
+        }
+      ]
+    }
+  ]
+}

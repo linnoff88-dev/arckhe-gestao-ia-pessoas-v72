@@ -1,0 +1,1034 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.690
+In 2025, an OpenAI engineer was 8 times more likely to move to Anthropic
+
+2
+00:00:03.740 --> 00:00:04.770
+than the other way around,
+
+3
+00:00:04.820 --> 00:00:06.510
+and the reason might not be salary.
+
+4
+00:00:06.843 --> 00:00:07.933
+For DeepMind, the ratio was almost eleven
+
+5
+00:00:07.933 --> 00:00:08.393
+to one.
+
+6
+00:00:08.393 --> 00:00:09.213
+In this video,
+
+7
+00:00:09.213 --> 00:00:10.393
+I want to show what Anthropic is
+
+8
+00:00:10.393 --> 00:00:12.213
+doing differently, both with people and with
+
+9
+00:00:12.213 --> 00:00:12.813
+AI itself.
+
+10
+00:00:12.813 --> 00:00:14.413
+And why that points to what successful
+
+11
+00:00:14.413 --> 00:00:16.553
+companies will look like in 2027.
+
+12
+00:00:16.553 --> 00:00:19.153
+These numbers come from SignalFire’s 2025 talent
+
+13
+00:00:19.153 --> 00:00:19.693
+report.
+
+14
+00:00:19.693 --> 00:00:21.053
+They also measured retention:
+
+15
+00:00:21.053 --> 00:00:22.033
+of the people hired,
+
+16
+00:00:22.033 --> 00:00:23.363
+how many were still at the company
+
+17
+00:00:23.363 --> 00:00:23.873
+two years later.
+
+18
+00:00:23.873 --> 00:00:24.840
+Anthropic,
+
+19
+00:00:24.840 --> 00:00:25.213
+eighty percent.
+
+20
+00:00:25.213 --> 00:00:26.393
+DeepMind,
+
+21
+00:00:26.393 --> 00:00:26.733
+seventy-eight.
+
+22
+00:00:26.733 --> 00:00:27.743
+OpenAI,
+
+23
+00:00:27.743 --> 00:00:28.133
+sixty-seven.
+
+24
+00:00:28.133 --> 00:00:28.873
+Meta, sixty-four.
+
+25
+00:00:28.873 --> 00:00:29.793
+Now, a word of caution.
+
+26
+00:00:29.793 --> 00:00:31.593
+This doesn’t mean Anthropic is eight times
+
+27
+00:00:31.593 --> 00:00:32.433
+better to work for.
+
+28
+00:00:32.433 --> 00:00:33.433
+It could be rapid growth,
+
+29
+00:00:33.433 --> 00:00:34.213
+team size, salary,
+
+30
+00:00:34.213 --> 00:00:34.913
+or equity.
+
+31
+00:00:34.913 --> 00:00:36.373
+And retention isn’t happiness.
+
+32
+00:00:36.373 --> 00:00:37.993
+Someone might stay because of the mission,
+
+33
+00:00:37.993 --> 00:00:39.553
+but also because they can’t find anything
+
+34
+00:00:39.553 --> 00:00:40.893
+comparable elsewhere.
+
+35
+00:00:40.893 --> 00:00:42.213
+The report points to other factors,
+
+36
+00:00:42.213 --> 00:00:44.053
+too: researchers’ autonomy,
+
+37
+00:00:44.053 --> 00:00:46.393
+flexibility, and less office politics.
+
+38
+00:00:46.393 --> 00:00:48.913
+One explanation you hear is Maslow’s pyramid.
+
+39
+00:00:48.913 --> 00:00:50.413
+At the bottom are basic needs:
+
+40
+00:00:50.413 --> 00:00:51.933
+food and a place to live.
+
+41
+00:00:51.933 --> 00:00:53.873
+Then safety: a stable job.
+
+42
+00:00:53.873 --> 00:00:55.433
+Then belonging: being part of a team.
+
+43
+00:00:55.433 --> 00:00:57.553
+Then esteem: being recognized for what you
+
+44
+00:00:57.553 --> 00:00:57.753
+do.
+
+45
+00:00:57.753 --> 00:00:59.073
+And at the top,
+
+46
+00:00:59.073 --> 00:01:01.293
+self-actualization: using your full potential on something
+
+47
+00:01:01.293 --> 00:01:01.833
+meaningful.
+
+48
+00:01:01.833 --> 00:01:03.433
+The idea is that a well-paid,
+
+49
+00:01:03.433 --> 00:01:05.973
+recognized researcher has the basics covered and
+
+50
+00:01:05.973 --> 00:01:07.093
+starts looking for meaning.
+
+51
+00:01:07.093 --> 00:01:08.693
+And there’s a step beyond that,
+
+52
+00:01:08.693 --> 00:01:10.353
+which some call self-transcendence:
+
+53
+00:01:10.353 --> 00:01:13.153
+contributing to something bigger than yourself.
+
+54
+00:01:13.153 --> 00:01:14.833
+Anthropic’s mission speaks to both.
+
+55
+00:01:14.833 --> 00:01:16.333
+It’s a plausible hypothesis.
+
+56
+00:01:16.333 --> 00:01:18.093
+But it’s still a hypothesis.
+
+57
+00:01:18.093 --> 00:01:19.953
+No one surveyed the employees to prove
+
+58
+00:01:19.953 --> 00:01:20.113
+it.
+
+59
+00:01:20.113 --> 00:01:21.833
+But I think the most important part
+
+60
+00:01:21.833 --> 00:01:22.613
+is something else.
+
+61
+00:01:22.613 --> 00:01:24.453
+In January 2026,
+
+62
+00:01:24.453 --> 00:01:26.953
+Anthropic published a new constitution for Claude.
+
+63
+00:01:26.953 --> 00:01:29.093
+Here, a constitution is a text that
+
+64
+00:01:29.093 --> 00:01:31.333
+explains which values the model should follow,
+
+65
+00:01:31.333 --> 00:01:32.193
+and why.
+
+66
+00:01:32.193 --> 00:01:33.733
+And it’s used in training.
+
+67
+00:01:33.733 --> 00:01:35.173
+It’s not a manual sitting in a
+
+68
+00:01:35.173 --> 00:01:35.633
+drawer.
+
+69
+00:01:35.633 --> 00:01:36.853
+There are four priorities,
+
+70
+00:01:36.853 --> 00:01:38.153
+in this order.
+
+71
+00:01:38.153 --> 00:01:40.773
+First, be safe and not undermine human
+
+72
+00:01:40.773 --> 00:01:41.633
+oversight.
+
+73
+00:01:41.633 --> 00:01:43.353
+Second, be ethical,
+
+74
+00:01:43.353 --> 00:01:45.913
+honest, and use good judgment.
+
+75
+00:01:45.913 --> 00:01:48.933
+Third, follow Anthropic’s guidelines.
+
+76
+00:01:49.013 --> 00:01:51.273
+Fourth, be genuinely helpful.
+
+77
+00:01:51.273 --> 00:01:52.953
+The big change is moving from rules
+
+78
+00:01:52.953 --> 00:01:53.873
+to reasons.
+
+79
+00:01:53.873 --> 00:01:55.273
+Instead of a list of what’s allowed
+
+80
+00:01:55.273 --> 00:01:56.073
+and what isn’t,
+
+81
+00:01:56.073 --> 00:01:57.193
+the model learns why.
+
+82
+00:01:57.193 --> 00:01:58.773
+And that why helps when it faces
+
+83
+00:01:58.773 --> 00:02:00.553
+a situation no rule anticipated.
+
+84
+00:02:00.553 --> 00:02:02.153
+Here’s a technical difference that few people
+
+85
+00:02:02.153 --> 00:02:02.833
+notice.
+
+86
+00:02:02.833 --> 00:02:05.073
+Anthropic uses the constitution to shape the
+
+87
+00:02:05.073 --> 00:02:06.613
+model’s behavior during training.
+
+88
+00:02:06.613 --> 00:02:08.113
+When you build an agent at your
+
+89
+00:02:08.113 --> 00:02:09.513
+company and give it a document,
+
+90
+00:02:09.513 --> 00:02:11.353
+that document stays in its context,
+
+91
+00:02:11.353 --> 00:02:12.513
+in its instructions.
+
+92
+00:02:12.513 --> 00:02:13.633
+It helps a lot,
+
+93
+00:02:13.633 --> 00:02:15.393
+but it doesn’t change the model from
+
+94
+00:02:15.393 --> 00:02:16.073
+the inside.
+
+95
+00:02:16.073 --> 00:02:17.133
+So in your case,
+
+96
+00:02:17.133 --> 00:02:19.413
+behavior is shaped by the whole package:
+
+97
+00:02:19.413 --> 00:02:21.073
+instructions, examples, tests,
+
+98
+00:02:21.073 --> 00:02:21.793
+and correction.
+
+99
+00:02:21.793 --> 00:02:24.073
+A polished document alone doesn’t guarantee a
+
+100
+00:02:24.073 --> 00:02:24.993
+reliable agent.
+
+101
+00:02:24.993 --> 00:02:26.753
+Something else caught people’s attention:
+
+102
+00:02:26.753 --> 00:02:28.413
+Anthropic started talking with philosophers,
+
+103
+00:02:28.413 --> 00:02:30.193
+religious leaders, and ethics experts from different
+
+104
+00:02:30.193 --> 00:02:30.813
+traditions.
+
+105
+00:02:30.813 --> 00:02:31.653
+One of its founders,
+
+106
+00:02:31.653 --> 00:02:33.173
+Chris Olah, even spoke at the Vatican
+
+107
+00:02:33.173 --> 00:02:33.613
+in May.
+
+108
+00:02:33.613 --> 00:02:33.993
+Why?
+
+109
+00:02:33.993 --> 00:02:35.193
+There are two different questions.
+
+110
+00:02:35.193 --> 00:02:36.113
+The first is practical:
+
+111
+00:02:36.113 --> 00:02:37.393
+how do you get AI to make
+
+112
+00:02:37.393 --> 00:02:38.453
+a good choice when a simple rule
+
+113
+00:02:38.453 --> 00:02:39.193
+doesn’t help?
+
+114
+00:02:39.193 --> 00:02:41.033
+Human traditions have been thinking about that
+
+115
+00:02:41.033 --> 00:02:42.053
+for thousands of years.
+
+116
+00:02:42.053 --> 00:02:43.273
+The second is open-ended:
+
+117
+00:02:43.273 --> 00:02:44.833
+if AI ever has some kind of
+
+118
+00:02:44.833 --> 00:02:46.373
+experience, how should we treat it?
+
+119
+00:02:46.373 --> 00:02:47.433
+No one knows the answer.
+
+120
+00:02:47.433 --> 00:02:48.333
+And there’s a risk:
+
+121
+00:02:48.333 --> 00:02:50.313
+confusing an AI that talks beautifully about
+
+122
+00:02:50.313 --> 00:02:52.593
+morality with one that understands morality the
+
+123
+00:02:52.593 --> 00:02:53.473
+way we do.
+
+124
+00:02:53.473 --> 00:02:54.413
+Reflection is welcome,
+
+125
+00:02:54.413 --> 00:02:55.833
+but it doesn’t replace testing,
+
+126
+00:02:55.833 --> 00:02:57.413
+evidence, and human oversight.
+
+127
+00:02:57.613 --> 00:02:58.453
+Put it all together,
+
+128
+00:02:58.453 --> 00:03:00.433
+and Anthropic is building two cultures at
+
+129
+00:03:00.433 --> 00:03:01.093
+the same time.
+
+130
+00:03:01.093 --> 00:03:01.973
+One for people:
+
+131
+00:03:01.973 --> 00:03:03.113
+a mission, autonomy,
+
+132
+00:03:03.113 --> 00:03:04.573
+and great people working together.
+
+133
+00:03:04.573 --> 00:03:06.233
+The other for AI itself:
+
+134
+00:03:06.233 --> 00:03:08.893
+principles, criteria, and guidance for dealing with
+
+135
+00:03:08.893 --> 00:03:09.433
+the unknown.
+
+136
+00:03:09.433 --> 00:03:10.933
+Both aim for the same thing:
+
+137
+00:03:10.933 --> 00:03:12.973
+someone who exercises judgment instead of just
+
+138
+00:03:12.973 --> 00:03:13.473
+obeying.
+
+139
+00:03:13.473 --> 00:03:15.233
+And that’s exactly what companies will need
+
+140
+00:03:15.233 --> 00:03:16.153
+in 2027.
+
+141
+00:03:16.153 --> 00:03:17.573
+You can lay the two side by
+
+142
+00:03:17.573 --> 00:03:17.973
+side.
+
+143
+00:03:17.973 --> 00:03:19.273
+In people management,
+
+144
+00:03:19.273 --> 00:03:20.613
+you have a mission and a sense
+
+145
+00:03:20.613 --> 00:03:21.173
+of purpose.
+
+146
+00:03:21.173 --> 00:03:22.053
+With an agent,
+
+147
+00:03:22.053 --> 00:03:23.813
+you have a role and an objective:
+
+148
+00:03:23.813 --> 00:03:26.813
+“this agent answers customer questions about deliveries.”
+
+149
+00:03:26.813 --> 00:03:29.313
+Company culture becomes the agent’s constitution and
+
+150
+00:03:29.313 --> 00:03:29.933
+instructions.
+
+151
+00:03:29.933 --> 00:03:31.413
+Training becomes examples,
+
+152
+00:03:31.413 --> 00:03:32.593
+context, and tests:
+
+153
+00:03:32.593 --> 00:03:34.513
+ten hard cases with the right answers.
+
+154
+00:03:34.513 --> 00:03:36.633
+Professional autonomy becomes permissions:
+
+155
+00:03:36.633 --> 00:03:37.993
+the agent can look up an order,
+
+156
+00:03:37.993 --> 00:03:39.553
+but it can’t issue a refund.
+
+157
+00:03:39.553 --> 00:03:41.333
+Performance reviews become a scorecard:
+
+158
+00:03:41.333 --> 00:03:42.893
+a report with scores for things like
+
+159
+00:03:42.893 --> 00:03:44.153
+accuracy, response time,
+
+160
+00:03:44.153 --> 00:03:45.253
+and escalated cases.
+
+161
+00:03:45.253 --> 00:03:47.853
+Ongoing development becomes feedback and agent reviews.
+
+162
+00:03:47.853 --> 00:03:50.153
+And leadership becomes human oversight and auditing:
+
+163
+00:03:50.153 --> 00:03:51.453
+someone checks the log of what the
+
+164
+00:03:51.453 --> 00:03:52.093
+agent did.
+
+165
+00:03:52.093 --> 00:03:53.673
+But there’s a limit to this comparison.
+
+166
+00:03:53.673 --> 00:03:54.773
+People have needs,
+
+167
+00:03:54.773 --> 00:03:55.953
+rights, and lives.
+
+168
+00:03:55.953 --> 00:03:58.093
+Today, we manage agents based on performance,
+
+169
+00:03:58.093 --> 00:03:59.413
+reliability, and safety.
+
+170
+00:03:59.413 --> 00:04:00.653
+We can’t assume they feel what we
+
+171
+00:04:00.653 --> 00:04:00.953
+feel.
+
+172
+00:04:00.953 --> 00:04:02.533
+So what will a successful company look
+
+173
+00:04:02.533 --> 00:04:03.673
+like in 2027?
+
+174
+00:04:03.673 --> 00:04:04.693
+I see three areas.
+
+175
+00:04:04.693 --> 00:04:05.933
+People: a clear purpose,
+
+176
+00:04:05.933 --> 00:04:08.093
+real autonomy, great people working alongside great
+
+177
+00:04:08.093 --> 00:04:10.033
+people, and consistency between what the company
+
+178
+00:04:10.033 --> 00:04:11.073
+says and what it does.
+
+179
+00:04:11.073 --> 00:04:12.253
+And room to disagree,
+
+180
+00:04:12.253 --> 00:04:13.833
+because a big mission can also create
+
+181
+00:04:13.833 --> 00:04:15.173
+pressure and conformity.
+
+182
+00:04:15.173 --> 00:04:16.293
+Processes: mapped out,
+
+183
+00:04:16.293 --> 00:04:18.213
+with an owner and clear success criteria.
+
+184
+00:04:18.213 --> 00:04:19.133
+You know what goes in,
+
+185
+00:04:19.133 --> 00:04:19.893
+what comes out,
+
+186
+00:04:19.893 --> 00:04:21.613
+and what counts as a good result.
+
+187
+00:04:21.613 --> 00:04:22.513
+Agents:
+
+188
+00:04:22.513 --> 00:04:23.413
+with a role,
+
+189
+00:04:23.413 --> 00:04:25.733
+boundaries, rules for when to ask for
+
+190
+00:04:25.733 --> 00:04:27.233
+help, and evaluation.
+
+191
+00:04:27.233 --> 00:04:29.193
+The competition won’t just be about who
+
+192
+00:04:29.193 --> 00:04:30.493
+has the smartest model.
+
+193
+00:04:30.493 --> 00:04:32.553
+It’ll be about who best organizes knowledge,
+
+194
+00:04:32.553 --> 00:04:34.453
+people, processes, agents,
+
+195
+00:04:34.453 --> 00:04:35.553
+evaluation, and learning.
+
+196
+00:04:35.553 --> 00:04:36.953
+And that applies to an AI lab
+
+197
+00:04:36.953 --> 00:04:37.893
+and a small business.
+
+198
+00:04:37.893 --> 00:04:40.033
+In practice, I wouldn’t copy Claude’s constitution.
+
+199
+00:04:40.033 --> 00:04:41.833
+I’d make a version for your operation.
+
+200
+00:04:41.833 --> 00:04:43.073
+One page per agent,
+
+201
+00:04:43.073 --> 00:04:44.273
+with six things.
+
+202
+00:04:44.273 --> 00:04:46.393
+Mission: why it exists.
+
+203
+00:04:46.393 --> 00:04:48.273
+Principles: what matters most.
+
+204
+00:04:48.273 --> 00:04:51.013
+Priorities: what wins when two things conflict—for
+
+205
+00:04:51.013 --> 00:04:53.313
+example, safety before speed.
+
+206
+00:04:53.313 --> 00:04:55.033
+Boundaries: what it never does.
+
+207
+00:04:55.033 --> 00:04:56.193
+When to escalate:
+
+208
+00:04:56.193 --> 00:04:57.693
+when it should stop and call a
+
+209
+00:04:57.693 --> 00:04:58.053
+person.
+
+210
+00:04:58.053 --> 00:04:59.753
+And examples of hard decisions.
+
+211
+00:04:59.753 --> 00:05:01.673
+For example, a customer support agent can
+
+212
+00:05:01.673 --> 00:05:03.213
+change a delivery date on its own.
+
+213
+00:05:03.213 --> 00:05:04.973
+For refunds up to two hundred dollars,
+
+214
+00:05:04.973 --> 00:05:06.553
+it prepares the refund for a person
+
+215
+00:05:06.553 --> 00:05:07.093
+to approve.
+
+216
+00:05:07.093 --> 00:05:08.613
+If a customer mentions a lawsuit,
+
+217
+00:05:08.613 --> 00:05:09.513
+it doesn’t respond.
+
+218
+00:05:09.513 --> 00:05:10.993
+It passes the case straight to a
+
+219
+00:05:10.993 --> 00:05:11.373
+manager.
+
+220
+00:05:11.373 --> 00:05:13.333
+And the constitution isn’t written once and
+
+221
+00:05:13.333 --> 00:05:13.773
+forgotten.
+
+222
+00:05:13.773 --> 00:05:15.033
+It’s part of a cycle.
+
+223
+00:05:15.033 --> 00:05:17.333
+Mission, constitution, and context.
+
+224
+00:05:17.333 --> 00:05:18.993
+The agent carries out tasks with its
+
+225
+00:05:18.993 --> 00:05:19.273
+tools.
+
+226
+00:05:19.273 --> 00:05:21.273
+You review the results and evaluate them.
+
+227
+00:05:21.273 --> 00:05:23.553
+You give feedback and revise the constitution.
+
+228
+00:05:23.553 --> 00:05:25.033
+Then a new cycle begins,
+
+229
+00:05:25.033 --> 00:05:26.273
+with better criteria.
+
+230
+00:05:26.273 --> 00:05:28.613
+The part almost everyone forgets is measurement.
+
+231
+00:05:28.613 --> 00:05:30.153
+Keep your test cases and a record
+
+232
+00:05:30.153 --> 00:05:30.853
+of failures.
+
+233
+00:05:30.853 --> 00:05:32.753
+If the revision didn’t improve the results
+
+234
+00:05:32.753 --> 00:05:33.813
+on the same tests,
+
+235
+00:05:33.813 --> 00:05:35.213
+it didn’t improve the agent.
+
+236
+00:05:35.213 --> 00:05:37.533
+That’s what we call cultivated AI:
+
+237
+00:05:37.533 --> 00:05:40.153
+shaping behavior over time instead of configuring
+
+238
+00:05:40.153 --> 00:05:40.833
+it once.
+
+239
+00:05:40.833 --> 00:05:42.673
+Before, the big challenge was hiring people
+
+240
+00:05:42.673 --> 00:05:44.493
+with good values and teaching them processes.
+
+241
+00:05:44.493 --> 00:05:45.553
+Now, on top of that,
+
+242
+00:05:45.553 --> 00:05:47.073
+we’ll have to build agents that can
+
+243
+00:05:47.073 --> 00:05:48.033
+understand those values,
+
+244
+00:05:48.033 --> 00:05:49.333
+carry out those processes,
+
+245
+00:05:49.333 --> 00:05:50.893
+and recognize when they need to ask
+
+246
+00:05:50.893 --> 00:05:51.553
+for help.
+
+247
+00:05:51.553 --> 00:05:53.293
+That’s why management doesn’t matter less in
+
+248
+00:05:53.293 --> 00:05:53.933
+the age of AI.
+
+249
+00:05:53.933 --> 00:05:54.753
+It matters more.
+
+250
+00:05:54.753 --> 00:05:55.713
+Start this week:
+
+251
+00:05:55.713 --> 00:05:57.193
+choose an agent you use and write
+
+252
+00:05:57.193 --> 00:05:58.673
+the first page of its constitution.
+
+253
+00:05:58.673 --> 00:06:00.193
+Its mission, its boundaries,
+
+254
+00:06:00.193 --> 00:06:01.453
+and when it should call you.
+
+255
+00:06:01.453 --> 00:06:02.633
+At INEMA dot club,
+
+256
+00:06:02.633 --> 00:06:03.933
+you’ll find the course that walks you
+
+257
+00:06:03.933 --> 00:06:05.073
+through it step by step.
+
+258
+00:06:05.073 --> 00:06:06.433
+It’s open and free.
+

@@ -1,0 +1,420 @@
+{
+  "slug": "conversa",
+  "num": 3,
+  "menu": "Conversation",
+  "titulo": "Fear, resistance and change",
+  "titulo_curto": "Fear and change",
+  "minutos": 20,
+  "lead": "Sooner or later someone asks: \"Will AI replace me?\" At Horizonte it was Juliana, at the end of the workday. There are two easy answers, and both fail: promising that nothing will change or saying that's just the market. In this lesson you practice the third: telling what changes, what doesn't change and what isn't known yet.",
+  "objetivo": "handle the \"Will AI replace me?\" conversation honestly: what changes, what doesn't change and what we still don't know, without promising.",
+  "competencias": [
+    "conduzir-conversa-dificil",
+    "separar-fato-de-promessa",
+    "assumir-compromisso-verificavel"
+  ],
+  "aprende": [
+    {
+      "t": "Hear the fear as information, not as an attack"
+    },
+    {
+      "t": "Tell what changes and what doesn't, task by task"
+    },
+    {
+      "t": "Say out loud what isn't known yet"
+    },
+    {
+      "t": "Close with a commitment you can keep, with a date"
+    }
+  ],
+  "hero_alt": "In a small room, the manager and the support agent, headset resting on her neck, talk at the end of the table; the agent looks worried, the manager listens.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The honest conversation",
+      "sub": "Five parts, in this order. Click each one.",
+      "nos": [
+        {
+          "icone": "chat",
+          "titulo": "Listen",
+          "sub": "fear is information",
+          "detalhe": "Ask what the person saw, heard or felt. Fear often comes with a fact attached (\"all I get is what Hora doesn't know\") that you need to hear. Don't downplay it (\"nonsense\") or rush to an answer."
+        },
+        {
+          "icone": "seta",
+          "titulo": "What changes",
+          "sub": "task by task",
+          "detalhe": "Say what changes in the person's day, using the tasks from the matrix in lesson 2: what left, what came in, who decides what. Concrete calms more than vague."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "What doesn't change",
+          "sub": "and why",
+          "detalhe": "The relationship with the difficult customer, responsibility for decisions, what only a person does well. Say why it doesn't change: it's a management decision, made earlier, and it's written down."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "We don't know",
+          "sub": "said out loud",
+          "forte": true,
+          "detalhe": "What will happen to the role a year from now, no one knows for sure, not even you. Saying so is what gives the rest credibility. Also say who decides what isn't yours to decide and when you'll come back with an answer."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Commitment",
+          "sub": "that you keep",
+          "detalhe": "Only promise what depends on you: telling them first, talking every month, including the person in what changes. With a date. A promise about a job that the company hasn't decided in writing is not yours to make."
+        }
+      ],
+      "legenda": "Structure recommended by INEMA for the conversation (what changes, what doesn't change, what we don't know). It is not an HR protocol or legal advice."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The conversation in four steps",
+      "sub": "What to say, what to avoid and what Patrícia did.",
+      "passos": [
+        {
+          "titulo": "Listen before you explain",
+          "sub": "the question is fair",
+          "texto": [
+            "Someone who asks whether they'll be replaced isn't attacking the change; they're asking for information no one has given. Thank them for the question and ask back what they've seen.",
+            "Avoid the two quick exits: \"don't worry\" (a promise) and \"that's the market\" (abandonment). Both end the conversation and leave the fear untouched."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte (fictional study company)",
+            "texto": "\"Ever since Hora came in, I only answer what she doesn't know.\" Juliana brought up a fact: the easy part of her work is gone. That's where the conversation starts."
+          }
+        },
+        {
+          "titulo": "What changes, what doesn't change",
+          "sub": "use the matrix",
+          "texto": [
+            "Bring the matrix from lesson 2. Show the tasks that left, the ones that came in and the ones that stay with the person, with the reason. A written decision carries more weight than any comforting phrase.",
+            "Don't sugarcoat: if Hora already handles half of the questions, say so. Trust comes from the person recognizing in your words what they see in their day."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "Left: catalog and delivery deadlines. Came in: checking new customer records and the exception queue with Patrícia. Stays: the angry customer, the customer who only talks to her."
+          }
+        },
+        {
+          "titulo": "Say what you don't know",
+          "sub": "it's what gives credibility",
+          "texto": [
+            "No one knows for sure what roles will look like a year from now. The Stanford Digital Economy Lab (08/2026) recorded a relative drop of about 19% in employment among young people aged 22 to 25 in the occupations most exposed to AI, without claiming that AI is the cause.",
+            "This is how you talk about a hard data point: what it shows and what it doesn't prove. Do the same with your own case: say what you know, what you don't know and who decides the rest."
+          ],
+          "exemplo": {
+            "rot": "A phrase that works",
+            "texto": "\"I can't guarantee the role a year from now: it doesn't depend only on me. What I can do is tell you first, myself, and not through the hallway.\""
+          }
+        },
+        {
+          "titulo": "Close with a commitment",
+          "sub": "with a date",
+          "texto": [
+            "A good commitment depends on you and can be checked: one conversation a month, the person in the testing of the agent's changes, the unanswered questions answered by a set date.",
+            "Also give the person a concrete task. Someone who takes part in how the agent changes has less reason to fear and more reason to contribute: the person on support knows where the agent gets it wrong."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "Two weeks noting every case Hora got wrong or passed to Juliana; on Friday, the two of them look at it together. And Juliana joins the testing of Hora's next changes."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "simconversa",
+      "titulo": "Simulation: \"Is Hora going to take my place?\"",
+      "sub": "Simulated conversation for practice. Juliana comes to see you at the end of the shift; choose each answer. The comment appears right after.",
+      "personagem": {
+        "nome": "Juliana · customer service (simulation)",
+        "papel": "Horizonte Distribuidora, fictional study company"
+      },
+      "inicio": "abre",
+      "falas": {
+        "abre": {
+          "cliente": "Patrícia, can I tell you something? Since Hora came in, I only answer what she doesn't know. I saw in the news that customer service jobs are being cut everywhere. Is Hora going to take my place?",
+          "opcoes": [
+            {
+              "t": "Don't worry, nobody here is going to lose their job.",
+              "vai": "fim-promessa",
+              "nota": 0,
+              "comenta": "It's a promise that isn't yours to make: the decision about positions doesn't depend only on you. It calms her today and sends you the bill the day something changes."
+            },
+            {
+              "t": "Honestly, I don't know. That's up to Carlos.",
+              "vai": "muda",
+              "nota": 1,
+              "comenta": "It's honest to say you don't know, but the phrase ends the conversation and hands the fear back to her. You can be honest and still tell her what you do know."
+            },
+            {
+              "t": "That's a fair question. I'll tell you what I know, what changes and what I still don't know. What have you been seeing day to day?",
+              "vai": "muda",
+              "nota": 2,
+              "comenta": "You acknowledged the question, announced an honest conversation and started by listening. Her fear brings information you need."
+            }
+          ]
+        },
+        "muda": {
+          "cliente": "She already does half of what I used to do. Catalog, delivery times, simple orders... all hers now. What's left for me?",
+          "opcoes": [
+            {
+              "t": "Not at all, you keep doing everything the same.",
+              "vai": "futuro",
+              "nota": 0,
+              "comenta": "She sees every day that it's not the same. Denying what the person sees takes away the credibility of everything you say afterward."
+            },
+            {
+              "t": "That's the market, Juliana. Everyone is going to have to adapt.",
+              "vai": "futuro",
+              "nota": 1,
+              "comenta": "It may even be true, but it's generic and pushes the responsibility outside. She asked about her own work, here."
+            },
+            {
+              "t": "It's true, the repeated questions went to her. What stayed with you is what she can't solve: irritated customers, out-of-standard orders. And I want you to start checking the new registrations and the exception queue with me.",
+              "vai": "futuro",
+              "nota": 2,
+              "comenta": "You confirmed what she sees, said what stays with her and what comes in, with the decision already made. Concrete calms more than consolation."
+            }
+          ]
+        },
+        "futuro": {
+          "cliente": "Okay. But what about a year from now? Can you guarantee my position will still exist?",
+          "opcoes": [
+            {
+              "t": "I guarantee it. You have my word.",
+              "vai": "fim-promessa",
+              "nota": 0,
+              "comenta": "Nobody knows what the position will look like a year from now, and the decision isn't only yours. A promise you don't control becomes a breach of trust later."
+            },
+            {
+              "t": "I can't talk about that.",
+              "vai": "agora",
+              "nota": 1,
+              "comenta": "Not promising is right. But silence sounds like bad news being hidden. Say what you can do."
+            },
+            {
+              "t": "I can't guarantee it: it doesn't depend only on me and things are changing fast. What I can do is tell you first, from me and not through the hallway, and talk about it with you every month.",
+              "vai": "agora",
+              "nota": 2,
+              "comenta": "You said what you don't know, whose decision it is and what depends on you, with a commitment that you can keep and check."
+            }
+          ]
+        },
+        "agora": {
+          "cliente": "Okay. So what do I do now?",
+          "opcoes": [
+            {
+              "t": "Just keep doing your job and everything will be fine.",
+              "vai": "fim-vago",
+              "nota": 0,
+              "comenta": "With no task, she goes back to where she came from: waiting to see what happens."
+            },
+            {
+              "t": "Take an AI course over the weekend, it helps.",
+              "vai": "fim-curso",
+              "nota": 1,
+              "comenta": "Learning helps, but the suggestion pushes the problem onto her free time and doesn't connect to any of the work here."
+            },
+            {
+              "t": "For two weeks, write down every case Hora got wrong or passed on to you. On Friday we'll look at it together. And I want you in the testing of her next changes: the person who handles customers knows where she makes mistakes.",
+              "vai": "fim-bom",
+              "nota": 2,
+              "comenta": "A concrete task, with a deadline, that uses what she knows and puts her inside the change, not on the outside."
+            }
+          ]
+        },
+        "fim-promessa": {
+          "fim": true,
+          "titulo": "A promise that wasn't yours",
+          "texto": "Juliana left relieved. But the decision about positions isn't only Patrícia's, and nobody knows what customer service will look like a year from now. If something changes, the promise becomes the strongest memory of the conversation. Honesty about what isn't known protects trust better than a guarantee."
+        },
+        "fim-vago": {
+          "fim": true,
+          "titulo": "A conversation with no next step",
+          "texto": "The conversation was honest, but it ended with nothing to do. In a week, the fear comes back with the next piece of news. Always close with a concrete task and a date."
+        },
+        "fim-curso": {
+          "fim": true,
+          "titulo": "Learning, but far from here",
+          "texto": "The suggestion isn't bad, it's just disconnected from the work. Juliana knows where Hora makes mistakes better than anyone; that knowledge is what puts her inside the change. Start over and compare."
+        },
+        "fim-bom": {
+          "fim": true,
+          "titulo": "Honest and with a next step",
+          "texto": "Juliana knows what changed, what stays with her, what nobody knows yet and what to do next week. Check the score: if it came out below the maximum, some answer promised, denied or ended the conversation. Start over and compare the comments."
+        }
+      },
+      "licao": "Honesty has three parts: what changes, what doesn't change and what we don't know. Promise only what depends on you, with a date, and close with a task that puts the person inside the change."
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The script for the 30-minute meeting with the team and a prompt that looks for promises. The tab next to this one shows Patrícia's.",
+      "blocos": [
+        {
+          "rot": "Meeting script · 30 min",
+          "icone": "calendario",
+          "conteudo": "MEETING: WHAT CHANGES WITH <agent name> · team <name> · <date and time> · led by: <name>\n\n00-05 OPENING\n  Why we're here: <one sentence>. I'll tell you what I know, what changes and what I don't know.\n05-12 WHAT CHANGES (from the work-split matrix)\n  Left your plate: <tasks> · Came in: <tasks> · Who decides what: <...>\n12-17 WHAT DOESN'T CHANGE, AND WHY\n  <customer relationship, decisions, ...> · because: <written decision>\n17-22 WHAT WE DON'T KNOW\n  <what nobody knows yet> · who decides: <name> · when I'll come back with an answer: <date>\n22-28 QUESTIONS\n  Write down all of them. The one I can't answer: I'll answer by <date>, via <channel>.\n28-30 COMMITMENTS (only what depends on me)\n  <commitment 1, with date> · <commitment 2, with date>\n  Everyone's task by <date>: <...>\n  Next conversation: <date>\n\nPHRASES THAT HELP: \"that's a fair question\" · \"I don't know that, and I'll tell you when I do\"\n  · \"that decision is <name>'s; I'll bring the answer by <date>\"\nPHRASES TO AVOID: \"don't worry\" · \"nobody is going to lose their job\" (if it wasn't decided)\n  · \"that's the market\" · \"I can't talk about that\" (without saying when you can)"
+        },
+        {
+          "rot": "Prompt · look for promises",
+          "icone": "chat",
+          "conteudo": "You review the script of a meeting in which a manager will talk to the\nteam about the arrival of AI agents. Don't rewrite it: point out risks.\n\n1. List every sentence that sounds like a promise about employment, position,\n   salary or savings, and say whether the script shows who decided that.\n2. List generic sentences (\"that's the market\", \"it will get better\") with no\n   concrete task behind them.\n3. Say whether the script has the three parts: what changes, what doesn't change and\n   what we don't know.\n4. Point out commitments without a date or that don't depend on the person leading.\n\nScript:\n\"\"\"<paste here>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Patrícia's script (example)",
+            "html": "<p><b>Meeting: what changes with Hora</b> · sales · Friday, 9 a.m. · led by: Patrícia · Horizonte, fictional study company</p><ol><li><b>Opening:</b> \"Hora has been with us for a month and nobody has sat down to talk about it. I'll tell you what I know, what changes and what I don't know.\"</li><li><b>What changes:</b> catalog and delivery deadlines are no longer Juliana's job; she checks new customer records and the queue with me. Discounts of 5% to 10% and orders above R$ 5,000: Hora prepares, I approve.</li><li><b>What doesn't change:</b> upset customers, visits and negotiation stay with you, because that's relationship work.</li><li><b>What we don't know:</b> how customer service will look in a year. Carlos decides on roles; I'll take the question to him and come back by 11/13.</li><li><b>Questions:</b> written down in the team channel.</li><li><b>Commitments:</b> a monthly conversation; nobody hears about a change in the hallway; Juliana on the testing of Hora's changes. Task: two weeks noting down Hora's mistakes.</li></ol>"
+          },
+          {
+            "rot": "How to check / common mistakes",
+            "html": "<ol><li><b>Promising a job.</b> If the company hasn't decided in writing, don't promise. Say who decides and when you'll come back.</li><li><b>Only what changes.</b> Without what doesn't change, the team imagines the worst.</li><li><b>Skipping the \"we don't know.\"</b> It's the part that gives credit to the rest.</li><li><b>A question with no owner.</b> A question you couldn't answer needs a date and a channel.</li><li><b>Closing without a task.</b> Without a next step, the fear comes back with the next piece of news.</li></ol>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "video",
+      "titulo": "Video: the resistance that starts with the manager",
+      "sub": "Nei talks about the other kind of resistance: the manager who says \"that's an IT thing.\" Before you lead the conversation with your team, take a look at your own.",
+      "chave": "gerente-de-agentes"
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Practice in the simulation, write Patrícia's script, and then your own.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · The conversation with Juliana",
+          "min": "10 min",
+          "texto": "Do this lesson's simulation. If you don't reach the top score, read the comments, start over and try again.",
+          "pronto": "you finished the simulation with the top score and can say, in one sentence each, what changes, what doesn't change and what isn't known, for Juliana."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Patrícia's script",
+          "min": "20 min",
+          "texto": "Using the matrix from lesson 2, write the script for Patrícia's 30-minute meeting with the sales team. Run the promises prompt and fix what it flags.",
+          "pronto": "the script has all six blocks with minutes, at least 3 tasks that change and 2 that don't, a \"we don't know\" with who decides and a reply date, and no promise about jobs or roles."
+        },
+        {
+          "id": "e3",
+          "titulo": "3 · Your meeting",
+          "min": "30 min + the meeting",
+          "texto": "Write the script for your team and schedule the meeting. After it, note the questions that came up and answer the ones left open by the date you promised.",
+          "pronto": "the meeting happened on the scheduled date, the questions are written down, every unanswered question has a date, and the dated commitment was kept or is on the calendar."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "5 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "Juliana asks whether Hora is going to take her place. What is the best first answer?",
+          "opcoes": [
+            "\"Don't worry, nobody here is going to lose their job.\"",
+            "\"It's the market; everyone will have to adapt, me included.\"",
+            "\"Fair question. What have you been seeing day to day?\""
+          ],
+          "certa": 2,
+          "ref": "simconversa",
+          "explica": "Promising that nobody loses their job is not your decision; saying it's the market abandons the person. The right answer acknowledges the question and starts by listening."
+        },
+        {
+          "p": "Why say out loud what is still not known?",
+          "opcoes": [
+            "Because it gives credit to what you say about the rest",
+            "Because that way the team prepares for the worst-case scenario",
+            "Because it passes the responsibility on to the board"
+          ],
+          "certa": 0,
+          "ref": "diagrama",
+          "explica": "Someone who only brings certainties sounds like they're hiding something. Admitting the uncertainty, with who decides and when you'll come back, makes the rest get heard."
+        },
+        {
+          "p": "How do you cite the Stanford study in the conversation?",
+          "opcoes": [
+            "\"AI eliminated 19% of jobs for young people aged 22 to 25 in exposed occupations, according to Stanford\"",
+            "\"Relative drop of ~19% in employment for ages 22 to 25 in exposed occupations, with no cause stated\"",
+            "\"Stanford proves that people under 25 are losing their jobs to AI\""
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "The study shows a drop and doesn't state the cause. Repeating only the number, as if it proved the cause, scares people and teaches the team to read data wrong."
+        },
+        {
+          "p": "Which of these is a commitment Patrícia can make?",
+          "opcoes": [
+            "\"You'll hear about any change from me, first.\"",
+            "\"Your position is guaranteed for the next two years.\"",
+            "\"Nobody on the team leaves as long as I'm the manager.\""
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "A good commitment depends on who is promising it and can be checked. Job security is not her decision alone."
+        },
+        {
+          "p": "Why close the conversation with a task for the person?",
+          "opcoes": [
+            "To fill the time Hora freed up in her day",
+            "To bring her into the change, using what she knows",
+            "To have evidence of her performance at the next annual review"
+          ],
+          "certa": 1,
+          "ref": "simconversa",
+          "explica": "People who handle customers know where the agent makes mistakes. Noting down the cases and joining the testing of the changes turns fear into contribution."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Listen first",
+          "texto": "Fear brings a fact you need to know."
+        },
+        {
+          "t": "What changes and what doesn't",
+          "texto": "Task by task, using the matrix from lesson 2."
+        },
+        {
+          "t": "We don't know",
+          "texto": "Said out loud, with who decides and when you come back."
+        },
+        {
+          "t": "Your commitment",
+          "texto": "Only what depends on you, with a date, and one task for the person."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "Video: the manager who doesn't master agents (page with script)",
+          "href": "https://inematds.github.io/gerente-de-agentes/videos/",
+          "icone": "video"
+        },
+        {
+          "t": "Horizonte Lab: the customer service summary Juliana used to read (fictional study company)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "icone": "chat"
+        },
+        {
+          "t": "AI Management Area: managing people and agents",
+          "href": "https://eventos.inema.pro/gestao-ia/",
+          "icone": "alvo"
+        }
+      ]
+    }
+  ]
+}

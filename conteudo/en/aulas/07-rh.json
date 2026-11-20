@@ -1,0 +1,278 @@
+{
+  "slug": "rh",
+  "num": 7,
+  "menu": "HR",
+  "titulo": "HR for people and agents",
+  "titulo_curto": "HR for people and agents",
+  "minutos": 18,
+  "lead": "When someone joins Horizonte, they get a file, a badge, system access and a person responsible for them. When they leave, access is cut the same day. Hora joined with none of that: in the inventory, the owner is IT. And the automatic summary was suspended, but nobody said who reads the conversations now. In this lesson you handle agents joining and leaving the way you handle people.",
+  "objetivo": "organize an agent's onboarding, follow-up and offboarding the way you do for people: owner, access, record and who takes over the work.",
+  "competencias": [
+    "onboard-agent-with-owner",
+    "maintain-agent-register",
+    "offboard-agent-with-succession"
+  ],
+  "aprende": [
+    {
+      "t": "What an agent's onboarding needs to include"
+    },
+    {
+      "t": "The agent register, like the list of who works at the company"
+    },
+    {
+      "t": "Train the people who supervise, not just the agent"
+    },
+    {
+      "t": "Offboard an agent without leaving orphaned work or open access"
+    }
+  ],
+  "hero_alt": "An HR professional and an IT technician check a list on a clipboard next to a laptop; a badge with a lanyard sits on the desk.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "An agent's life cycle",
+      "sub": "The same stages as a person, with what changes for the agent. Tap each stage.",
+      "volta": "A change of model, tool or constitution goes back to the trial period: the affected actions start over at yellow",
+      "nos": [
+        {
+          "icone": "usuario",
+          "titulo": "Onboarding",
+          "sub": "owner and minimum access",
+          "forte": true,
+          "detalhe": "It goes into the agent register with a job title, a business owner (not IT), who supervises it, a version and a date. It gets only the access it needs, with its own identity, never a person's password."
+        },
+        {
+          "icone": "relogio",
+          "titulo": "Trial period",
+          "sub": "starts at yellow",
+          "detalhe": "Like a person's trial period: test cases before starting, almost everything prepared for someone to approve, a larger sample and a date to decide whether it continues, gets adjusted or leaves."
+        },
+        {
+          "icone": "grafico",
+          "titulo": "Follow-up",
+          "sub": "review with a date",
+          "detalhe": "Supervision routine and periodic review, like a person's evaluation. Every change is recorded: what, who approved it, when, and how to roll it back."
+        },
+        {
+          "icone": "camadas",
+          "titulo": "Change",
+          "sub": "of role or of model",
+          "detalhe": "A change of model, tool or constitution is a change of role: a new round of test cases, and the affected actions go back to yellow until there is evidence."
+        },
+        {
+          "icone": "x",
+          "titulo": "Offboarding",
+          "sub": "access cut, work with an owner",
+          "detalhe": "Access and credentials revoked the same day, who takes over the work with a date, what to do with the data left with the vendor, the record kept and the team notified."
+        }
+      ],
+      "legenda": "Cycle recommended by INEMA, based on the Gestoria method (levels, register, change with rollback). It does not replace the company's information security policy."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "HR for people and agents in practice",
+      "sub": "Four steps, with Hora and Horizonte's automatic summary.",
+      "passos": [
+        {
+          "titulo": "An agent is onboarded too",
+          "sub": "with a business owner",
+          "texto": [
+            "Deloitte (Tech Trends 2026) treats agents as a workforce that needs onboarding in the data and the operation, graduated autonomy with human-oversight triggers, and notes that the human supervisors also need training.",
+            "In practice, onboarding comes down to three questions: who owns the result, what it can access and with which identity, and who supervises it. Without a business owner, the agent stays with IT, which is not accountable for the business result."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte (fictional study company)",
+            "texto": "In the lab inventory, the person responsible for Hora is Rafael, from IT. In the retroactive onboarding, the owner becomes Patrícia; Rafael keeps looking after the technical access."
+          }
+        },
+        {
+          "titulo": "The agent register",
+          "sub": "the list of who works here",
+          "texto": [
+            "Every company knows who works there. The agent register is the same list for agents: name, role, owner, who supervises, version, access, start date, next review and status (active, on trial, suspended, offboarded).",
+            "Start with IT's inventory and add what the shadow AI survey found. An agent that is not in the register has no owner, and an agent with no owner has no one to switch it off."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "The register starts with Hora and the email assistant, which are in the official inventory, and with the daily service summary (F10), which the inventory didn't even list. Then come the tools the survey found on its own (F12)."
+          }
+        },
+        {
+          "titulo": "Train the people who supervise",
+          "sub": "the people side",
+          "texto": [
+            "Onboarding an agent creates new work for someone: reviewing a sample, reading an exception package, deciding with the right verb, pressing the off switch. That person needs to be trained, with time set aside for it.",
+            "Write down who supervises each agent, what that person has learned and who covers for them on vacation. A supervisor with no training becomes a rubber stamp."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "Juliana supervises the queue with Patrícia. Training: the review checklist from lesson 4, the exception package and the off switch, tested once with Rafael. Backup: Sandra."
+          }
+        },
+        {
+          "titulo": "Offboarding is a process",
+          "sub": "no one is left orphaned",
+          "texto": [
+            "Shutting down an agent takes the same care as an offboarding: cut access the same day, say who takes over the work and from when, decide what to do with the data left with the vendor, and keep the record.",
+            "The most forgotten step is the work the agent was doing. If no one takes it over, it quietly lands on people who were already overloaded, or it disappears without anyone noticing."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "The daily summary (F10) was suspended until the vendor is replaced. Until then, Juliana reads only the exception queue and a sample of 20 conversations a day. Rafael cuts off the sending and asks the service how to delete what was already sent."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "Onboarding with the register line, offboarding, and a prompt that looks for gaps. The next tab shows Horizonte's.",
+      "blocos": [
+        {
+          "rot": "Agent onboarding + register line",
+          "icone": "usuario",
+          "conteudo": "AGENT ONBOARDING · <name> · <date>\n\n[ ] Job sheet written (mission, deliverable, prohibited) · version <...>\n[ ] Business owner: <name> (not IT) · technical lead: <name>\n[ ] Supervisor: <name> · trained in <review, package, off switch> on <date>\n    · backup: <name>\n[ ] Access: <tool · read/write · limit> (only what is needed)\n[ ] The agent's own identity (it does not use anyone's password)\n[ ] Test cases run before starting: <n> · result <...>\n[ ] Trial period: starts at yellow until <date> · sample of <n> per <day/week>\n[ ] Off switch: who <names> · tested on <date>\n[ ] Team told what changes (meeting on <date>)\n\nAGENT REGISTER LINE\n| Agent | Role | Owner | Supervisor | Version | Access | Start date | Next review | Status |\n| <name> | <...> | <name> | <name> | <v> | <...> | <date> | <date> | <active / on trial / suspended / offboarded> |"
+        },
+        {
+          "rot": "Agent offboarding",
+          "icone": "x",
+          "conteudo": "AGENT OFFBOARDING · <name> · reason <...> · <date> · decided by <name>\n\n[ ] Access and credentials revoked today: <list> · by <name> · checked by <name>\n[ ] Automations and integrations stopped: <list>\n[ ] WHO TAKES OVER THE WORK: <person or agent> · starting <date>\n    · what changes for that person: <...> · agreed with them on <date>\n[ ] Data with the vendor: <what was left there> · deletion request: <done / not possible, why>\n[ ] Record and history kept in <where> for <period> by <name>\n[ ] Agent register updated: status = offboarded (or suspended)\n[ ] Told: team <date> · customers, if something changes for them <...>\n[ ] Review on <date>: is the work getting done? did anyone go back to using it in secret?"
+        },
+        {
+          "rot": "Prompt · look for gaps",
+          "icone": "chat",
+          "conteudo": "You are reviewing the onboarding or offboarding of an AI agent at a\ncompany. Do not decide anything: point out gaps.\n\n1. Is there a business owner with a name (not just IT)?\n2. Is any access bigger than needed, or does it use a person's\n   credentials?\n3. Has the supervisor been trained, and do they have a backup?\n4. In offboarding: who takes over the work, starting when, and was\n   that person consulted?\n5. What happens to the data left with the vendor?\n\nDocument:\n\"\"\"<paste here>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Hora and the daily summary (example)",
+            "html": "<p><b>Retroactive onboarding · Hora · 11/05</b> · Horizonte, fictional study company</p><ul><li><b>Owner:</b> Patrícia (before: Rafael, in the inventory) · technical lead: Rafael.</li><li><b>Supervisor:</b> Juliana, trained in the review checklist, the exception package and the off switch · backup: Sandra.</li><li><b>Access:</b> catalog (read) · customer record from the conversation (read) · orders app (write up to R$ 5,000 and 5%) · its own identity.</li><li><b>Trial period:</b> sample of 20 conversations per week until 12/04.</li></ul><p><b>Offboarding (suspension) · daily customer service summary · F10</b></p><ul><li><b>Reason:</b> conversations with tax ID and address in a free service outside Brazil, with no contract.</li><li><b>Stopped:</b> the 6 p.m. automation, by Rafael, checked by Patrícia.</li><li><b>Who takes over:</b> Juliana reads the exception queue and 20 conversations a day, agreed with her; anything that doesn't fit goes up to Patrícia.</li><li><b>Data with the vendor:</b> Rafael requests deletion and records the answer.</li><li><b>Register:</b> status = suspended until the vendor is replaced.</li></ul>"
+          },
+          {
+            "rot": "How to check / common mistakes",
+            "html": "<ol><li><b>IT as owner.</b> IT takes care of access; the result belongs to whoever answers for the process.</li><li><b>Borrowed password.</b> An agent using a person's account has no record of its own and can't be shut down without shutting down the person.</li><li><b>Untrained supervisor.</b> It becomes a rubber stamp.</li><li><b>Orphaned work.</b> The agent was shut down and no one took over: the work comes back in secret or disappears.</li><li><b>Forgetting the vendor.</b> Data left there stays there until someone asks for it to be deleted.</li></ol>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Onboard Hora and turn off the automatic summary; then build the agent register for your area.",
+      "fonte": "Lab materials: <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">IT inventory</a> and <a href=\"https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/\">customer service summary (F10)</a>.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Onboard Hora, turn off the summary",
+          "min": "30 min",
+          "texto": "Do the retroactive onboarding of Hora using the template. Then do the offboarding (suspension) of the daily customer service summary, which sends conversations to a free service with no contract. Build Horizonte's agent register from what the inventory and the survey show. Run the prompt on both documents.",
+          "pronto": "the onboarding has a business owner, a trained supervisor with a backup, and access with limits; the offboarding says who takes over reading the conversations, starting when, and what happens to the data with the vendor; and the register has at least 3 agents or automations, each with an owner and a status."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · The register for your area",
+          "min": "40 min",
+          "texto": "List the AI agents and automations in your area, including the ones your team uses on their own. Build the register. Pick one of them and do the full onboarding (or the offboarding, if that applies).",
+          "pronto": "the register has every agent you know of, each with an owner and a status, there is at least one complete checklist, and every named supervisor has a backup."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "In the inventory, the person responsible for Hora is Rafael, from IT. What does onboarding change?",
+          "opcoes": [
+            "Nothing: IT knows Hora's system better",
+            "Carlos becomes the owner, because he is the one who answers for the whole company",
+            "Patrícia becomes the owner; Rafael keeps the technical access"
+          ],
+          "certa": 2,
+          "ref": "passos",
+          "explica": "Whoever answers for the business result is whoever has the business authority limit. IT takes care of access, not of the discount Hora gave."
+        },
+        {
+          "p": "What is the most forgotten step when shutting down an agent?",
+          "opcoes": [
+            "Tell the vendor the contract has ended and ask for the final invoice",
+            "Say who takes over the work and starting when",
+            "Delete the agent from the agent register"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Without a successor, the work comes back in secret to someone who is already overloaded, or it disappears. In the daily summary case, Juliana took over a smaller reading task, agreed with her."
+        },
+        {
+          "p": "Why does the agent need its own identity, and not someone's password?",
+          "opcoes": [
+            "To have its own record and limit, and to be switched off separately",
+            "Because one person's password costs the company more",
+            "So the agent gains more autonomy over time"
+          ],
+          "certa": 0,
+          "ref": "diagrama",
+          "explica": "With a person's account, everything the agent does looks like it was done by them, and cutting its access cuts theirs."
+        },
+        {
+          "p": "Horizonte changed Hora's model. What happens in the lifecycle?",
+          "opcoes": [
+            "Nothing: it's still the same agent, just with a newer model",
+            "Test cases again and the affected actions in yellow",
+            "Switch Hora off and onboard a new agent from scratch"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Changing the model, tool or constitution can change the behavior. It goes back to the trial period, not to zero."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Onboarding",
+          "texto": "Business owner, minimum access, own identity, trial period at yellow."
+        },
+        {
+          "t": "Agent register",
+          "texto": "The list of who works here, now including the agents, each with an owner and a status."
+        },
+        {
+          "t": "Trained supervisor",
+          "texto": "Whoever supervises learns, has time, and has a backup."
+        },
+        {
+          "t": "Offboarding",
+          "texto": "Access cut the same day, work has an owner, vendor data handled."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "Horizonte Lab: IT inventory (fictional study company)",
+          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "icone": "lista"
+        },
+        {
+          "t": "G4 · Resources: shadow AI and minimum access",
+          "href": "https://inematds.github.io/gestao-ia-recursos-v72/",
+          "icone": "cadeado"
+        },
+        {
+          "t": "G3 · Agents: the digital role",
+          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "icone": "usuario"
+        }
+      ]
+    }
+  ]
+}

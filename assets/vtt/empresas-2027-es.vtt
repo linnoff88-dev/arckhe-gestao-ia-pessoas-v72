@@ -1,0 +1,1042 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.750
+En 2025, un ingeniero de OpenAI tenía 8 veces más probabilidades de irse a Anthropic
+
+2
+00:00:04.800 --> 00:00:06.350
+que de hacer el camino inverso.
+
+3
+00:00:06.400 --> 00:00:08.460
+Y puede que el motivo no sea el salario.
+
+4
+00:00:08.784 --> 00:00:10.244
+Desde DeepMind, la proporción era de casi
+
+5
+00:00:10.244 --> 00:00:10.864
+once a uno.
+
+6
+00:00:10.864 --> 00:00:12.644
+En este video quiero mostrar qué está
+
+7
+00:00:12.644 --> 00:00:14.564
+haciendo Anthropic de manera diferente con las
+
+8
+00:00:14.564 --> 00:00:16.324
+personas y con la propia IA.
+
+9
+00:00:16.324 --> 00:00:18.664
+Y por qué eso muestra cómo serán
+
+10
+00:00:18.664 --> 00:00:20.884
+las empresas exitosas en 2027.
+
+11
+00:00:20.884 --> 00:00:23.004
+Los números son del informe de talentos
+
+12
+00:00:23.004 --> 00:00:25.064
+de SignalFire de 2025.
+
+13
+00:00:25.064 --> 00:00:26.624
+También midieron la retención:
+
+14
+00:00:26.624 --> 00:00:28.144
+de las personas contratadas,
+
+15
+00:00:28.144 --> 00:00:30.304
+cuántas seguían en la empresa dos años
+
+16
+00:00:30.304 --> 00:00:30.976
+después.
+
+17
+00:00:30.976 --> 00:00:32.544
+Anthropic, ochenta por ciento.
+
+18
+00:00:32.544 --> 00:00:33.744
+DeepMind,
+
+19
+00:00:33.824 --> 00:00:34.664
+setenta y ocho.
+
+20
+00:00:34.664 --> 00:00:35.639
+OpenAI,
+
+21
+00:00:35.639 --> 00:00:36.524
+sesenta y siete.
+
+22
+00:00:36.524 --> 00:00:38.144
+Meta, sesenta y cuatro.
+
+23
+00:00:38.144 --> 00:00:39.384
+Ahora, cuidado.
+
+24
+00:00:39.384 --> 00:00:41.084
+Eso no quiere decir que Anthropic sea
+
+25
+00:00:41.084 --> 00:00:42.724
+ocho veces mejor para trabajar.
+
+26
+00:00:42.724 --> 00:00:44.684
+Puede deberse al rápido crecimiento,
+
+27
+00:00:44.684 --> 00:00:45.884
+al tamaño del equipo,
+
+28
+00:00:45.884 --> 00:00:47.524
+al salario o a las acciones.
+
+29
+00:00:47.524 --> 00:00:49.324
+Y retención no es felicidad.
+
+30
+00:00:49.324 --> 00:00:51.424
+Una persona puede quedarse por el propósito,
+
+31
+00:00:51.424 --> 00:00:53.364
+pero también porque no encuentra nada parecido
+
+32
+00:00:53.364 --> 00:00:54.064
+allá afuera.
+
+33
+00:00:54.064 --> 00:00:56.444
+El propio informe señala otras cosas:
+
+34
+00:00:56.444 --> 00:00:58.124
+autonomía para los investigadores,
+
+35
+00:00:58.124 --> 00:01:00.604
+flexibilidad y poca política de cargos.
+
+36
+00:01:00.604 --> 00:01:03.224
+Una explicación que circula es la pirámide
+
+37
+00:01:03.224 --> 00:01:03.944
+de Maslow.
+
+38
+00:01:03.944 --> 00:01:06.044
+Abajo están las necesidades básicas:
+
+39
+00:01:06.044 --> 00:01:07.884
+comer, tener dónde vivir.
+
+40
+00:01:07.884 --> 00:01:09.484
+Después, la seguridad:
+
+41
+00:01:09.484 --> 00:01:10.644
+un empleo estable.
+
+42
+00:01:10.644 --> 00:01:12.164
+Luego, la pertenencia:
+
+43
+00:01:12.164 --> 00:01:13.564
+ser parte de un equipo.
+
+44
+00:01:13.564 --> 00:01:15.144
+Después, la estima:
+
+45
+00:01:15.144 --> 00:01:16.704
+que reconozcan lo que haces.
+
+46
+00:01:16.704 --> 00:01:17.524
+Y en la cima,
+
+47
+00:01:17.524 --> 00:01:20.484
+la autorrealización: usar todo tu potencial en
+
+48
+00:01:20.484 --> 00:01:21.524
+algo que tenga sentido.
+
+49
+00:01:21.524 --> 00:01:23.644
+La idea es que un investigador bien
+
+50
+00:01:23.644 --> 00:01:25.764
+pagado y reconocido ya tiene resuelta la
+
+51
+00:01:25.764 --> 00:01:27.724
+base y empieza a buscar significado.
+
+52
+00:01:27.724 --> 00:01:28.884
+Y hay un paso más:
+
+53
+00:01:28.884 --> 00:01:30.844
+lo que algunos llaman autotrascendencia,
+
+54
+00:01:30.844 --> 00:01:33.044
+contribuir a algo más grande que tú.
+
+55
+00:01:33.044 --> 00:01:35.044
+La misión de Anthropic conecta con esas
+
+56
+00:01:35.044 --> 00:01:35.684
+dos cosas.
+
+57
+00:01:35.684 --> 00:01:37.204
+Es una hipótesis plausible.
+
+58
+00:01:37.204 --> 00:01:38.624
+Pero es una hipótesis.
+
+59
+00:01:38.624 --> 00:01:40.744
+Nadie encuestó a los empleados para probarlo.
+
+60
+00:01:40.744 --> 00:01:42.124
+Pero hay otra parte que me parece
+
+61
+00:01:42.124 --> 00:01:43.084
+más importante.
+
+62
+00:01:43.084 --> 00:01:44.964
+En enero de 2026,
+
+63
+00:01:44.964 --> 00:01:47.564
+Anthropic publicó una nueva constitución para Claude.
+
+64
+00:01:47.564 --> 00:01:49.924
+Aquí, constitución es un texto que explica
+
+65
+00:01:49.924 --> 00:01:51.684
+al modelo qué valores debe seguir y
+
+66
+00:01:51.684 --> 00:01:52.064
+por qué.
+
+67
+00:01:52.064 --> 00:01:53.724
+Y se usa durante el entrenamiento.
+
+68
+00:01:53.724 --> 00:01:55.244
+No es un manual guardado en un
+
+69
+00:01:55.244 --> 00:01:55.664
+cajón.
+
+70
+00:01:55.664 --> 00:01:56.804
+Son cuatro prioridades,
+
+71
+00:01:56.804 --> 00:01:57.884
+en este orden.
+
+72
+00:01:57.884 --> 00:01:59.884
+Primero, ser seguro y no interferir con
+
+73
+00:01:59.884 --> 00:02:01.044
+la supervisión humana.
+
+74
+00:02:01.044 --> 00:02:02.204
+Segundo, ser ético,
+
+75
+00:02:02.204 --> 00:02:04.124
+honesto y tener buen criterio.
+
+76
+00:02:04.124 --> 00:02:06.704
+Tercero, seguir las directrices de Anthropic.
+
+77
+00:02:06.704 --> 00:02:08.944
+Cuarto, ser realmente útil.
+
+78
+00:02:08.944 --> 00:02:10.824
+El gran cambio es pasar de reglas
+
+79
+00:02:10.824 --> 00:02:11.744
+a razones.
+
+80
+00:02:11.744 --> 00:02:13.144
+En vez de una lista de lo
+
+81
+00:02:13.144 --> 00:02:14.224
+que se puede y no se puede
+
+82
+00:02:14.224 --> 00:02:16.024
+hacer, el modelo aprende el porqué.
+
+83
+00:02:16.024 --> 00:02:17.724
+Y ese porqué sirve cuando aparece una
+
+84
+00:02:17.724 --> 00:02:19.744
+situación que ninguna regla previó.
+
+85
+00:02:19.744 --> 00:02:21.844
+Y aquí hay una diferencia técnica que
+
+86
+00:02:21.844 --> 00:02:22.864
+poca gente nota.
+
+87
+00:02:22.864 --> 00:02:25.304
+Anthropic usa la constitución para formar el
+
+88
+00:02:25.304 --> 00:02:28.064
+comportamiento del modelo durante el entrenamiento.
+
+89
+00:02:28.064 --> 00:02:29.904
+Cuando creas un agente en tu empresa
+
+90
+00:02:29.904 --> 00:02:31.224
+y le das un documento,
+
+91
+00:02:31.224 --> 00:02:32.804
+ese documento queda en el contexto,
+
+92
+00:02:32.804 --> 00:02:34.004
+entre sus instrucciones.
+
+93
+00:02:34.004 --> 00:02:35.944
+Ayuda mucho, pero no cambia el modelo
+
+94
+00:02:35.944 --> 00:02:36.704
+por dentro.
+
+95
+00:02:36.704 --> 00:02:38.004
+Así que, en tu caso,
+
+96
+00:02:38.004 --> 00:02:39.704
+el comportamiento se forma con el conjunto
+
+97
+00:02:39.704 --> 00:02:41.144
+de instrucciones, ejemplos,
+
+98
+00:02:41.144 --> 00:02:42.384
+pruebas y correcciones.
+
+99
+00:02:42.384 --> 00:02:43.764
+Un texto bonito por sí solo no
+
+100
+00:02:43.764 --> 00:02:45.124
+garantiza un agente confiable.
+
+101
+00:02:45.124 --> 00:02:46.654
+Otra cosa que llamó la atención:
+
+102
+00:02:46.654 --> 00:02:48.564
+Anthropic empezó a conversar con filósofos,
+
+103
+00:02:48.564 --> 00:02:51.144
+líderes religiosos y especialistas en ética de
+
+104
+00:02:51.144 --> 00:02:52.144
+distintas tradiciones.
+
+105
+00:02:52.144 --> 00:02:53.584
+Uno de los fundadores,
+
+106
+00:02:53.584 --> 00:02:55.604
+Chris Olah, incluso habló en el Vaticano
+
+107
+00:02:55.604 --> 00:02:56.044
+en mayo.
+
+108
+00:02:56.044 --> 00:02:56.764
+¿Por qué?
+
+109
+00:02:56.764 --> 00:02:58.464
+Son dos preguntas diferentes.
+
+110
+00:02:58.464 --> 00:02:59.984
+La primera es práctica:
+
+111
+00:02:59.984 --> 00:03:02.884
+¿cómo hacer que una IA elija bien
+
+112
+00:03:02.884 --> 00:03:04.744
+cuando una regla sencilla no alcanza?
+
+113
+00:03:04.744 --> 00:03:06.824
+Las tradiciones humanas llevan miles de años
+
+114
+00:03:06.824 --> 00:03:07.684
+pensando en esto.
+
+115
+00:03:07.684 --> 00:03:09.404
+La segunda sigue abierta:
+
+116
+00:03:09.404 --> 00:03:12.464
+si algún día una IA tuviera algún
+
+117
+00:03:12.464 --> 00:03:13.464
+tipo de experiencia,
+
+118
+00:03:13.464 --> 00:03:14.984
+¿cómo deberíamos tratarla?
+
+119
+00:03:14.984 --> 00:03:16.444
+Nadie sabe la respuesta.
+
+120
+00:03:16.444 --> 00:03:17.644
+Y hay un riesgo:
+
+121
+00:03:17.644 --> 00:03:20.844
+confundir una IA que habla bonito sobre
+
+122
+00:03:20.844 --> 00:03:23.724
+moral con una IA que entiende la
+
+123
+00:03:23.724 --> 00:03:25.024
+moral como nosotros.
+
+124
+00:03:25.024 --> 00:03:26.504
+La reflexión es bienvenida,
+
+125
+00:03:26.504 --> 00:03:28.124
+pero no reemplaza las pruebas,
+
+126
+00:03:28.124 --> 00:03:30.664
+la evidencia ni la supervisión humana.
+
+127
+00:03:30.724 --> 00:03:31.744
+Si juntamos todo,
+
+128
+00:03:31.744 --> 00:03:33.804
+Anthropic está construyendo dos culturas al mismo
+
+129
+00:03:33.804 --> 00:03:34.384
+tiempo.
+
+130
+00:03:34.384 --> 00:03:35.644
+Una para las personas:
+
+131
+00:03:35.644 --> 00:03:38.324
+misión, autonomía y gente muy buena trabajando
+
+132
+00:03:38.324 --> 00:03:39.024
+en equipo.
+
+133
+00:03:39.024 --> 00:03:41.524
+Y otra para la propia IA:
+
+134
+00:03:41.824 --> 00:03:43.824
+principios, criterios y qué hacer ante lo
+
+135
+00:03:43.824 --> 00:03:44.524
+desconocido.
+
+136
+00:03:44.524 --> 00:03:45.864
+Las dos buscan lo mismo:
+
+137
+00:03:45.864 --> 00:03:47.784
+alguien que ejerza su criterio y no
+
+138
+00:03:47.784 --> 00:03:48.584
+solo obedezca.
+
+139
+00:03:48.584 --> 00:03:50.564
+Y eso es exactamente lo que necesitarán
+
+140
+00:03:50.564 --> 00:03:52.324
+las empresas en 2027.
+
+141
+00:03:52.324 --> 00:03:54.324
+Y podemos ponerlo lado a lado.
+
+142
+00:03:54.324 --> 00:03:55.484
+En la gestión de personas,
+
+143
+00:03:55.484 --> 00:03:57.184
+tienes misión y propósito.
+
+144
+00:03:57.184 --> 00:03:58.104
+En el agente,
+
+145
+00:03:58.104 --> 00:03:59.444
+función y objetivo:
+
+146
+00:03:59.444 --> 00:04:01.504
+«este agente responde a los clientes sobre
+
+147
+00:04:01.504 --> 00:04:02.204
+las entregas».
+
+148
+00:04:02.204 --> 00:04:03.884
+La cultura de la empresa se convierte
+
+149
+00:04:03.884 --> 00:04:05.544
+en la constitución y las instrucciones del
+
+150
+00:04:05.544 --> 00:04:05.944
+agente.
+
+151
+00:04:05.944 --> 00:04:08.124
+El entrenamiento se convierte en ejemplos,
+
+152
+00:04:08.124 --> 00:04:09.304
+contexto y pruebas:
+
+153
+00:04:09.304 --> 00:04:11.544
+diez casos difíciles con la respuesta correcta.
+
+154
+00:04:11.544 --> 00:04:14.384
+La autonomía profesional se convierte en permisos:
+
+155
+00:04:14.384 --> 00:04:16.084
+el agente puede consultar el pedido,
+
+156
+00:04:16.084 --> 00:04:17.924
+pero no puede hacer un reembolso.
+
+157
+00:04:17.924 --> 00:04:20.244
+La evaluación del desempeño se convierte en
+
+158
+00:04:20.244 --> 00:04:21.324
+una ficha de evaluación:
+
+159
+00:04:21.324 --> 00:04:23.444
+un registro con notas sobre aciertos,
+
+160
+00:04:23.444 --> 00:04:25.784
+tiempo de respuesta y casos derivados.
+
+161
+00:04:25.784 --> 00:04:28.084
+El desarrollo continuo se convierte en comentarios
+
+162
+00:04:28.084 --> 00:04:29.444
+y revisión del agente.
+
+163
+00:04:29.444 --> 00:04:31.784
+Y el liderazgo se convierte en supervisión
+
+164
+00:04:31.784 --> 00:04:33.004
+humana y auditoría:
+
+165
+00:04:33.004 --> 00:04:34.804
+alguien revisa el registro de lo que
+
+166
+00:04:34.804 --> 00:04:35.464
+hizo el agente.
+
+167
+00:04:35.464 --> 00:04:37.304
+Pero esta comparación tiene un límite.
+
+168
+00:04:37.304 --> 00:04:39.124
+Las personas tienen necesidades,
+
+169
+00:04:39.124 --> 00:04:40.524
+derechos y una vida.
+
+170
+00:04:40.524 --> 00:04:42.704
+Hoy, a los agentes los gestionamos por
+
+171
+00:04:42.704 --> 00:04:44.364
+su desempeño, confiabilidad
+
+172
+00:04:44.364 --> 00:04:45.344
+y seguridad.
+
+173
+00:04:45.344 --> 00:04:47.104
+No podemos suponer que sienten lo que
+
+174
+00:04:47.104 --> 00:04:48.124
+sentimos nosotros.
+
+175
+00:04:48.124 --> 00:04:50.704
+Entonces, ¿cómo será una empresa exitosa en
+
+176
+00:04:50.704 --> 00:04:51.844
+2027?
+
+177
+00:04:51.844 --> 00:04:53.184
+Yo veo tres frentes.
+
+178
+00:04:53.184 --> 00:04:54.704
+Personas: un propósito claro,
+
+179
+00:04:54.704 --> 00:04:55.844
+autonomía de verdad,
+
+180
+00:04:55.844 --> 00:04:58.144
+gente buena cerca de gente buena y
+
+181
+00:04:58.144 --> 00:05:00.084
+coherencia entre lo que la empresa dice
+
+182
+00:05:00.084 --> 00:05:01.044
+y lo que hace.
+
+183
+00:05:01.044 --> 00:05:02.364
+Y espacio para discrepar,
+
+184
+00:05:02.364 --> 00:05:04.744
+porque una gran misión también genera presión
+
+185
+00:05:04.744 --> 00:05:05.564
+y conformismo.
+
+186
+00:05:05.564 --> 00:05:08.264
+Procesos: definidos, con una persona responsable y
+
+187
+00:05:08.264 --> 00:05:09.584
+un criterio de éxito.
+
+188
+00:05:09.584 --> 00:05:10.444
+Sabes qué entra,
+
+189
+00:05:10.444 --> 00:05:11.764
+qué sale y qué es un buen
+
+190
+00:05:11.764 --> 00:05:12.584
+resultado.
+
+191
+00:05:12.584 --> 00:05:14.224
+Agentes: con una función,
+
+192
+00:05:14.224 --> 00:05:15.204
+límites,
+
+193
+00:05:15.204 --> 00:05:17.244
+una regla para saber cuándo pedir ayuda
+
+194
+00:05:17.244 --> 00:05:18.324
+y una evaluación.
+
+195
+00:05:18.324 --> 00:05:20.144
+La competencia no será solo por quién
+
+196
+00:05:20.144 --> 00:05:21.584
+tiene el modelo más inteligente.
+
+197
+00:05:21.584 --> 00:05:23.784
+Será por quién organiza mejor el conocimiento,
+
+198
+00:05:23.784 --> 00:05:25.124
+las personas, los procesos,
+
+199
+00:05:25.124 --> 00:05:27.424
+los agentes, la evaluación y el aprendizaje.
+
+200
+00:05:27.424 --> 00:05:29.004
+Y eso vale tanto para un laboratorio
+
+201
+00:05:29.004 --> 00:05:31.724
+de IA como para una empresa pequeña.
+
+202
+00:05:31.724 --> 00:05:32.624
+En la práctica,
+
+203
+00:05:32.624 --> 00:05:34.384
+yo no copiaría la constitución de Claude.
+
+204
+00:05:34.384 --> 00:05:36.244
+Haría una versión para tu operación.
+
+205
+00:05:36.244 --> 00:05:37.384
+Una página por agente,
+
+206
+00:05:37.384 --> 00:05:38.684
+con seis cosas.
+
+207
+00:05:38.684 --> 00:05:40.664
+Misión: para qué existe.
+
+208
+00:05:40.664 --> 00:05:42.884
+Principios: qué es lo más importante.
+
+209
+00:05:42.884 --> 00:05:45.324
+Prioridades: qué prevalece cuando dos cosas entran
+
+210
+00:05:45.324 --> 00:05:46.624
+en conflicto; por ejemplo,
+
+211
+00:05:46.624 --> 00:05:48.744
+seguridad antes que rapidez.
+
+212
+00:05:48.744 --> 00:05:50.404
+Límites: qué nunca hace.
+
+213
+00:05:50.404 --> 00:05:52.804
+Cuándo escalar: en qué situación se detiene
+
+214
+00:05:52.804 --> 00:05:54.024
+y llama a una persona.
+
+215
+00:05:54.024 --> 00:05:56.204
+Y ejemplos de decisiones difíciles.
+
+216
+00:05:56.204 --> 00:05:58.204
+Por ejemplo, un agente de atención al
+
+217
+00:05:58.204 --> 00:06:00.064
+cliente puede cambiar por su cuenta la
+
+218
+00:06:00.064 --> 00:06:00.804
+fecha de entrega.
+
+219
+00:06:00.804 --> 00:06:03.104
+Para un reembolso de hasta doscientos reales,
+
+220
+00:06:03.104 --> 00:06:05.324
+prepara todo y una persona lo aprueba.
+
+221
+00:06:05.324 --> 00:06:07.024
+Si un cliente habla de iniciar acciones
+
+222
+00:06:07.024 --> 00:06:08.864
+legales, el agente no responde y se
+
+223
+00:06:08.864 --> 00:06:10.224
+lo pasa directamente al gerente.
+
+224
+00:06:10.224 --> 00:06:12.004
+Y la constitución no se escribe una
+
+225
+00:06:12.004 --> 00:06:13.664
+vez para luego olvidarla.
+
+226
+00:06:13.664 --> 00:06:15.524
+Forma parte de un ciclo.
+
+227
+00:06:15.524 --> 00:06:16.824
+Misión, constitución
+
+228
+00:06:16.824 --> 00:06:17.824
+y contexto.
+
+229
+00:06:17.824 --> 00:06:19.624
+El agente ejecuta las tareas con sus
+
+230
+00:06:19.624 --> 00:06:20.304
+herramientas.
+
+231
+00:06:20.304 --> 00:06:22.244
+Revisas y evalúas el resultado.
+
+232
+00:06:22.244 --> 00:06:24.484
+Das comentarios y revisas la constitución.
+
+233
+00:06:24.484 --> 00:06:25.684
+Y empieza un nuevo ciclo,
+
+234
+00:06:25.684 --> 00:06:26.884
+con mejores criterios.
+
+235
+00:06:26.884 --> 00:06:28.444
+Lo que casi todo el mundo olvida
+
+236
+00:06:28.444 --> 00:06:29.024
+es medir.
+
+237
+00:06:29.024 --> 00:06:30.724
+Guarda los casos de prueba y el
+
+238
+00:06:30.724 --> 00:06:31.824
+registro de las fallas.
+
+239
+00:06:31.824 --> 00:06:33.644
+Si la revisión no mejoró el resultado
+
+240
+00:06:33.644 --> 00:06:34.784
+en las mismas pruebas,
+
+241
+00:06:34.784 --> 00:06:35.884
+el agente no mejoró.
+
+242
+00:06:35.884 --> 00:06:38.644
+A eso le llamamos IA cultivada:
+
+243
+00:06:38.644 --> 00:06:40.424
+formar el comportamiento poco a poco,
+
+244
+00:06:40.424 --> 00:06:42.484
+en vez de configurarlo una sola vez.
+
+245
+00:06:42.484 --> 00:06:44.784
+Antes, el gran desafío era contratar personas
+
+246
+00:06:44.784 --> 00:06:47.064
+con buenos valores y enseñarles los procesos.
+
+247
+00:06:47.064 --> 00:06:50.124
+Ahora, además, tendremos que construir agentes capaces
+
+248
+00:06:50.124 --> 00:06:51.284
+de entender esos valores,
+
+249
+00:06:51.284 --> 00:06:54.284
+ejecutar los procesos y reconocer cuándo necesitan
+
+250
+00:06:54.284 --> 00:06:54.924
+pedir ayuda.
+
+251
+00:06:54.924 --> 00:06:56.704
+Por eso la gestión no pierde importancia
+
+252
+00:06:56.704 --> 00:06:58.444
+en la era de la IA.
+
+253
+00:06:58.444 --> 00:06:59.144
+Cobra más.
+
+254
+00:06:59.144 --> 00:07:00.164
+Empieza esta semana:
+
+255
+00:07:00.164 --> 00:07:01.724
+elige un agente que uses y escribe
+
+256
+00:07:01.724 --> 00:07:03.264
+la primera página de su constitución.
+
+257
+00:07:03.264 --> 00:07:05.724
+Misión, límites y cuándo debe llamarte.
+
+258
+00:07:05.724 --> 00:07:07.584
+En INEMA punto club encontrarás el curso
+
+259
+00:07:07.584 --> 00:07:08.704
+para hacerlo paso a paso.
+
+260
+00:07:08.704 --> 00:07:10.164
+Abierto y gratuito.
+

@@ -1,0 +1,271 @@
+{
+  "slug": "avaliacao",
+  "num": 6,
+  "menu": "Evaluation",
+  "titulo": "Evaluating people who work with agents",
+  "titulo_curto": "Evaluating people",
+  "minutos": 18,
+  "lead": "Juliana's goal is still \"conversations handled per day.\" But Hora handles most of them. Measuring Juliana by volume is measuring Hora, and it also pushes Juliana to take back the easy conversations. Her work has changed to deciding, reviewing, improving and taking care of people. In this lesson, the evaluation changes along with it.",
+  "objetivo": "change the evaluation of a role from \"how much it did\" to \"what it decided, reviewed, improved and taught,\" with evidence for each criterion.",
+  "competencias": [
+    "redesenhar-avaliacao-de-cargo",
+    "medir-decisao-e-revisao",
+    "evitar-incentivo-errado"
+  ],
+  "aprende": [
+    {
+      "t": "Why the volume goal ended up measuring the agent"
+    },
+    {
+      "t": "The four criteria: deciding, reviewing, improving, relationship and teaching"
+    },
+    {
+      "t": "Where the evidence for each criterion comes from"
+    },
+    {
+      "t": "What can't go into the evaluation"
+    }
+  ],
+  "hero_alt": "A manager and a salesperson sit talking face to face; between them, a printed sheet with colored boxes and a laptop with a simple chart.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "From \"how much you did\" to \"what you decided\"",
+      "sub": "Volume leaves the individual target; four criteria come in. Tap each one.",
+      "nos": [
+        {
+          "icone": "grafico",
+          "titulo": "Volume",
+          "sub": "leaves the target",
+          "detalhe": "Conversations handled, orders entered: if the agent does most of it, the number is the agent's. It stays on the team dashboard, not in the person's evaluation."
+        },
+        {
+          "icone": "check",
+          "titulo": "Decide",
+          "sub": "right verb, on time",
+          "forte": true,
+          "detalhe": "The exceptions the person resolved: on time, with the right verb (approve, send back, stop) and with a written reason. Evidence: the exception queue log."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Review",
+          "sub": "what you caught",
+          "detalhe": "The agent's errors the person found in the sample and logged, and the ones that slipped through and someone found later. Finding errors always counts in the person's favor."
+        },
+        {
+          "icone": "memoria",
+          "titulo": "Improve",
+          "sub": "what became a rule",
+          "detalhe": "Cases the person turned into a change: a new test case, a new line in the matrix, a sentence in the constitution, a process step that disappeared."
+        },
+        {
+          "icone": "usuario",
+          "titulo": "Relationships",
+          "sub": "and teaching",
+          "detalhe": "What only people do well: the difficult customer who stayed, the new colleague who learned. Evidence: cases told by the person and by those they served or trained."
+        }
+      ],
+      "legenda": "Criteria recommended by INEMA for roles that work with agents; they do not replace your company's evaluation policy or labor law."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "How to change the evaluation",
+      "sub": "Four steps, with Juliana's sheet as an example.",
+      "passos": [
+        {
+          "titulo": "Volume changed owners",
+          "sub": "and the target got crooked",
+          "texto": [
+            "When the agent does most of the volume, the person's volume target measures the agent. Worse: it pushes the person to take the easy conversations back, or to leave the exception queue waiting.",
+            "Take volume out of the individual evaluation and keep it on the team dashboard. The evaluation question becomes what the person did with the work only they can do."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte (fictional study company)",
+            "texto": "Juliana's old target: 120 conversations a day. With Hora, she handles the ones left over, harder and longer. The old target would fail her for the most important work."
+          }
+        },
+        {
+          "titulo": "Four criteria",
+          "sub": "one for each type of work",
+          "texto": [
+            "Decide (exceptions on time, right verb, reason), review (errors found and errors that slipped through), improve (what became a rule or test), relationships and teaching (difficult customer, colleague trained).",
+            "Set weights by role. For people who serve customers, deciding and reviewing weigh more; for those who train the junior, teaching weighs more."
+          ],
+          "exemplo": {
+            "rot": "On Juliana's sheet",
+            "texto": "Decide 35% · Review 25% · Improve 20% · Relationships and teaching 20%."
+          }
+        },
+        {
+          "titulo": "Evidence, not impression",
+          "sub": "and a described scale",
+          "texto": [
+            "For each criterion, write where the evidence comes from: the queue log, the review spreadsheet, the change requests, the cases told. An evaluation without a source becomes sympathy.",
+            "Describe each score on the 1-to-4 scale with a behavior. \"3 = resolves on time with a reason, sometimes with the wrong verb\" can be evaluated; \"3 = good\" cannot."
+          ],
+          "exemplo": {
+            "rot": "Evidence for \"decide\"",
+            "texto": "Queue log: 26 of 28 exceptions this month on time, all with a reason, 2 with the wrong verb (sent back what should have been stopped). Fictional numbers."
+          }
+        },
+        {
+          "titulo": "What stays out",
+          "sub": "wrong incentives",
+          "texto": [
+            "Never punish someone who points out an agent error: a found error is a contribution. Never use an agent's number as a personal target. Never compare a person's speed with the agent's.",
+            "In the evaluation conversation, the person brings three cases from the period: a hard decision, an error they caught and an improvement. The conversation starts from them, not from the spreadsheet."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "Juliana brought the hotel request she held back, the deadline error from Hora that she logged and the test case she proposed. The conversation lasted 30 minutes and ended with a teaching goal: help Lucas in week 3."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The role's evaluation sheet and a prompt that looks for wrong incentives. The tab next to it shows Juliana's.",
+      "blocos": [
+        {
+          "rot": "Role evaluation sheet",
+          "icone": "lista",
+          "conteudo": "EVALUATION SHEET · role <...> · person <name> · period <...> · evaluator <name>\nAgents the person works with: <names>\n\nCRITERION        WEIGHT  WHAT COUNTS                          EVIDENCE (WHERE IT COMES FROM)\n1 Decide         <%>   exceptions on time, right verb,     <queue log>\n                       written reason\n2 Review         <%>   agent errors found and              <review spreadsheet>\n                       logged; errors that slipped through\n3 Improve        <%>   cases that became a test, rule      <change requests>\n                       or process adjustment\n4 Relationships  <%>   difficult customer resolved;        <cases told; who was\n  and teaching         colleague trained                    served or trained>\n\nSCALE (describe each score per criterion)\n1 = <behavior> · 2 = <...> · 3 = <...> · 4 = <...>\n\nWHAT STAYS OUT: volume the agent handles · speed comparison with the agent\n  · agent error pointed out by the person (counts in their favor, under \"review\")\n\nTHE PERSON BRINGS 3 CASES: hard decision · error caught · improvement\nSCORES: 1 <..> 2 <..> 3 <..> 4 <..> · agreement for the next period: <...>"
+        },
+        {
+          "rot": "Prompt · look for wrong incentives",
+          "icone": "chat",
+          "conteudo": "You review the evaluation sheet for a role that works alongside\nAI agents. Do not give scores and do not rewrite: point out risks.\n\n1. Does any criterion, in practice, measure the agent's work and not the\n   person's?\n2. Could any criterion punish someone who points out an agent's mistake?\n3. Does any criterion encourage the person to take back the easy work\n   or to leave an exception waiting?\n4. Does each criterion have evidence with a source? Does the scale describe\n   behavior or just adjectives?\n\nSheet:\n\"\"\"<paste here>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Juliana's sheet (example)",
+            "html": "<p><b>Evaluation sheet · customer service · Juliana · Q4</b> · evaluator: Patrícia · works with Hora · Horizonte, a fictional study company</p><ol><li><b>Decide (35%)</b> · exceptions on time, right verb, reason · queue record. 4 = everything on time and with the right verb; 3 = on time, sometimes with the wrong verb; 2 = frequent delays; 1 = decides without a reason.</li><li><b>Review (25%)</b> · Hora's mistakes found in the weekly sample and recorded · review spreadsheet.</li><li><b>Improve (20%)</b> · test cases and proposed adjustments that were adopted · change requests.</li><li><b>Relationships and teaching (20%)</b> · difficult customers resolved; support for Lucas in week 3 · cases told and the conversation with Sandra.</li></ol><p><b>Not included:</b> conversations per day (that's Hora's). <b>Cases brought:</b> the hotel request that was held; Hora's wrong deadline that was recorded; the test case \"customer asks for a deadline the app doesn't show\".</p>"
+          },
+          {
+            "rot": "How to check / common mistakes",
+            "html": "<ol><li><b>Leftover volume target.</b> If the agent handles the volume, the number is the agent's.</li><li><b>Counting mistakes against the person.</b> Someone who finds an agent's mistake is doing the work of reviewing; count it in their favor.</li><li><b>Scale with adjectives.</b> \"Good\" and \"great\" can't be checked. Describe the behavior.</li><li><b>Evidence without a source.</b> Each criterion says where the data comes from.</li><li><b>Sheet written without the person.</b> Show it before the period starts, not on evaluation day.</li></ol>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Redo Juliana's sheet; then one for a role on your team, with the person.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Juliana's sheet",
+          "min": "25 min",
+          "texto": "Using the matrix from lesson 2 and what Juliana now does, write her evaluation sheet with the four criteria, weights, evidence and scale. Run the wrong-incentive prompt and fix it.",
+          "pronto": "the sheet has 4 criteria with weights adding up to 100%, evidence with a source for each, a 1-to-4 scale described by behavior in at least 2 criteria, \"conversations per day\" left out of the individual evaluation and mistakes found counted in her favor."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · A sheet for a role on your team",
+          "min": "40 min",
+          "texto": "Choose a role on your team that already works with an agent, or will. Write the sheet and show it to the person before the next period starts. Note what they would change.",
+          "pronto": "the sheet has the 4 criteria with evidence and scale, no criterion measures the agent's volume, the person read it before the period and at least one adjustment came from them."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "Hora handles most of the conversations. What does Juliana's \"conversations per day\" target measure?",
+          "opcoes": [
+            "In large part Hora, and it also creates the wrong incentive",
+            "Juliana's performance in the day's customer service",
+            "The satisfaction of the customers served by the team"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "When the volume belongs to the agent, the person's volume target measures the agent and creates the wrong incentive. Volume goes on the team dashboard."
+        },
+        {
+          "p": "Juliana found and recorded 6 of Hora's mistakes this month. How does that count in her evaluation?",
+          "opcoes": [
+            "Against her: many errors in the area she looks after",
+            "In her favor, under \"review\": finding errors is the job",
+            "It doesn't count: the agent's error is an IT matter"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Punishing someone who points out an agent's mistake teaches the team to hide mistakes. Review is part of the role; count it in their favor."
+        },
+        {
+          "p": "Which scale can be evaluated?",
+          "opcoes": [
+            "3 = good performance in the period, above what is expected for the role",
+            "3 = above the team average",
+            "3 = on time, with a reason, sometimes the wrong verb"
+          ],
+          "certa": 2,
+          "ref": "passos",
+          "explica": "A scale described by behavior can be checked against the evidence. An adjective turns into the evaluator's goodwill."
+        },
+        {
+          "p": "In the evaluation conversation, why does the person bring three cases?",
+          "opcoes": [
+            "So she can defend herself against the scores in the spreadsheet",
+            "To start from the real work, not just the spreadsheet",
+            "To comply with the company's HR protocol"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "The cases show the judgment that numbers don't capture and give a basis for agreeing on the next period."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Volume belongs to the agent",
+          "texto": "It leaves the individual target and stays on the team dashboard."
+        },
+        {
+          "t": "Four criteria",
+          "texto": "Decide, review, improve, relationships and teaching."
+        },
+        {
+          "t": "Evidence with a source",
+          "texto": "Record, spreadsheet, change request, case told; scale by behavior."
+        },
+        {
+          "t": "Mistakes found count in their favor",
+          "texto": "Never punish someone who points out an agent's mistake."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "G3 · Agents: the exception queue and the three verbs",
+          "href": "https://inematds.github.io/gestao-ia-agentes-v72/aulas/supervisao/",
+          "icone": "fila"
+        },
+        {
+          "t": "AI Management Area: the indicators for an agent and for the hybrid team",
+          "href": "https://eventos.inema.pro/gestao-ia/",
+          "icone": "grafico"
+        },
+        {
+          "t": "Gestoria: running a hybrid operation from end to end",
+          "href": "https://inematds.github.io/gestoria/",
+          "icone": "camadas"
+        }
+      ]
+    }
+  ]
+}

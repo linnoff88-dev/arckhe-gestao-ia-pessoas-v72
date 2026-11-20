@@ -1,0 +1,455 @@
+{
+  "slug": "plano",
+  "num": 8,
+  "menu": "Project",
+  "titulo": "Project: the people plan + What changed",
+  "titulo_curto": "Project: the people plan",
+  "minutos": 20,
+  "lead": "The owner wants to know if the team can handle the change; the team wants to know what happens to them. Both answers fit on one page: who does what, how the conversation was held, how new people are trained, which values apply to people and agents, how performance is evaluated, and how agents come in and go out. The project is this plan, approved by rubric.",
+  "objetivo": "deliver the area's people plan on one page and get it approved by the rubric, read by the people it affects and signed by the person who is accountable.",
+  "competencias": [
+    "montar-plano-de-pessoas",
+    "aplicar-rubrica-de-aprovacao",
+    "ler-mercado-com-tipo-de-afirmacao"
+  ],
+  "aprende": [
+    {
+      "t": "The five blocks of the people plan on one page"
+    },
+    {
+      "t": "Applying the rubric, including the items that fail the plan on their own"
+    },
+    {
+      "t": "Who reads it first, who signs, and when to review"
+    },
+    {
+      "t": "What changed through October 2026, with date, source, and type"
+    }
+  ],
+  "hero_alt": "The manager presents a single sheet with colored blocks to the owner and two colleagues at a round table; behind the glass, the warehouse with pallets.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The people plan",
+      "sub": "Five blocks on one page, each backed by the pieces from one or two lessons, plus the rubric and the read-through by the people affected. Tap each part.",
+      "volta": "Failed on one item: go back to the block that failed, not to zero",
+      "nos": [
+        {
+          "icone": "lista",
+          "titulo": "Roles",
+          "sub": "lesson 2",
+          "detalhe": "The work-split matrix: what stays with each person, what goes to the agent, what both do together with whoever decides, and where the freed-up time goes."
+        },
+        {
+          "icone": "chat",
+          "titulo": "Conversation",
+          "sub": "lessons 1, 3",
+          "detalhe": "The example's team agreement (data rule, room to experiment) and the honest conversation: when it was held, what was said, the open questions with dates, and the commitments."
+        },
+        {
+          "icone": "usuario",
+          "titulo": "Training",
+          "sub": "lessons 4, 7",
+          "detalhe": "The 30-day path for new hires and the training for people who supervise agents, with a mentor and backups."
+        },
+        {
+          "icone": "alvo",
+          "titulo": "Culture",
+          "sub": "lessons 5, 6",
+          "forte": true,
+          "detalhe": "The team's values with the agent's version, and the evaluation sheets for roles that work with agents, with no volume target for the agent."
+        },
+        {
+          "icone": "arquivo",
+          "titulo": "Agents",
+          "sub": "lesson 7",
+          "detalhe": "The area's agent register with owner and status, and the onboarding and offboarding procedure."
+        },
+        {
+          "icone": "check",
+          "titulo": "Rubric",
+          "sub": "and read-through",
+          "detalhe": "The rubric gives the score and has five items that fail the plan on their own. At Horizonte, Patrícia builds it, Juliana and Sandra read it and say whether what is written actually happened, and Carlos signs."
+        }
+      ],
+      "legenda": "Teaching approval of the plan does not replace HR policies, labor agreements, or the decisions of whoever is accountable for the company."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "From draft to signature",
+      "sub": "Four steps. The Horizonte plan is practice; your area's plan is the one that counts.",
+      "passos": [
+        {
+          "titulo": "One page",
+          "sub": "with the pieces behind it",
+          "texto": [
+            "The page summarizes; the pieces prove it. Each block has two or three lines and points to the lesson document that backs it: matrix, script, path, values, sheets, register.",
+            "Mark what has already happened and what is only intent. \"Meeting held on 10/30\" and \"meeting planned\" carry different weight at signing."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte (fictional study company)",
+            "texto": "\"People plan · sales · v1 · Nov 2026\": one page up front; behind it, the pieces from lessons 1 to 7."
+          }
+        },
+        {
+          "titulo": "Run it through the rubric",
+          "sub": "100 points and five must-haves",
+          "texto": [
+            "The rubric adds up to 100 points across six blocks. You pass with 75 or more and all five must-haves checked. One missing must-have fails the plan, even at 95 points.",
+            "The must-haves protect people: a decision with a name on it, no promise the company hasn't made, learning by hand before reviewing, no one punished for pointing out an agent's mistake, no agent without an owner."
+          ],
+          "exemplo": {
+            "rot": "Panel test",
+            "texto": "Run the panel prompt (next to this). It points out gaps; the score is up to you, and to whoever signs."
+          }
+        },
+        {
+          "titulo": "Those affected read first",
+          "sub": "and whoever answers for it signs",
+          "texto": [
+            "In the people plan, the ones who read before signing are the people affected: they say whether the conversation, the path and the sheet happened as written. It's not a vote; it's a check.",
+            "Whoever signs is the person who answers for the people and the budget. They read the page, check the must-haves, and ask, ideally, about what is still unknown."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "Patrícia puts it together. Juliana checks her own conversation and her sheet; Sandra checks Lucas's path. Carlos reads it, asks what happens to customer service in a year, and signs knowing the honest answer is \"we don't know yet.\""
+          }
+        },
+        {
+          "titulo": "Review date",
+          "sub": "the plan gets old",
+          "texto": [
+            "The plan goes out with a review date: every quarter, or sooner if a new agent comes in, someone new joins, or the conversation with the team needs to be redone.",
+            "At the review, what was an intention becomes a fact or goes back into the plan: was the path completed? was the new sheet used? were the open questions answered?"
+          ],
+          "exemplo": {
+            "rot": "Rule",
+            "texto": "An agent came in or left, or the work-split matrix changed: redo the conversation with those affected before touching the evaluation."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The plan on one page, the rubric and a panel prompt. The tab next to this one shows Horizonte's plan.",
+      "blocos": [
+        {
+          "rot": "People plan (1 page)",
+          "icone": "arquivo",
+          "conteudo": "PEOPLE PLAN · <area> · version <...> · <date> · owner <name>\nTeam: <n> people · agents: <names> · mark: DONE (D) or PLANNED (P)\n\n1. ROLES\n   Matrix v<...>: <n> tasks · S <n> · P <n> · 2 <n> · A <n>\n   Decisions with a name: <task → person> · freed-up time goes to: <...>\n2. EXAMPLE AND CONVERSATION\n   Team agreement: data rule posted in <channel> · time to experiment <day>\n   Honest conversation on <date> (D/P) · open questions: <n>, answers by <date>\n   Commitments: <...>\n3. TRAINING\n   30-day path: <name> · mentor <name> · current week <...>\n   Trained supervisors: <name → agent> · substitutes: <...>\n4. CULTURE AND EVALUATION\n   Values v<...> (<n>, written with the team on <date>) · excerpt in the agent: <yes/no>\n   New sheets: <roles> · agent volume outside the individual target: <yes/no>\n5. AGENT ONBOARDING AND OFFBOARDING\n   Register: <n> agents, all with an owner · offboardings with succession: <...>\n\nRUBRIC SCORE: <...>/100 · required items <5 of 5>\nREAD BY (affected people): <names, date, what they corrected>\nBUILT BY: <name> · APPROVED BY (who answers for it): <name> on <date>\nNEXT REVIEW: <date> or sooner, if an agent or person joins or leaves"
+        },
+        {
+          "rot": "Rubric for the plan (100 points)",
+          "icone": "lista",
+          "conteudo": "RUBRIC · people plan · passes with >= 75 AND the 5 required items\n\nBLOCK                          POINTS  CRITERION FOR FULL POINTS\n1. Roles                         25    matrix with the 4 columns and reason; \"both\" with\n                                       who decides and deadline; agreed use of freed-up time\n2. Example and conversation      20    data rule written down; time slot with a date; conversation\n                                       held covering what changes, what doesn't and what we don't know\n3. Training                      20    path with a hands-on task, paired review and\n                                       criterion; trained supervisors with a substitute\n4. Culture and evaluation        20    values with the reason and the agent's version; sheets\n                                       with 4 criteria, evidence and a described scale\n5. Agent onboarding and offboarding 10 register with owner and status; offboarding with\n                                       access cut and succession\n6. Clarity                        5    one page; done vs. planned marked;\n                                       fictional or anonymized data identified\n\nREQUIRED ITEMS (one missing means fail)\n[ ] Every task of approving, signing or registering has a named person\n[ ] No promise of employment, position or savings that the company has not decided in writing\n[ ] Anyone joining does tasks by hand before reviewing the agent\n[ ] The evaluation does not punish whoever points out an agent's error\n[ ] Every agent has an owner and, at offboarding, someone who takes over the work\n\nSCORE: <...>/100 · required items: <...>/5 · result: [ ] approved [ ] goes back to <block>"
+        },
+        {
+          "rot": "Prompt · panel review before signing",
+          "icone": "chat",
+          "conteudo": "You are the review panel for the people plan of an area that works\nwith AI agents, using the rubric below. You do not approve or\nreject: you point out gaps for whoever will sign.\n\nFor each block of the rubric:\n1. Say what is present and what is missing for full points,\n   quoting the passage from the plan.\n2. Mark each required item as present or absent, with the passage.\n3. List phrases that sound like a promise about employment, position or savings.\n4. List the three questions whoever signs should ask, at least\n   one about what is still not known.\n\nDo not invent information that is not in the plan.\n\nRubric:\n\"\"\"<paste the rubric>\"\"\"\nPlan:\n\"\"\"<paste the plan>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Horizonte's plan (example)",
+            "html": "<p><b>People plan · sales · v1 · Nov 2026</b> · Horizonte, fictional study company · owner: Patrícia</p><ol><li><b>Roles (F):</b> matrix v1.0, 10 tasks · S 1 · P 3 · 2 4 · A 2 · Patrícia approves discounts of 5% to 10% and orders over R$ 5 thousand; Juliana checks customer records · Juliana's time goes to records and the queue, agreed on 10/22.</li><li><b>Example and conversation:</b> data rule posted in the \"sales · AI\" group (F) · Thursday 4 p.m. to experiment (F) · conversation on 10/30 (F) · 3 open questions, answers by 11/13 · monthly conversation.</li><li><b>Training:</b> Lucas's 30-day path, mentor Sandra, week 1 (F) · Juliana trained to supervise Hora, backup Sandra (F).</li><li><b>Culture and evaluation:</b> 4 values written with the team on 11/06 (F), excerpt in Hora's constitution (F) · Juliana's new evaluation sheet shown to her and in use in Q4 (F); the salespeople's sheets for Q1 2027 (P).</li><li><b>Onboarding and offboarding:</b> register with 3 agents and automations, all with an owner · daily summary suspended, reading taken over by Juliana (F).</li></ol><p><b>Rubric:</b> 82/100, 5 of 5 required. <b>Read by:</b> Juliana (fixed the date of the conversation) and Sandra. <b>Approved:</b> Carlos. <b>Review:</b> February 2027.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "passos",
+      "titulo": "What changed · October 2026",
+      "sub": "Quarterly panel, replaced at each course review. Each item comes with a date, a source and the type of claim: vendor survey, self-reported experience, forecast or study. The method in lessons 1 to 7 doesn't depend on any of them.",
+      "passos": [
+        {
+          "titulo": "The manager as a lever",
+          "sub": "vendor surveys",
+          "texto": [
+            "Microsoft, Work Trend Index 2025: the human manager of agents (\"agent boss\") and the metric balancing human oversight against agent efficiency (\"human-agent ratio\"). Work Trend Index 2026 (05/2026): 20,000 people in 10 countries; 16% are \"Frontier Professionals,\" who use agents in multi-step workflows and redesign their work; when the manager uses AI in front of the team, perceived value goes up 17 points.",
+            "Type: research done by the company that sells the tool. An analysis in The Microsoft Cloud Blog (05/2026) reminds readers that these numbers shouldn't carry a business case on their own."
+          ],
+          "exemplo": {
+            "rot": "For the plan",
+            "texto": "Use it as a signal for block 2 (example and conversation). The proof is what happens on your team after the agreement."
+          }
+        },
+        {
+          "titulo": "The shape of the team",
+          "sub": "self-reported experience and forecast",
+          "texto": [
+            "McKinsey (\"agentic organization\"): small teams built around outcomes, with 2 to 5 people supervising 50 to 100 agents. This is the consultancy's self-reported experience, not a measured study. Gartner (Oct 2024 forecast): by the end of 2026, 1 in 5 organizations will use AI to flatten their structure and cut more than half of middle management positions.",
+            "Critics point out that taking the layer off the org chart doesn't eliminate its work: coordinating, reviewing, training juniors."
+          ],
+          "exemplo": {
+            "rot": "For the plan",
+            "texto": "Block 1 (roles) and block 3 (training) are the practical answer: who does the work the layer used to do."
+          }
+        },
+        {
+          "titulo": "Who is coming in",
+          "sub": "study and job-posting data",
+          "texto": [
+            "Stanford Digital Economy Lab (08/2026): a relative drop of about 19% in employment among young people aged 22 to 25 in the occupations most exposed to AI, without claiming that AI is the cause. Indeed: the share of entry-level postings fell from 29% to 10%.",
+            "The data shows a narrower door; it doesn't say what each company should do. The path in lesson 4 is one of the answers."
+          ],
+          "exemplo": {
+            "rot": "For the conversation",
+            "texto": "Cite the data as it is: what it shows and what it does not prove. It is the same care as in lesson 3."
+          }
+        },
+        {
+          "titulo": "HR and governance",
+          "sub": "report, forecast and survey",
+          "texto": [
+            "Deloitte (Tech Trends 2026): onboarding of agents into data and operations, graduated autonomy, and training for human supervisors. Forrester (Predictions 2026, forecast): the large HR platforms will include \"digital employee\" management.",
+            "Okta (AI Agents at Work 2026, vendor survey): nearly two-thirds of organizations apply weaker security controls to agents than to employees."
+          ],
+          "exemplo": {
+            "rot": "Next review of this panel",
+            "texto": "January 2027, with the following quarter's overview. What is method (lessons 1 to 7) does not change; what is numbers and forecasts does."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "mapa",
+      "titulo": "The course map",
+      "sub": "The four deliverables that support the people plan and the exercises that produce them. Click an exercise to see its \"done when\".",
+      "degraus": [
+        {
+          "aula": "exemplo",
+          "icone": "play",
+          "quando": "Week 1",
+          "titulo": "Open",
+          "sub": "example and rule",
+          "saida": "Weekly team agreement kept and data rule set.",
+          "passo": "It starts with you: the team needs to see the leader using it before hearing any plan. The week of real use takes seven days."
+        },
+        {
+          "aula": "divisao",
+          "icone": "lista",
+          "quando": "Weeks 1 and 2",
+          "titulo": "Split",
+          "sub": "what stays with whom",
+          "saida": "Work-split matrix read by one person on the team.",
+          "passo": "The matrix is the basis for the conversation, the training and the evaluation. Do it with the person, not about them."
+        },
+        {
+          "aula": "conversa",
+          "icone": "chat",
+          "quando": "Week 2",
+          "titulo": "Talk",
+          "sub": "honesty with a date",
+          "saida": "Meeting held, questions noted and commitments on the calendar.",
+          "passo": "Requires the matrix. The simulation with Juliana is the rehearsal before the real meeting."
+        },
+        {
+          "aula": "avaliacao",
+          "icone": "alvo",
+          "quando": "Weeks 3 and 4",
+          "titulo": "Sustain",
+          "sub": "train, values, evaluate",
+          "saida": "Path, values, new evaluation sheet and agent register.",
+          "passo": "With the conversation done, the rest sustains the change: the path for newcomers (lesson 4), the values (lesson 5), the sheet (lesson 6) and the register (lesson 7)."
+        }
+      ],
+      "rolagem_fim": {
+        "titulo": "The whole plan",
+        "texto": "Open, split, talk and sustain, in this order. Each deliverable uses the previous one, and the plan only goes to signature when the \"done when\" of each step is true."
+      },
+      "resultado": {
+        "titulo": "At the end of the course",
+        "texto": "A one-page people plan, approved by the rubric, read by those affected and signed by whoever is accountable: roles, conversation, training, culture and evaluation, agents coming in and going out.",
+        "total": "18 exercises"
+      },
+      "legenda": "Recommended order: each deliverable uses the previous one."
+    },
+    {
+      "tipo": "gerador",
+      "titulo": "Generate your plan with dates",
+      "sub": "Choose the start date and how much time you have per week. The plan respects the exercises that call for a week of real use.",
+      "curso": "People: leading the hybrid team",
+      "horas_padrao": 3,
+      "degraus": [
+        {
+          "titulo": "Lesson 1 · The manager sets the example",
+          "aula": "exemplo"
+        },
+        {
+          "titulo": "Lesson 2 · What stays with people",
+          "aula": "divisao"
+        },
+        {
+          "titulo": "Lesson 3 · Fear, resistance and change",
+          "aula": "conversa"
+        },
+        {
+          "titulo": "Lesson 4 · The junior who supervises agents",
+          "aula": "junior"
+        },
+        {
+          "titulo": "Lesson 5 · Culture for people and for agents",
+          "aula": "cultura"
+        },
+        {
+          "titulo": "Lesson 6 · Evaluating people who work with agents",
+          "aula": "avaliacao"
+        },
+        {
+          "titulo": "Lesson 7 · HR for people and agents",
+          "aula": "rh"
+        },
+        {
+          "titulo": "Lesson 8 · The people plan",
+          "aula": "plano"
+        }
+      ],
+      "txt": {
+        "titulo": "Plan — People: leading the hybrid team",
+        "inicio": "Start",
+        "ritmo": "Pace",
+        "termino": "Expected finish",
+        "ate": "by",
+        "pronto": "done when",
+        "semanas": "weeks",
+        "travou": "## What got stuck and the rule I created",
+        "h": "h per week",
+        "exs": "exercises"
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Horizonte's plan to train the rubric; your area's plan to count.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Horizonte's plan",
+          "min": "40 min",
+          "texto": "Gather the Horizonte pieces you made in lessons 1 through 7 and build the plan page with the template. Run it through the rubric and run the panel prompt. Fix it until the score is above 75 with all five required items. Write who reads it beforehand and who signs at Horizonte, and why.",
+          "pronto": "Horizonte's plan fits on one page, has the five blocks with done and planned marked, a score of 75 or more with all five required items, no promises about jobs, and the names of who reads it (those affected) and who signs, different from who built it."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Your area's plan",
+          "min": "60 min",
+          "texto": "Do the same with the pieces from the practices on your team. Give it to at least one affected person to check what is written, and to the person who answers for the area to sign. Write down both of their questions.",
+          "pronto": "your area's plan has a score of 75 or more, the five required items, the date of the next review, the read-through by at least one affected person, and the signature (or written acceptance) of the person who answers for the area."
+        },
+        {
+          "id": "e3",
+          "titulo": "3 · Your dated plan",
+          "min": "5 min",
+          "texto": "Use the generator above to build the plan with your dates and download the .ics file for your calendar.",
+          "pronto": "the plan is saved and the dates are in your calendar."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "The plan scored 91 points, but it says \"no one on the team will lose their job\" with no written company decision. Result?",
+          "opcoes": [
+            "Approved: 91 is well above the minimum of 75",
+            "Approved with a caveat, to fix in the review",
+            "Failed: an undecided promise is mandatory"
+          ],
+          "certa": 2,
+          "ref": "codigo",
+          "explica": "The required items exist so that a high score does not hide a big problem. The plan goes back to the conversation block, not to zero."
+        },
+        {
+          "p": "Why do Juliana and Sandra read the plan before it is signed?",
+          "opcoes": [
+            "To check that what was written actually happened",
+            "To vote on whether the plan takes effect or not",
+            "To co-sign, sharing the responsibility"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "People who are affected know whether what is on paper actually happened. It is a check, not a vote; the person who answers for the area still signs."
+        },
+        {
+          "p": "McKinsey talks about 2 to 5 people supervising 50 to 100 agents. What kind of claim is this?",
+          "opcoes": [
+            "Measured study with a sample",
+            "Self-reported experience",
+            "Forecast for 2027"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "The type of claim changes its weight: self-reported experience, forecast, vendor survey and study all weigh differently. In the plan, none of them replaces what happens on your team."
+        },
+        {
+          "p": "A new agent joined the area three weeks after the signing. What should you do?",
+          "opcoes": [
+            "Onboard, review the work-split matrix and talk with the people affected",
+            "Wait for the quarterly review set in the plan",
+            "Redo the whole plan from scratch, with the team"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "The plan ages by event, not only by date. A new agent changes roles; those affected are heard before the evaluation changes."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "One page, five blocks",
+          "texto": "Roles, conversation, training, culture and evaluation, agents joining and leaving."
+        },
+        {
+          "t": "Rubric with required items",
+          "texto": "75 points and all five required items. One missing means failure."
+        },
+        {
+          "t": "Those affected read, the one who answers signs",
+          "texto": "Checked by the people who live the plan; signed by the person who answers for it."
+        },
+        {
+          "t": "Market with type",
+          "texto": "Vendor survey, self-reported experience, forecast or study, with date and source."
+        }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Certificate",
+      "paragrafos": [
+        "INEMA qualification certificate \"AI Manager\", coming soon at cert.inema.pro. It is not a regulated professional certification.",
+        "This is course G1 of the AI Management Program 2027. The other courses cover the agentic company (G0), processes (G2), agents (G3), resources (G4) and governing, measuring and evolving (G5), where the program's final project lives. Block 4 of the final rubric, people, is this plan."
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "AI Management Area: the program and the courses",
+          "href": "https://eventos.inema.pro/gestao-ia/",
+          "icone": "alvo"
+        },
+        {
+          "t": "G3 · Agents: hire, delegate and supervise",
+          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "icone": "usuario"
+        },
+        {
+          "t": "Gestoria: running a hybrid operation from end to end",
+          "href": "https://inematds.github.io/gestoria/",
+          "icone": "camadas"
+        }
+      ]
+    }
+  ]
+}

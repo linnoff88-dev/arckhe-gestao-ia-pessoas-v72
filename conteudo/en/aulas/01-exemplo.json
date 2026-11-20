@@ -1,0 +1,274 @@
+{
+  "slug": "exemplo",
+  "num": 1,
+  "menu": "Example",
+  "titulo": "The manager sets the example",
+  "titulo_curto": "The manager sets the example",
+  "minutos": 15,
+  "lead": "Patrícia's team already uses AI: one salesperson pastes the customer spreadsheet into a personal chatbot, another records visits without telling anyone. Nobody said anything because nobody asked, and the manager wasn't using it. Before any rule, the team needs to see their leader using agents for real, making mistakes and fixing them, and to know what is and isn't allowed.",
+  "objetivo": "use agents in your own work in front of the team and open a shared space to experiment, with a rule for customer data.",
+  "competencias": [
+    "dar-o-exemplo-com-agentes",
+    "combinar-regra-do-dado",
+    "abrir-espaco-para-experimentar"
+  ],
+  "aprende": [
+    {
+      "t": "Why the manager's example comes before the rule"
+    },
+    {
+      "t": "Show the agent's mistakes, not just its wins"
+    },
+    {
+      "t": "Agree on the data rule in three lines"
+    },
+    {
+      "t": "Make time and a channel for the team to experiment"
+    }
+  ],
+  "hero_alt": "A sales manager shows their own laptop screen on the meeting room TV; four colleagues follow along around the table, and one of them takes notes on paper.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "From example to team agreement",
+      "sub": "Five moves over one week. Click each one.",
+      "volta": "What the team brings on Friday goes back into the next week's team agreement",
+      "nos": [
+        {
+          "icone": "usuario",
+          "titulo": "Use it",
+          "sub": "yourself first",
+          "detalhe": "Pick three of your own real tasks and do them with an agent: the weekly summary, the reply to a difficult customer, the meeting agenda. It's not a prepared demo; it's your work."
+        },
+        {
+          "icone": "play",
+          "titulo": "Show",
+          "sub": "the mistake too",
+          "forte": true,
+          "detalhe": "In the team meeting, open your screen and show what the agent did, what you fixed and why. A corrected mistake teaches more than a win: it shows that checking is part of the work and that making mistakes with the agent is nothing to be ashamed of."
+        },
+        {
+          "icone": "cadeado",
+          "titulo": "Agree on",
+          "sub": "the data rule",
+          "detalhe": "Before the enthusiasm, three lines: what is allowed, what is never allowed (customer data in a personal account, recording without telling people) and who to ask when in doubt. A short rule, said out loud, written in the team group."
+        },
+        {
+          "icone": "relogio",
+          "titulo": "Open a space",
+          "sub": "time and a channel",
+          "detalhe": "One protected hour a week to test things, a channel to share what worked, and the agreement that nobody is punished for telling what they use. Without that, the experimenting keeps happening, just out of sight."
+        },
+        {
+          "icone": "lista",
+          "titulo": "Collect",
+          "sub": "what worked",
+          "detalhe": "On Friday, each person brings one use that worked and one that didn't. What worked becomes team practice; what touches data or customers goes into the rule."
+        }
+      ],
+      "legenda": "Sequence recommended by INEMA (Gestão de IA area and Nei's videos). The protected hour and the channel are a recommendation, not survey data."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Four steps to get started",
+      "sub": "Each tab gives the reason and what Patrícia did at Horizonte.",
+      "passos": [
+        {
+          "titulo": "Start at your own desk",
+          "sub": "three real tasks",
+          "texto": [
+            "You learn to manage agents by using them, the same way nobody learned to lead just by reading a leadership book. Pick tasks you do every week, that the team knows, and where a mistake doesn't reach the customer without you seeing it.",
+            "There is also a market data point. Microsoft, Work Trend Index 2026 (05/2026): when the manager uses AI in front of the team, perceived value goes up 17 points. This is research from a company that sells the tool; read it as a signal, not as proof."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte (fictional study company)",
+            "texto": "Patrícia chose: the weekly sales summary, a draft reply to a customer who complained about a delay, and Monday's meeting agenda. None of them goes out without her reading it."
+          }
+        },
+        {
+          "titulo": "Show the mistake",
+          "sub": "the correction is the lesson",
+          "texto": [
+            "Showing only the polished result teaches the team to trust without checking. Show the agent's draft, the part that was wrong, and what you changed.",
+            "Say out loud what you don't know yet. The team learns that the work now includes reviewing, and that whoever points out the agent's mistake is helping, not getting in the way."
+          ],
+          "exemplo": {
+            "rot": "At Monday's meeting",
+            "texto": "\"The summary invented a customer who didn't buy this week. I caught it because I checked it against the orders app. That's why nobody sends a summary to Carlos without checking it.\""
+          }
+        },
+        {
+          "titulo": "Set the data rule",
+          "sub": "three lines, before the excitement",
+          "texto": [
+            "When the leader starts using it, the team gets excited and brings out what they already use in secret. That's the time to agree on what is and isn't allowed, without punishing anyone who speaks up.",
+            "The rule fits in three lines: what's allowed, what's never done, and who to ask. Don't ban AI: ban the path that exposes the customer and offer a safe path."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "The internal survey found the customer spreadsheet in a personal chatbot and visits recorded without notice (lab failure F12). The rule: customer data only in company tools; record only with notice; if in doubt, ask Patrícia or Rafael."
+          }
+        },
+        {
+          "titulo": "Make room to experiment",
+          "sub": "protected time and a channel",
+          "texto": [
+            "Experimenting without time becomes experimenting in secret, on a phone, after hours. Reserve one hour a week on the team's calendar and a channel to show what worked and what didn't.",
+            "The most important agreement is that no one is punished for telling what they use. Without that, the next survey comes back empty and the risk is still there."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "Thursday, 4 to 5 p.m., everyone tests one of their own tasks. Friday, 10 minutes in the meeting: one win and one mistake from each person. The channel is a team group with the rule pinned at the top."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "A one-week team agreement and a prompt that reviews the agreement without deciding for you. The tab next to it shows Patrícia's.",
+      "blocos": [
+        {
+          "rot": "One-week team agreement",
+          "icone": "calendario",
+          "conteudo": "WEEKLY TEAM AGREEMENT · team <team name> · <start date> · leader: <name>\n\n1. MY 3 TASKS WITH THE AGENT (done by me, shown to the team)\n   a) <task> · tool: <which one, company account> · when: <day>\n   b) <task> · tool: <...> · when: <day>\n   c) <task> · tool: <...> · when: <day>\n   I'll show at the meeting on <day and time>: what the agent did, what I corrected and why.\n\n2. DATA RULE (3 lines, pinned in the team channel)\n   OK: <what is allowed, in which tools>\n   NEVER: <customer data in a personal account; recording without telling anyone; ...>\n   IN DOUBT: ask <name> or <name> before using it.\n\n3. SPACE TO EXPERIMENT\n   Protected time: <day, from hh to hh> · Channel: <group or folder>\n   Agreement: no one is punished for telling what they use.\n\n4. COLLECT ON FRIDAY (10 min)\n   Each person brings: 1 use that worked + 1 that didn't.\n   What worked becomes practice · what touches customers or data goes into the rule.\n\nTeam reactions noted: <...>\nNext review of the agreement: <date>"
+        },
+        {
+          "rot": "Prompt · review the agreement",
+          "icone": "chat",
+          "conteudo": "You are reviewing the agreement that a manager will present to the team about\nthe use of AI agents. Do not rewrite it and do not decide: point out gaps.\n\n1. Does any of the manager's 3 tasks put customer data at risk or\n   let something go out without the manager checking it?\n2. Does the data rule say what's allowed, what's never allowed and who to ask?\n   Is any \"never\" too vague for someone to know whether they complied?\n3. Are time and channel defined, with day and hour?\n4. Does the text punish, even unintentionally, anyone who tells what they already use?\n\nAnswer in short bullet points, quoting the passage.\n\nAgreement:\n\"\"\"<paste here>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Patrícia's agreement (example)",
+            "html": "<p><b>Week's agreement · sales · 10/26 · leader: Patrícia</b> · Horizonte, fictional study company</p><ol><li><b>Tasks:</b> sales week summary (Monday) · draft reply to the customer who complained about a delay (Tuesday) · meeting agenda (Wednesday). Tool: AI assistant on a company account, under contract. Shown at the Friday meeting, 9 a.m.</li><li><b>Data rule:</b> ALLOWED text without customer names, catalog and tables. NEVER a customer spreadsheet on a personal account, recording a visit without telling the customer. IN DOUBT Patrícia or Rafael.</li><li><b>Space:</b> Thursday, 4 to 5 p.m. · channel: group \"sales · AI\", rule pinned · no one is punished for telling what they use.</li><li><b>Friday:</b> one win and one mistake from each person.</li></ol><p><b>Reactions:</b> \"can I use it for a proposal?\" (yes, without the whole spreadsheet); \"what about the 6 p.m. summary?\" (stays with Juliana and Rafael, lesson 7).</p>"
+          },
+          {
+            "rot": "How to check / common mistakes",
+            "html": "<ol><li><b>Rehearsed demo.</b> If the task isn't really yours, the team can tell. Use the week's actual work.</li><li><b>Only the win.</b> If you don't show what you fixed, you teach people to trust without checking.</li><li><b>A rule that bans everything.</b> \"Don't use AI\" pushes the use onto personal phones. Ban the dangerous path and offer the safe one.</li><li><b>Space without a date.</b> \"When we can\" never happens. Day, time and channel.</li><li><b>Punishing whoever spoke up.</b> One scolding and the next survey comes back empty.</li></ol>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Practice with Patrícia's team; then do your own real week.",
+      "fonte": "Lab piece: <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">IT inventory and internal survey (F12)</a>.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Patrícia's agreement",
+          "min": "20 min",
+          "texto": "Read the 22 answers from the internal survey in the lab inventory. Write Patrícia's one-week agreement using the template: her three tasks, the data rule that resolves the sales team's two risky uses, and the space to experiment. Run the review prompt and fix what it points out.",
+          "pronto": "the agreement has 3 tasks with a day and a tool, a data rule with at least 2 \"nevers\" taken from the survey (spreadsheet on a personal account and recording without notice), a day and time to experiment, and a named channel."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Your week",
+          "min": "1 week",
+          "dias": 7,
+          "texto": "Write your own agreement and follow it: three of your own tasks with an agent over the week, shown to the team at a meeting along with what you corrected. Note what the team asked or told you they already use.",
+          "pronto": "the 3 tasks were done and shown at a meeting with a date, the data rule is pinned in the team channel, and you noted at least 2 reactions or questions from the team."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "Why should the manager show the agent's mistake, and not just the good result?",
+          "opcoes": [
+            "Because the correction shows that checking is part of the job",
+            "Because that way the team sees the agent is not reliable yet",
+            "Because making mistakes in public makes the team comfortable asking for help"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "Showing only the win teaches people to trust without checking. The corrected mistake shows the new work: reviewing. And it takes away the shame of making mistakes with the agent."
+        },
+        {
+          "p": "The survey revealed that a salesperson pastes the customer spreadsheet into a personal chatbot. Which agreement makes the most sense?",
+          "opcoes": [
+            "Ban the use of AI on the team until IT picks a tool",
+            "Allow it, since the proposal goes out faster and the client won't even notice",
+            "Client data only in company tools, without punishing the person who admitted it"
+          ],
+          "certa": 2,
+          "ref": "passos",
+          "explica": "The need is legitimate; the path is what exposes the customer. Banning everything pushes use into hiding; leaving it as it is keeps the risk."
+        },
+        {
+          "p": "The Work Trend Index 2026 says perceived value rises 17 points when the manager uses AI in front of the team. How should you use that number?",
+          "opcoes": [
+            "As proof that the same effect will happen on your team too",
+            "As a signal from the vendor survey, which does not decide on its own",
+            "As a target: go up 17 points in the next internal survey"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "It's research from the people who sell the tool. It helps guide the move; proof for your case is what happens on your team after the team agreement."
+        },
+        {
+          "p": "The team has no time to test anything. What does the diagram recommend?",
+          "opcoes": [
+            "Let each person try it when they have spare time in the day",
+            "Waiting for IT to pick a tool and train everyone on it first",
+            "Set aside one protected hour per week and a channel for sharing"
+          ],
+          "certa": 2,
+          "ref": "diagrama",
+          "explica": "Without time, the experimenting happens anyway, just hidden. The protected hour is an INEMA recommendation: adjust the size, but put a date on it."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "You first",
+          "texto": "Three real tasks of yours, done with an agent."
+        },
+        {
+          "t": "Mistakes in the open",
+          "texto": "What the agent got wrong and what you fixed teach people how to check."
+        },
+        {
+          "t": "Data rule",
+          "texto": "Allowed, never, and who to ask. No punishing the person who spoke up."
+        },
+        {
+          "t": "Time with a date",
+          "texto": "One hour a week, one channel, and Friday to collect what was learned."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "Horizonte Lab: IT inventory and the 22 survey answers (fictional study company)",
+          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "icone": "lupa"
+        },
+        {
+          "t": "Video: from technician to agent manager",
+          "href": "https://inematds.github.io/gestor-de-agentes/videos/",
+          "icone": "video"
+        },
+        {
+          "t": "AI Management Area: the thesis and the 8 skills",
+          "href": "https://eventos.inema.pro/gestao-ia/",
+          "icone": "alvo"
+        }
+      ]
+    }
+  ]
+}

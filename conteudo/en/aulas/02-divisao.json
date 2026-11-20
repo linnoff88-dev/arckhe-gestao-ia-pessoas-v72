@@ -1,0 +1,267 @@
+{
+  "slug": "divisao",
+  "num": 2,
+  "menu": "Split",
+  "titulo": "What stays with people",
+  "titulo_curto": "What stays with people",
+  "minutos": 18,
+  "lead": "Hora came on board and no one told Juliana what was changing for her. She found out on her own: the easy questions vanished from her queue, the hard ones stayed. Splitting the work is a management decision, made beforehand, task by task, with the reason written down. In this lesson you decide what stays with the person, what goes to the agent, and what both do together.",
+  "objetivo": "decide, task by task, what stays with the person, what goes to the agent, and what both do together, with the reason written down.",
+  "competencias": [
+    "dividir-trabalho-pessoa-agente",
+    "desenhar-trabalho-conjunto",
+    "planejar-capacidade-liberada"
+  ],
+  "aprende": [
+    {
+      "t": "List the tasks the way the person really works"
+    },
+    {
+      "t": "The four questions that decide the column"
+    },
+    {
+      "t": "Design the \"both together\": who prepares, who decides"
+    },
+    {
+      "t": "Decide where the freed-up time goes, without promising savings"
+    }
+  ],
+  "hero_alt": "Two colleagues arrange blank colored sticky notes into three columns on a glass board in the meeting room.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "One task, four questions",
+      "sub": "Each task goes through the questions in order. The first one you answer \"yes\" to decides the column. Click each step.",
+      "estilo": "escada",
+      "nos": [
+        {
+          "icone": "x",
+          "titulo": "Does it go away?",
+          "sub": "before splitting",
+          "detalhe": "First ask whether the task still needs to exist. A task that exists only out of habit (copying what another system already records, a report no one reads) goes to neither the person nor the agent: it goes away. Redesigning the process is a topic for G2."
+        },
+        {
+          "icone": "usuario",
+          "titulo": "Person",
+          "sub": "relationships, judgment",
+          "detalhe": "The person keeps whatever depends on relationships and on judgment about people: an angry key customer, a negotiation outside the policy, a conflict on the team, training someone, a new exception nobody foresaw. In the AI Management Area, take the healthcare example: the AI handles the administrative work, and people handle the team."
+        },
+        {
+          "icone": "check",
+          "titulo": "Both",
+          "sub": "agent prepares",
+          "forte": true,
+          "detalhe": "When someone has to answer for the decision (approve, sign, register), the agent prepares and the person decides. This is the legal example in the area: the agent does the first read, the lawyer decides and signs. And the accounting one: whoever posts does not approve."
+        },
+        {
+          "icone": "chip",
+          "titulo": "Agent",
+          "sub": "rule, volume",
+          "detalhe": "What goes to the agent is whatever repeats often, has a written rule, and is cheap to undo if it goes wrong: catalog questions, delivery times, orders from registered customers within the limit. Always with a record and someone checking a sample."
+        }
+      ],
+      "legenda": "Order of the questions: INEMA recommendation. The healthcare, legal and accounting examples come from the AI Management Area (§02). Horizonte's figures: fictional study policy."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "From list to matrix",
+      "sub": "Four steps. The matrix for Patrícia's team is practice; the one for your team is the one that counts.",
+      "passos": [
+        {
+          "titulo": "List how work is done",
+          "sub": "not what the job title says",
+          "texto": [
+            "The job description says \"customer service.\" The person's day has twenty different tasks, some that nobody knows they do. List them with the person, looking at one real week.",
+            "For each task, note who does it today and how often. This list, not the org chart, is what the matrix divides."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte (fictional study company)",
+            "texto": "Juliana listed 9 tasks; Patrícia didn't even know about three of them, such as retyping into the tracking spreadsheet the orders the order app already records."
+          }
+        },
+        {
+          "titulo": "Run each task through the four questions",
+          "sub": "and write down the reason",
+          "texto": [
+            "Does it go away? Does it depend on relationships or judgment about people? Does someone have to answer for the decision? Is it repeated, rule-based, and cheap to undo? The first \"yes\" decides the column.",
+            "Write the reason in one sentence. Without a reason, the split becomes opinion, and opinion changes with every complaint."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "\"Customer complaining about a delay\": relationship, stays with Juliana. \"Delivery time to Americana\": rule and volume, goes to Hora."
+          }
+        },
+        {
+          "titulo": "Design the \"both\"",
+          "sub": "who prepares, who decides",
+          "texto": [
+            "The middle column is the most common and the worst designed. For each task in it, write what the agent hands over ready, who decides, and within how long.",
+            "If nobody is named on the decision, the task fell to the agent without anyone noticing. The authority limit for each action is in G3; here the question is whose work it is."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "New customer: Hora collects the data and the CNPJ; Juliana checks and registers. Discount from 5% to 10%: Hora prepares; Patrícia approves."
+          }
+        },
+        {
+          "titulo": "Decide where the time goes",
+          "sub": "capacity, not savings",
+          "texto": [
+            "Taking a task off someone frees up hours, and freed hours are not savings. They only become results if you decide what the person does next, and tell them.",
+            "Don't promise what hasn't been decided. \"Your time goes to checking registrations and the queue with me\" is a decision; \"nobody will change roles\" is a promise."
+          ],
+          "exemplo": {
+            "rot": "At Horizonte",
+            "texto": "The time Juliana spent on the catalog goes to checking new registrations and to the exception queue with Patrícia. The salespeople get more time for visits."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Template to copy: task × person × agent matrix",
+      "sub": "One row per task. Paste it into a spreadsheet. The next tab shows Patrícia's team's matrix.",
+      "blocos": [
+        {
+          "rot": "Task × person × agent matrix",
+          "icone": "lista",
+          "conteudo": "WORK-SPLIT MATRIX · team <name> · version <1.0> · <date> · owner: <name>\nKey: P = stays with the person · 2 = both (agent prepares, person decides) · A = agent · S = goes away\n\n| Task (verb + object) | Who does it today | Frequency | Question that decided it | Column | For \"2\": the agent delivers... / who decides · deadline | What changes for the person |\n|---|---|---|---|---|---|---|\n| <retype order into the spreadsheet> | <name> | <daily> | goes away? yes: the system already logs it | S | - | <stops doing it> |\n| <upset customer about a delay> | <name> | <weekly> | relationship | P | - | <keeps it; gains time for it> |\n| <approve a discount above X%> | <name> | <...> | someone answers | 2 | <request with history> / <name> · <deadline> | <decides with a ready package> |\n| <catalog question> | <name> | <dozens per day> | rule and volume | A | - | <leaves their queue> |\n\nWHERE THE FREED-UP TIME GOES (decided, not promised):\n<name>: <new or expanded task> · agreed with the person on <date>\nRULE: no approve, sign or register task goes in column A."
+        },
+        {
+          "rot": "Prompt · review the matrix",
+          "icone": "chat",
+          "conteudo": "You review the work split between people and AI agents on a\nteam. Do not rewrite the matrix and do not decide: point out risks.\n\n1. List tasks in column A (agent) that involve approving, signing,\n   registering, money or personal data.\n2. List tasks in column 2 (both) with no name for who decides or no deadline.\n3. Point out tasks that seem to exist only out of habit (candidates for S).\n4. Point out any sentence that sounds like a promise about a job or role.\n\nAnswer in bullet points, citing the line.\n\nMatrix:\n\"\"\"<paste here>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Patrícia's team matrix (example)",
+            "html": "<p><b>Matriz de divisão · comercial · v1.0</b> · Horizonte, fictional study company · owner: Patrícia</p><ul><li><b>Retyping the app's orders into the spreadsheet</b> · Juliana · S (the app already records them).</li><li><b>Catalog questions and delivery times</b> · Juliana · A (Hora), with a weekly sample.</li><li><b>Order from a registered customer up to R$ 5,000</b> · salespeople · A (Hora), list price.</li><li><b>Discount from 5% to 10%</b> · 2 · Hora prepares with history / Patrícia approves on the spot.</li><li><b>Order above R$ 5,000</b> · 2 · Hora prepares / Patrícia approves within 2 business hours.</li><li><b>New customer registration</b> · 2 · Hora collects data and CNPJ / Juliana checks and registers.</li><li><b>Proposal for a large customer</b> · 2 · draft in the company's AI, without the whole spreadsheet / salesperson reviews and sends.</li><li><b>Customer angry about a delay</b> · P · Juliana.</li><li><b>Visit and negotiation with a large customer</b> · P · salespeople and Patrícia.</li><li><b>Train the junior hire who starts in November</b> · P · Sandra (lesson 4).</li></ul><p><b>Time freed:</b> Juliana moves to checking registrations and the exception queue with Patrícia (agreed on 10/22). Salespeople: more visits.</p>"
+          },
+          {
+            "rot": "How to check / common mistakes",
+            "html": "<ol><li><b>A list of the job, not of the day.</b> Without talking to the person, the invisible tasks are missing.</li><li><b>Approving in column A.</b> If the agent approves on its own, nobody answers for the decision.</li><li><b>\"Both\" with no name.</b> Without who decides and a deadline, the task fell to the agent and nobody saw it.</li><li><b>Skipping \"does it go away?\"</b> Splitting a useless task between person and agent is double waste.</li><li><b>Promising instead of deciding.</b> Say what the person will do next; don't guarantee what hasn't been decided.</li></ol>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Split the work of Patrícia's team; then your own team's, together with them.",
+      "fonte": "Lab pieces: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">WhatsApp agent (Hora)</a> and <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">internal survey</a>.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Patrícia's team matrix",
+          "min": "25 min",
+          "texto": "Use Hora's setup and the lab's internal survey to list the commercial team's work (Juliana, salespeople, Patrícia). Run each task through the four questions and fill in the matrix. Run the review prompt and fix whatever makes sense.",
+          "pronto": "the matrix has at least 10 tasks, uses all four columns (S, P, 2 and A), every row has its reason, every \"2\" task has who decides and a deadline, no task of approving, signing or registering is in column A, and the destination of Juliana's time is written down."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Your team's matrix",
+          "min": "40 min",
+          "texto": "Pick one person on your team and list with them the tasks of one real week. Build the matrix. Show it to them and write down what they corrected.",
+          "pronto": "the matrix has at least 8 tasks, each with a column and a reason, the person has read it, at least one change was made because of what they said, and what to do with the freed-up time was agreed with them, not promised."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick test",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "New customer registration, at Horizonte. Which column?",
+          "opcoes": [
+            "Agent: filling out registration forms is a repeated task, with rules and lots of volume",
+            "Both: Hora collects the data, Juliana checks it and registers it",
+            "Person: Juliana handles the new client from start to finish"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Someone answers for the registration (billing depends on it). The agent prepares; the person decides. Registration by the agent alone is red in Horizonte's policy."
+        },
+        {
+          "p": "Why ask \"drop it?\" before splitting?",
+          "opcoes": [
+            "Because a task that exists only out of habit should not go to anyone",
+            "Because the agent can't do the old tasks in the process",
+            "Because the old task should stay with the person, who already knows how to do it"
+          ],
+          "certa": 0,
+          "ref": "diagrama",
+          "explica": "Splitting a useless task wastes both their time. Retyping what the system already records goes away; redesigning the process is a topic for G2."
+        },
+        {
+          "p": "Juliana lost the catalog questions to Hora. What should Patrícia say?",
+          "opcoes": [
+            "\"Don't worry: nobody here is going to change roles, I can guarantee that.\"",
+            "\"Use the free time to rest a little more.\"",
+            "\"Your time goes to checking registrations and the queue with me.\""
+          ],
+          "certa": 2,
+          "ref": "passos",
+          "explica": "Freed-up time is capacity, not savings, and it only becomes a result if someone decides where it goes. Stating the decision is different from promising what hasn't been decided."
+        },
+        {
+          "p": "Which of these tasks stays with the person?",
+          "opcoes": [
+            "Handle the angry hotel owner over the third delay",
+            "Give the delivery date for Americana on Friday",
+            "Enter an order from a registered customer at list price"
+          ],
+          "certa": 0,
+          "ref": "diagrama",
+          "explica": "Relationships and judgment about people stay with the person. The other two have a rule, repeat, and are cheap to undo."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Task list for the day",
+          "texto": "Tasks the way the person works, listed with them."
+        },
+        {
+          "t": "Four questions",
+          "texto": "Drop it? Relationship? Someone answers for it? Rule and volume?"
+        },
+        {
+          "t": "Both",
+          "texto": "The agent prepares; a named person decides, with a deadline."
+        },
+        {
+          "t": "Time decided",
+          "texto": "Freed-up capacity has an agreed destination, not a promise."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "AI Management Area: the thesis (accounting, legal, health)",
+          "href": "https://eventos.inema.pro/gestao-ia/",
+          "icone": "alvo"
+        },
+        {
+          "t": "G2 · Processes: a process is not sacred",
+          "href": "https://inematds.github.io/gestao-ia-processos-v72/",
+          "icone": "camadas"
+        },
+        {
+          "t": "G3 · Agents: the authority limit for each action",
+          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "icone": "escudo"
+        }
+      ]
+    }
+  ]
+}

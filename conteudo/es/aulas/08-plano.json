@@ -1,0 +1,455 @@
+{
+  "slug": "plano",
+  "num": 8,
+  "menu": "Proyecto",
+  "titulo": "Proyecto: el plan de personas + Qué cambió",
+  "titulo_curto": "Proyecto: el plan de personas",
+  "minutos": 20,
+  "lead": "El dueño quiere saber si el equipo aguanta el cambio; el equipo quiere saber qué pasa con él. Las dos respuestas caben en una página: quién hace qué, cómo se hizo la conversación, cómo se forma a quien entra, qué valores rigen para personas y agentes, cómo se evalúa y cómo los agentes entran y salen. El proyecto es ese plan, aprobado por rúbrica.",
+  "objetivo": "entregar el plan de personas del área en una página y aprobarlo con la rúbrica, leído por quienes serán afectados y firmado por quien responde.",
+  "competencias": [
+    "montar-plano-de-pessoas",
+    "aplicar-rubrica-de-aprovacao",
+    "ler-mercado-com-tipo-de-afirmacao"
+  ],
+  "aprende": [
+    {
+      "t": "Los cinco bloques del plan de personas en una página"
+    },
+    {
+      "t": "Aplicar la rúbrica con los ítems que reprueban por sí solos"
+    },
+    {
+      "t": "Quién lee antes, quién firma y cuándo revisar"
+    },
+    {
+      "t": "Qué cambió hasta octubre de 2026, con fecha, fuente y tipo"
+    }
+  ],
+  "hero_alt": "La gerente presenta una sola hoja con bloques de colores al dueño y a dos colegas en una mesa redonda; detrás del vidrio, el almacén con paletas.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "El plan de personas",
+      "sub": "Cinco bloques en una página, cada uno apoyado en las piezas de una o dos clases, más la rúbrica y la lectura de quienes son afectados. Haz clic en cada parte.",
+      "volta": "Reprobado en un ítem: vuelve al bloque que falló, no a cero",
+      "nos": [
+        {
+          "icone": "lista",
+          "titulo": "Roles",
+          "sub": "clase 2",
+          "detalhe": "La matriz de división: qué queda con cada persona, qué va al agente, qué hacen los dos juntos con quien decide, y adónde va el tiempo liberado."
+        },
+        {
+          "icone": "chat",
+          "titulo": "Conversación",
+          "sub": "clases 1, 3",
+          "detalhe": "El acuerdo del equipo del ejemplo (regla del dato, espacio para experimentar) y la conversación honesta: cuándo fue, qué se dijo, las preguntas abiertas con fecha y los compromisos."
+        },
+        {
+          "icone": "usuario",
+          "titulo": "Formación",
+          "sub": "clases 4, 7",
+          "detalhe": "La ruta de 30 días de quien entra y la formación de quien supervisa agentes, con padrino o madrina y reemplazos."
+        },
+        {
+          "icone": "alvo",
+          "titulo": "Cultura",
+          "sub": "clases 5, 6",
+          "forte": true,
+          "detalhe": "Los valores del equipo con la versión del agente, y las fichas de evaluación de los cargos que trabajan con agentes, sin meta de volumen del agente."
+        },
+        {
+          "icone": "arquivo",
+          "titulo": "Agentes",
+          "sub": "clase 7",
+          "detalhe": "El registro de agentes del área con dueño y situación, y el procedimiento de incorporación y de desvinculación."
+        },
+        {
+          "icone": "check",
+          "titulo": "Rúbrica",
+          "sub": "y lectura",
+          "detalhe": "La rúbrica da la nota y tiene cinco ítems que reprueban por sí solos. En Horizonte, Patrícia arma el plan, Juliana y Sandra lo leen y dicen si lo escrito ocurrió, y Carlos firma."
+        }
+      ],
+      "legenda": "La aprobación pedagógica del plan no sustituye las políticas de RR. HH., los acuerdos laborales ni las decisiones de quien responde por la empresa."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Del borrador a la firma",
+      "sub": "Cuatro pasos. El plan de Horizonte es el entrenamiento; el de tu área es el que vale.",
+      "passos": [
+        {
+          "titulo": "Una página",
+          "sub": "con las piezas detrás",
+          "texto": [
+            "La página resume; las piezas prueban. Cada bloque tiene dos o tres líneas y apunta al documento de la clase que lo sustenta: matriz, guion, ruta, valores, fichas, registro.",
+            "Marca lo que ya ocurrió y lo que es intención. \"Reunión hecha el 30/10\" y \"reunión prevista\" pesan distinto a la hora de la firma."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte (empresa ficticia de estudio)",
+            "texto": "\"Plan de personas · comercial · v1 · nov/2026\": una página al frente; detrás, las piezas de las clases 1 a 7."
+          }
+        },
+        {
+          "titulo": "Pasa por la rúbrica",
+          "sub": "100 puntos y cinco obligatorios",
+          "texto": [
+            "La rúbrica suma 100 puntos en seis bloques y aprueba con 75 o más y los cinco obligatorios marcados. Un obligatorio faltante reprueba, aunque tengas 95 puntos.",
+            "Los obligatorios protegen a las personas: decisión con nombre, ninguna promesa que la empresa no hizo, aprender a mano antes de revisar, nadie castigado por señalar un error del agente, ningún agente sin dueño."
+          ],
+          "exemplo": {
+            "rot": "Prueba del jurado",
+            "texto": "Ejecuta el prompt del jurado (al lado). Señala lagunas; quien decide la nota eres tú y quien firma."
+          }
+        },
+        {
+          "titulo": "Quien es afectado lee antes",
+          "sub": "y quien responde firma",
+          "texto": [
+            "En el plan de personas, quienes leen antes de la firma son las personas afectadas: ellas dicen si la conversación, la ruta y la ficha ocurrieron como está escrito. No es una votación; es una verificación.",
+            "Quien firma es quien responde por las personas y por el presupuesto. Lee la página, verifica los obligatorios y pregunta, de preferencia, sobre lo que aún no se sabe."
+          ],
+          "exemplo": {
+            "rot": "En Horizonte",
+            "texto": "Patrícia arma el plan. Juliana verifica la conversación y su ficha; Sandra, la ruta de Lucas. Carlos lee, pregunta qué pasa con la atención al cliente en un año y firma sabiendo que la respuesta honesta es \"todavía no sabemos\"."
+          }
+        },
+        {
+          "titulo": "Fecha de revisión",
+          "sub": "el plan envejece",
+          "texto": [
+            "El plan sale con fecha de revisión: cada trimestre, o antes, si entra un agente nuevo, alguien nuevo, o si la conversación con el equipo necesita rehacerse.",
+            "En la revisión, lo que era intención se vuelve hecho o vuelve al plan: ¿se cumplió la ruta? ¿se usó la ficha nueva? ¿se respondieron las preguntas abiertas?"
+          ],
+          "exemplo": {
+            "rot": "Regla",
+            "texto": "Entró o salió un agente, cambió la matriz de división: rehaz la conversación con quienes fueron afectados antes de tocar la evaluación."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "El plan en una página, la rúbrica y un prompt del jurado. La pestaña de al lado muestra el plan de Horizonte.",
+      "blocos": [
+        {
+          "rot": "Plan de personas (1 página)",
+          "icone": "arquivo",
+          "conteudo": "PLAN DE PERSONAS · <área> · versión <...> · <fecha> · responsable <nombre>\nEquipo: <n> personas · agentes: <nombres> · marca: HECHO (H) o PREVISTO (P)\n\n1. ROLES\n   Matriz v<...>: <n> tareas · S <n> · P <n> · 2 <n> · A <n>\n   Decisiones con nombre: <tarea → persona> · tiempo liberado va a: <...>\n2. EJEMPLO Y CONVERSACIÓN\n   Acuerdo del equipo: regla del dato fijada en <canal> · hora para experimentar <día>\n   Conversación honesta el <fecha> (H/P) · preguntas abiertas: <n>, respuestas hasta <fecha>\n   Compromisos: <...>\n3. FORMACIÓN\n   Ruta de 30 días: <nombre> · madrina/padrino <nombre> · semana actual <...>\n   Supervisores formados: <nombre → agente> · suplentes: <...>\n4. CULTURA Y EVALUACIÓN\n   Valores v<...> (<n>, escritos con el equipo el <fecha>) · fragmento en el agente: <sí/no>\n   Fichas nuevas: <cargos> · volumen del agente fuera de la meta individual: <sí/no>\n5. INCORPORACIÓN Y SALIDA DE AGENTES\n   Registro: <n> agentes, todos con dueño · desvinculaciones con sucesión: <...>\n\nNOTA EN LA RÚBRICA: <...>/100 · obligatorios <5 de 5>\nLEÍDO POR (afectados): <nombres, fecha, qué corrigieron>\nARMADO POR: <nombre> · APROBADO POR (quien responde): <nombre> el <fecha>\nPRÓXIMA REVISIÓN: <fecha> o antes, si entra o sale un agente o una persona"
+        },
+        {
+          "rot": "Rúbrica del plan (100 puntos)",
+          "icone": "lista",
+          "conteudo": "RÚBRICA · plan de personas · aprueba con >= 75 Y los 5 obligatorios\n\nBLOQUE                         PUNTOS  CRITERIO DE PUNTAJE COMPLETO\n1. Roles                         25    matriz con las 4 columnas y motivo; \"los dos\" con\n                                       quién decide y plazo; destino del tiempo acordado\n2. Ejemplo y conversación        20    regla del dato escrita; espacio con fecha; conversación\n                                       hecha con lo que cambia, no cambia y no sabemos\n3. Formación                     20    ruta con tarea a mano, revisión en pareja y\n                                       criterio; supervisores formados con suplente\n4. Cultura y evaluación          20    valores con porqué y versión del agente; fichas\n                                       con 4 criterios, evidencia y escala descrita\n5. Entrada y salida de agentes   10    registro con dueño y situación; desvinculación con\n                                       acceso cortado y sucesión\n6. Claridad                       5    una página; hecho x previsto marcado;\n                                       datos ficticios o anonimizados identificados\n\nOBLIGATORIOS (uno faltante reprueba)\n[ ] Toda tarea de aprobar, firmar o registrar tiene persona nombrada\n[ ] Ninguna promesa de empleo, cargo o ahorro que la empresa no decidió por escrito\n[ ] Quien entra hace tareas a mano antes de revisar al agente\n[ ] La evaluación no castiga a quien señala un error del agente\n[ ] Todo agente tiene dueño y, en la desvinculación, quién asume el trabajo\n\nNOTA: <...>/100 · obligatorios: <...>/5 · resultado: [ ] aprobado [ ] vuelve al bloque <...>"
+        },
+        {
+          "rot": "Prompt · jurado antes de la firma",
+          "icone": "chat",
+          "conteudo": "Eres el jurado que revisa el plan de personas de un área que trabaja\ncon agentes de IA, usando la rúbrica de abajo. No apruebas ni\nreprueban: señalas lagunas para quien va a firmar.\n\nPara cada bloque de la rúbrica:\n1. Di qué está presente y qué falta para el puntaje completo,\n   citando el fragmento del plan.\n2. Marca cada obligatorio como presente o ausente, con el fragmento.\n3. Lista frases que suenen como promesa sobre empleo, cargo o ahorro.\n4. Lista las tres preguntas que debería hacer quien firma, al menos\n   una sobre lo que aún no se sabe.\n\nNo inventes información que no esté en el plan.\n\nRúbrica:\n\"\"\"<pega la rúbrica>\"\"\"\nPlan:\n\"\"\"<pega el plan>\"\"\""
+        }
+      ],
+      "saida": {
+        "selo": "simulacao",
+        "abas": [
+          {
+            "rot": "Plan de Horizonte (ejemplo)",
+            "html": "<p><b>Plan de personas · comercial · v1 · nov/2026</b> · Horizonte, empresa ficticia de estudio · responsable: Patrícia</p><ol><li><b>Roles (F):</b> matriz v1.0, 10 tareas · S 1 · P 3 · 2 4 · A 2 · Patrícia aprueba descuentos del 5% al 10% y pedidos de más de R$ 5 mil; Juliana revisa los registros · el tiempo de Juliana pasa a registros y cola, acordado el 22/10.</li><li><b>Ejemplo y conversación:</b> regla del dato fijada en el grupo \"comercial · IA\" (F) · jueves a las 16 h para experimentar (F) · conversación el 30/10 (F) · 3 preguntas abiertas, respuestas hasta el 13/11 · conversación mensual.</li><li><b>Formación:</b> ruta de Lucas, madrina Sandra, semana 1 (F) · Juliana formada para supervisar a Hora, sustituta Sandra (F).</li><li><b>Cultura y evaluación:</b> 4 valores escritos con el equipo el 06/11 (F), extracto en la constitución de Hora (F) · ficha nueva de Juliana mostrada a ella y en uso en el 4.º trimestre (F); fichas de los vendedores para el 1.er trimestre de 2027 (P).</li><li><b>Ingreso y salida:</b> registro con 3 agentes y automatizaciones, todos con responsable · resumen diario suspendido, lectura asumida por Juliana (F).</li></ol><p><b>Rúbrica:</b> 82/100, 5 de 5 obligatorios. <b>Leído por:</b> Juliana (corrigió la fecha de la conversación) y Sandra. <b>Aprobado:</b> Carlos. <b>Revisión:</b> febrero de 2027.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Qué cambió · octubre de 2026",
+      "sub": "Panel del trimestre, que se renueva en cada revisión del curso. Cada ítem con fecha, fuente y el tipo de afirmación: encuesta del proveedor, experiencia declarada, previsión o estudio. El método de las clases 1 a 7 no depende de ninguno de ellos.",
+      "passos": [
+        {
+          "titulo": "El gestor como palanca",
+          "sub": "encuestas del proveedor",
+          "texto": [
+            "Microsoft, Work Trend Index 2025: el gestor humano de agentes (\"agent boss\") y la métrica de equilibrio entre supervisión humana y eficiencia de los agentes (\"human-agent ratio\"). Work Trend Index 2026 (05/2026): 20 mil personas en 10 países; el 16% son \"Frontier Professionals\", que usan agentes en flujos de varios pasos y rediseñan el trabajo; cuando el gestor usa IA frente al equipo, el valor percibido sube 17 puntos.",
+            "Tipo: encuesta hecha por quien vende la herramienta. Un análisis de The Microsoft Cloud Blog (05/2026) recuerda que esos números no deben sostener por sí solos un business case."
+          ],
+          "exemplo": {
+            "rot": "Para el plan",
+            "texto": "Úsalo como señal para el bloque 2 (ejemplo y conversación). La prueba es lo que pasa en tu equipo después del acuerdo."
+          }
+        },
+        {
+          "titulo": "La forma del equipo",
+          "sub": "experiencia declarada y previsión",
+          "texto": [
+            "McKinsey (\"agentic organization\"): equipos pequeños por resultado, con 2 a 5 personas supervisando de 50 a 100 agentes. Es experiencia declarada de la consultora, no un estudio medido. Gartner (previsión de oct/2024): hasta fines de 2026, 1 de cada 5 organizaciones usará IA para aplanar la estructura y recortar más de la mitad de los cargos de gerencia media.",
+            "Los críticos recuerdan que sacar la capa del organigrama no elimina su trabajo: coordinar, revisar, formar a los júniores."
+          ],
+          "exemplo": {
+            "rot": "Para el plan",
+            "texto": "El bloque 1 (roles) y el bloque 3 (formación) son la respuesta práctica: quién hace el trabajo que hacía esa capa."
+          }
+        },
+        {
+          "titulo": "Quienes están entrando",
+          "sub": "estudio y datos de vacantes",
+          "texto": [
+            "Stanford Digital Economy Lab (08/2026): caída relativa de cerca de 19% en el empleo de jóvenes de 22 a 25 años en las ocupaciones más expuestas a la IA, sin afirmar que la IA sea la causa. Indeed: la porción de vacantes de entrada cayó de 29% a 10%.",
+            "El dato muestra la puerta más estrecha; no dice qué debe hacer cada empresa. La ruta de la clase 4 es una de las respuestas."
+          ],
+          "exemplo": {
+            "rot": "Para la conversación",
+            "texto": "Cita el dato tal como es: lo que muestra y lo que no prueba. Es el mismo cuidado de la clase 3."
+          }
+        },
+        {
+          "titulo": "RR. HH. y gobernanza",
+          "sub": "informe, pronóstico y encuesta",
+          "texto": [
+            "Deloitte (Tech Trends 2026): incorporación de agentes en los datos y en la operación, autonomía graduada y capacitación de los supervisores humanos. Forrester (Predictions 2026, pronóstico): las grandes plataformas de RR. HH. van a incluir la gestión de \"empleado digital\".",
+            "Okta (AI Agents at Work 2026, encuesta del proveedor): casi dos tercios de las organizaciones aplican controles de seguridad más débiles a los agentes que a los empleados."
+          ],
+          "exemplo": {
+            "rot": "Próxima revisión de este panel",
+            "texto": "Enero de 2027, con el panorama del trimestre siguiente. Lo que es método (clases 1 a 7) no cambia; lo que es número y pronóstico, sí."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "mapa",
+      "titulo": "El mapa del curso",
+      "sub": "Las cuatro entregas que sostienen el plan de personas y los ejercicios que las producen. Haz clic en un ejercicio para ver el \"listo cuando\".",
+      "degraus": [
+        {
+          "aula": "exemplo",
+          "icone": "play",
+          "quando": "Semana 1",
+          "titulo": "Abrir",
+          "sub": "ejemplo y regla",
+          "saida": "Acuerdo del equipo de la semana cumplido y regla del dato fijada.",
+          "passo": "Empieza por ti: el equipo necesita ver a la líder usándolo antes de escuchar cualquier plan. La semana de uso real pide siete días."
+        },
+        {
+          "aula": "divisao",
+          "icone": "lista",
+          "quando": "Semanas 1 y 2",
+          "titulo": "Dividir",
+          "sub": "qué queda con quién",
+          "saida": "Matriz de división leída por una persona del equipo.",
+          "passo": "La matriz es la base de la conversación, de la formación y de la evaluación. Hazla con la persona, no sobre ella."
+        },
+        {
+          "aula": "conversa",
+          "icone": "chat",
+          "quando": "Semana 2",
+          "titulo": "Conversar",
+          "sub": "honestidad con fecha",
+          "saida": "Reunión hecha, preguntas anotadas y compromisos en el calendario.",
+          "passo": "Requiere la matriz. La simulación con Juliana es el ensayo antes de la reunión de verdad."
+        },
+        {
+          "aula": "avaliacao",
+          "icone": "alvo",
+          "quando": "Semanas 3 y 4",
+          "titulo": "Sostener",
+          "sub": "formar, valores, evaluar",
+          "saida": "Ruta, valores, ficha nueva y registro de agentes.",
+          "passo": "Con la conversación hecha, el resto sostiene el cambio: la ruta de quien ingresa (clase 4), los valores (clase 5), la ficha (clase 6) y el registro (clase 7)."
+        }
+      ],
+      "rolagem_fim": {
+        "titulo": "El plan completo",
+        "texto": "Abrir, dividir, conversar y sostener, en este orden. Cada entrega usa la anterior, y el plan solo va a la firma cuando el \"listo cuando\" de cada nivel sea verdad."
+      },
+      "resultado": {
+        "titulo": "Al final del curso",
+        "texto": "Un plan de personas de una página, aprobado por la rúbrica, leído por quienes son afectados y firmado por quien responde: roles, conversación, formación, cultura y evaluación, incorporación y desvinculación de agentes.",
+        "total": "18 ejercicios"
+      },
+      "legenda": "Orden recomendado: cada entrega usa la anterior."
+    },
+    {
+      "tipo": "gerador",
+      "titulo": "Genera tu plan con fechas",
+      "sub": "Elige la fecha de inicio y cuánto tiempo tienes por semana. El plan respeta los ejercicios que piden una semana de uso real.",
+      "curso": "Personas: liderar al equipo híbrido",
+      "horas_padrao": 3,
+      "degraus": [
+        {
+          "titulo": "Clase 1 · El gestor da el ejemplo",
+          "aula": "exemplo"
+        },
+        {
+          "titulo": "Clase 2 · Qué queda con las personas",
+          "aula": "divisao"
+        },
+        {
+          "titulo": "Clase 3 · Miedo, resistencia y cambio",
+          "aula": "conversa"
+        },
+        {
+          "titulo": "Clase 4 · El júnior que supervisa agentes",
+          "aula": "junior"
+        },
+        {
+          "titulo": "Clase 5 · Cultura para personas y para agentes",
+          "aula": "cultura"
+        },
+        {
+          "titulo": "Clase 6 · Evaluar a personas que trabajan con agentes",
+          "aula": "avaliacao"
+        },
+        {
+          "titulo": "Clase 7 · RR. HH. de personas y agentes",
+          "aula": "rh"
+        },
+        {
+          "titulo": "Clase 8 · El plan de personas",
+          "aula": "plano"
+        }
+      ],
+      "txt": {
+        "titulo": "Plan — Personas: liderar al equipo híbrido",
+        "inicio": "Inicio",
+        "ritmo": "Ritmo",
+        "termino": "Finalización prevista",
+        "ate": "hasta",
+        "pronto": "listo cuando",
+        "semanas": "semanas",
+        "travou": "## Lo que se trabó y la regla que creé",
+        "h": "h por semana",
+        "exs": "ejercicios"
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "El plan de Horizonte para entrenar la rúbrica; el de tu área para que valga.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · El plan de Horizonte",
+          "min": "40 min",
+          "texto": "Reúne las piezas de Horizonte que hiciste en las clases 1 a 7 y arma la página del plan con el modelo. Pásala por la rúbrica y ejecuta el prompt del jurado. Corrige hasta que la nota supere 75 con los cinco obligatorios. Escribe quién lee antes y quién firma en Horizonte, y por qué.",
+          "pronto": "el plan de Horizonte cabe en una página, tiene los cinco bloques con lo hecho y lo previsto marcados, nota de 75 o más con los cinco obligatorios, ninguna promesa sobre el empleo, y los nombres de quien lee (afectados) y de quien firma, distinto de quien lo armó."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · El plan de tu área",
+          "min": "60 min",
+          "texto": "Haz lo mismo con las piezas de las prácticas en tu equipo. Entrégalo a por lo menos una persona afectada para que confirme lo que está escrito, y a quien responde por el área para que firme. Anota las preguntas de los dos.",
+          "pronto": "el plan de tu área tiene nota de 75 o más, los cinco obligatorios, la fecha de la próxima revisión, la lectura de por lo menos una persona afectada y la firma (o la aceptación por escrito) de quien responde por el área."
+        },
+        {
+          "id": "e3",
+          "titulo": "3 · Tu plan con fechas",
+          "min": "5 min",
+          "texto": "Usa el generador de arriba para armar el plan con tus fechas y descarga el .ics para tu calendario.",
+          "pronto": "el plan está guardado y las fechas están en tu calendario."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "El plan sacó 91 puntos, pero dice \"nadie del equipo perderá el empleo\" sin una decisión escrita de la empresa. ¿Resultado?",
+          "opcoes": [
+            "Aprobado: 91 queda bien por encima del mínimo de 75",
+            "Aprobado con reserva, para corregir en la revisión",
+            "Reprobado: promesa no decidida es obligatorio"
+          ],
+          "certa": 2,
+          "ref": "codigo",
+          "explica": "Los obligatorios existen para que una nota alta no esconda el daño grande. El plan vuelve al bloque de conversación, no a cero."
+        },
+        {
+          "p": "¿Por qué Juliana y Sandra leen el plan antes de la firma?",
+          "opcoes": [
+            "Para comprobar que lo escrito realmente ocurrió",
+            "Para votar si el plan entra o no en vigor",
+            "Para firmar juntos, repartiendo la responsabilidad"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "Quien es afectado sabe si lo que está en el papel ocurrió. Es confirmación, no votación; quien responde por el área sigue firmando."
+        },
+        {
+          "p": "McKinsey habla de 2 a 5 personas supervisando de 50 a 100 agentes. ¿Qué tipo de afirmación es esta?",
+          "opcoes": [
+            "Estudio medido con muestra",
+            "Experiencia declarada",
+            "Previsión para 2027"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "El tipo de afirmación cambia su peso: experiencia declarada, previsión, encuesta del proveedor y estudio pesan distinto. En el plan, ninguno de ellos sustituye lo que pasa en tu equipo."
+        },
+        {
+          "p": "Entró un agente nuevo en el área tres semanas después de la firma. ¿Qué hacer?",
+          "opcoes": [
+            "Incorporar, revisar la matriz y conversar con los afectados",
+            "Esperar la revisión trimestral marcada en el plan",
+            "Rehacer todo el plan, desde cero, con el equipo"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "El plan envejece por evento, no solo por fecha. Un agente nuevo cambia los roles; quien fue afectado escucha antes de que cambie la evaluación."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Una página, cinco bloques",
+          "texto": "Roles, conversación, formación, cultura y evaluación, entrada y salida de agentes."
+        },
+        {
+          "t": "Rúbrica con obligatorios",
+          "texto": "75 puntos y los cinco obligatorios. Si falta uno, reprueba."
+        },
+        {
+          "t": "Los afectados leen, quien responde firma",
+          "texto": "Verificación de quien vive el plan; firma de quien responde por él."
+        },
+        {
+          "t": "Mercado con tipo",
+          "texto": "Encuesta del proveedor, experiencia declarada, previsión o estudio, con fecha y fuente."
+        }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Certificación",
+      "paragrafos": [
+        "Certificación INEMA de cualificación \"Gestor de IA\", próximamente en cert.inema.pro. No es una certificación profesional regulada.",
+        "Este es el curso G1 de la Formación Gestión de IA 2027. Los otros cursos tratan de la empresa agéntica (G0), los procesos (G2), los agentes (G3), los recursos (G4) y gobernar, medir y evolucionar (G5), donde está el proyecto final de la formación. El bloque 4 de la rúbrica final, personas, es este plan."
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir más allá",
+      "links": [
+        {
+          "t": "Área Gestión de IA: la formación y los cursos",
+          "href": "https://eventos.inema.pro/gestao-ia/",
+          "icone": "alvo"
+        },
+        {
+          "t": "G3 · Agentes: contratar, delegar y supervisar",
+          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "icone": "usuario"
+        },
+        {
+          "t": "Gestoria: administrar una operación híbrida de punta a punta",
+          "href": "https://inematds.github.io/gestoria/",
+          "icone": "camadas"
+        }
+      ]
+    }
+  ]
+}
