@@ -65,7 +65,7 @@
           "detalhe": "Promete solo lo que depende de ti: avisar antes, conversar cada mes, incluir a la persona en lo que cambia. Con fecha. Una promesa sobre el empleo que la empresa no decidió por escrito no te corresponde hacerla."
         }
       ],
-      "legenda": "Estructura recomendada por INEMA para la conversación (lo que cambia, lo que no cambia, lo que no sabemos). No es un protocolo de RR. HH. ni orientación jurídica."
+      "legenda": "Estructura recomendada por ARCKHÉ para la conversación (lo que cambia, lo que no cambia, lo que no sabemos). No es un protocolo de RR. HH. ni orientación jurídica."
     },
     {
       "tipo": "passos",
@@ -401,17 +401,17 @@
       "links": [
         {
           "t": "Video: gerente que no domina los agentes (página con guion)",
-          "href": "https://inematds.github.io/gerente-de-agentes/videos/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "video"
         },
         {
           "t": "Laboratorio Horizonte: el resumen de atención que Juliana leía (empresa ficticia de estudio)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "chat"
         },
         {
           "t": "Área Gestión de IA: gestión de personas y de agentes",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         }
       ]

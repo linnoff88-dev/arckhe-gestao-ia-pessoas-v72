@@ -65,7 +65,7 @@
           "detalhe": "What only people do well: the difficult customer who stayed, the new colleague who learned. Evidence: cases told by the person and by those they served or trained."
         }
       ],
-      "legenda": "Criteria recommended by INEMA for roles that work with agents; they do not replace your company's evaluation policy or labor law."
+      "legenda": "Criteria recommended by ARCKHÉ for roles that work with agents; they do not replace your company's evaluation policy or labor law."
     },
     {
       "tipo": "passos",
@@ -252,17 +252,17 @@
       "links": [
         {
           "t": "G3 · Agents: the exception queue and the three verbs",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/aulas/supervisao/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "fila"
         },
         {
           "t": "AI Management Area: the indicators for an agent and for the hybrid team",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "grafico"
         },
         {
           "t": "Gestoria: running a hybrid operation from end to end",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         }
       ]

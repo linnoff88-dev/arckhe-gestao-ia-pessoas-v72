@@ -60,7 +60,7 @@
           "detalhe": "Va para el agente lo que se repite mucho, tiene regla escrita y se deshace barato si sale mal: duda de catálogo, plazo de entrega, pedido de un cliente registrado dentro del límite. Siempre con registro y alguien mirando una muestra."
         }
       ],
-      "legenda": "Orden de las preguntas: recomendación INEMA. Los ejemplos de salud, jurídico y contable son del Área Gestión de IA (§02). Valores de Horizonte: política ficticia de estudio."
+      "legenda": "Orden de las preguntas: recomendación ARCKHÉ. Los ejemplos de salud, jurídico y contable son del Área Gestión de IA (§02). Valores de Horizonte: política ficticia de estudio."
     },
     {
       "tipo": "passos",
@@ -151,7 +151,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "Divide el trabajo del equipo de Patrícia; después el de tu equipo, con ella.",
-      "fonte": "Piezas del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp (Hora)</a> y <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">encuesta interna</a>.",
+      "fonte": "Piezas del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de WhatsApp (Hora)</a> y <a href=\"https://linnoff88-dev.github.io/ interna</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -248,17 +248,17 @@
       "links": [
         {
           "t": "Área Gestión de IA: la tesis (contable, jurídico, salud)",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "G2 · Procesos: el proceso no es sagrado",
-          "href": "https://inematds.github.io/gestao-ia-processos-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "G3 · Agentes: el nivel de autorización de cada acción",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         }
       ]

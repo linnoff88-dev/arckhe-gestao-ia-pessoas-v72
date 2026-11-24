@@ -60,7 +60,7 @@
           "detalhe": "Vai para o agente o que se repete muito, tem regra escrita e se desfaz barato se der errado: dúvida de catálogo, prazo de entrega, pedido de cliente cadastrado dentro do limite. Sempre com registro e alguém olhando a amostra."
         }
       ],
-      "legenda": "Ordem das perguntas: recomendação INEMA. Os exemplos de saúde, jurídico e contábil são da área Gestão de IA (§02). Valores da Horizonte: política fictícia de estudo."
+      "legenda": "Ordem das perguntas: recomendação ARCKHÉ. Os exemplos de saúde, jurídico e contábil são da área Gestão de IA (§02). Valores da Horizonte: política fictícia de estudo."
     },
     {
       "tipo": "passos",
@@ -151,7 +151,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "Divida o trabalho da equipe da Patrícia; depois a da sua equipe, com ela.",
-      "fonte": "Peças do laboratório: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp (a Hora)</a> e <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">pesquisa interna</a>.",
+      "fonte": "Peças do laboratório: <a href=\"https://linnoff88-dev.github.io/ de WhatsApp (a Hora)</a> e <a href=\"https://linnoff88-dev.github.io/ interna</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -248,17 +248,17 @@
       "links": [
         {
           "t": "Área Gestão de IA: a tese (contábil, jurídico, saúde)",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "G2 · Processos: processo não é sagrado",
-          "href": "https://inematds.github.io/gestao-ia-processos-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "G3 · Agentes: a alçada de cada ação",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         }
       ]

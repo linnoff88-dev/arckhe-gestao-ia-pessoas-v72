@@ -1,63 +1,63 @@
 {
   "id": "gestao-ia-pessoas-v72",
   "lang": "en",
-  "url": "https://inematds.github.io/gestao-ia-pessoas-v72/en/",
+  "url": "https://linnoff88-dev.github.io/
   "nome": "People: leading the hybrid team",
   "sub": "AI Management Program 2027 · G1",
   "volta": {
     "t": "AI Management Area",
-    "href": "https://eventos.inema.pro/gestao-ia/"
+    "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
   },
   "lado_card": {
     "rot": "AI Management Program 2027 · G1",
     "t": "Start at the front door",
     "texto": "G0 shows the agentic company and the role of the 2027 manager. The other courses in the program build on it.",
     "link": "Go to G0",
-    "href": "https://inematds.github.io/gestao-ia-base-v72/"
+    "href": "https://linnoff88-dev.github.io/
   },
-  "rodape": "INEMA.CLUB · open and free content · INEMA Learning v7.2 format · <a href=\"https://eventos.inema.pro/gestao-ia/\">eventos.inema.pro/gestao-ia</a> · <a href=\"https://inematds.github.io/prof2030-lab/\">Horizonte lab (fictional study company)</a> · <a href=\"https://inema.club/\">inema.club</a>",
+  "rodape": "ARCKHÉ AI · open and free content · ARCKHÉ Learning v7.2 format · <a href=\"https://eventos.ARCKHÉ.pro/gestao-ia/\">eventos.ARCKHÉ.pro/gestao-ia</a> · <a href=\"https://linnoff88-dev.github.io/ lab (fictional study company)</a> · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a>",
   "videos": {
     "gerente-de-agentes": {
       "titulo": "The manager who doesn't master agents",
       "duracao": "5 min 12 s",
-      "mp4": "https://github.com/inematds/gerente-de-agentes/releases/download/video-v2.0.0/gerente-de-agentes-completo-16x9.mp4",
+      "mp4": "https://github.com/linnoff88-dev/gerente-de-agentes/releases/download/video-v2.0.0/gerente-de-agentes-completo-16x9.mp4",
       "vtt": "assets/vtt/gerente-de-agentes.vtt",
       "poster": "assets/img/gerente-de-agentes.jpg",
-      "pagina": "https://inematds.github.io/gerente-de-agentes/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/gerente-de-agentes/releases/download/video-v2.0.0/gerente-de-agentes-completo-16x9-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/gerente-de-agentes/releases/download/video-v2.0.0/gerente-de-agentes-completo-16x9-en.mp4",
           "vtt": "assets/vtt/gerente-de-agentes-en.vtt",
           "duracao": "3 min 35 s",
-          "pagina": "https://inematds.github.io/gerente-de-agentes/videos/en/"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/gerente-de-agentes/releases/download/video-v2.0.0/gerente-de-agentes-completo-16x9-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/gerente-de-agentes/releases/download/video-v2.0.0/gerente-de-agentes-completo-16x9-es.mp4",
           "vtt": "assets/vtt/gerente-de-agentes-es.vtt",
           "duracao": "3 min 59 s",
-          "pagina": "https://inematds.github.io/gerente-de-agentes/videos/es/"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     },
     "empresas-2027": {
       "titulo": "Anthropic and the companies of 2027",
       "duracao": "8 min 34 s",
-      "mp4": "https://github.com/inematds/empresas-2027/releases/download/video-v2.0.0/empresas-2027-completo-16x9.mp4",
+      "mp4": "https://github.com/linnoff88-dev/empresas-2027/releases/download/video-v2.0.0/empresas-2027-completo-16x9.mp4",
       "vtt": "assets/vtt/empresas-2027.vtt",
       "poster": "assets/img/empresas-2027.jpg",
-      "pagina": "https://inematds.github.io/empresas-2027/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/empresas-2027/releases/download/video-v2.0.0/empresas-2027-completo-16x9-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/empresas-2027/releases/download/video-v2.0.0/empresas-2027-completo-16x9-en.mp4",
           "vtt": "assets/vtt/empresas-2027-en.vtt",
           "duracao": "6 min 6 s",
-          "pagina": "https://inematds.github.io/empresas-2027/videos/en/"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/empresas-2027/releases/download/video-v2.0.0/empresas-2027-completo-16x9-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/empresas-2027/releases/download/video-v2.0.0/empresas-2027-completo-16x9-es.mp4",
           "vtt": "assets/vtt/empresas-2027-es.vtt",
           "duracao": "7 min 11 s",
-          "pagina": "https://inematds.github.io/empresas-2027/videos/es/"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     }
@@ -69,7 +69,7 @@
     "cta": "Start with lesson 1",
     "cta2": {
       "t": "See the AI Management Area",
-      "href": "https://eventos.inema.pro/gestao-ia/"
+      "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
     },
     "capa_alt": "At the end of the workday, the sales manager of a distributor, seated at the head of the team table, watches two colleagues leave; behind the glass, the warehouse.",
     "numeros": [
@@ -99,7 +99,7 @@
           "rot": "G0 · entry point · published",
           "t": "The agentic company and the manager of 2027",
           "l": "What changed in management, what the consultancies say, Brazil, your career and your first process.",
-          "href": "https://inematds.github.io/gestao-ia-base-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g0.jpg"
         },
@@ -107,7 +107,7 @@
           "rot": "G2 · processes · published",
           "t": "Processes: a process is not sacred",
           "l": "Take the process apart before automating it: eliminate, simplify, redesign and decide who does each step.",
-          "href": "https://inematds.github.io/gestao-ia-processos-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g2.jpg"
         },
@@ -115,7 +115,7 @@
           "rot": "G3 · agents · published",
           "t": "Agents: hire, delegate and supervise",
           "l": "Role, delegation, constitution, authority limit, progressive trust, agent team and exception queue.",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g3.jpg"
         },
@@ -123,7 +123,7 @@
           "rot": "G4 · resources · published",
           "t": "Resources: models, data and budget",
           "l": "Choose a model for each case, take care of context and company knowledge, and measure cost per result.",
-          "href": "https://inematds.github.io/gestao-ia-recursos-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g4.jpg"
         },
@@ -131,7 +131,7 @@
           "rot": "G1 · people · you are here",
           "t": "People: leading the hybrid team",
           "l": "What stays with people, the conversation about change, the junior who supervises agents and team training.",
-          "href": "https://inematds.github.io/gestao-ia-pessoas-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g1.jpg"
         },
@@ -139,7 +139,7 @@
           "rot": "G5 · wrap-up + final project · published",
           "t": "Govern, measure and evolve",
           "l": "Owners, permissions and records; evaluation and indicators; a LOOP-R cycle with a return and the program's final project.",
-          "href": "https://inematds.github.io/gestao-ia-governanca-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "href_idioma": true,
           "img": "assets/img/cursos/g5.jpg"
         }
@@ -168,7 +168,7 @@
       {
         "t": "The case that runs through the course",
         "itens": [
-          "<b>Horizonte Distribuidora</b>, a <a href=\"https://inematds.github.io/prof2030-lab/\">fictional study company</a> of 40 people that distributes cleaning products in the interior of São Paulo.",
+          "<b>Horizonte Distribuidora</b>, a <a href=\"https://linnoff88-dev.github.io/ study company</a> of 40 people that distributes cleaning products in the interior of São Paulo.",
           "You play <b>Patrícia Lima, the sales manager</b>. Her team (Juliana in customer service and the salespeople) received <b>Hora</b>, an agent that sells over WhatsApp. In November, Lucas joins, the first junior hire since Hora.",
           "The lab shows what happens when no one leads the change: hidden AI tools, an automation that sends customer conversations outside the company with no contract. Every lesson has one practice at Horizonte and another with your own team."
         ]

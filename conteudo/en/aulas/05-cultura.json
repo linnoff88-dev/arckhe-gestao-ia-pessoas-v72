@@ -66,7 +66,7 @@
           "detalhe": "A hard case that puts the value to the test, with what to do and why. It runs before and after each change to the constitution: if the score doesn't improve on the same cases, the agent hasn't improved."
         }
       ],
-      "legenda": "Two cultures, a constitution per agent and test cases: AI Management area (§03) and the Agent Constitution project (INEMA). The team values page is an INEMA recommendation."
+      "legenda": "Two cultures, a constitution per agent and test cases: AI Management area (§03) and the Agent Constitution project (ARCKHÉ). The team values page is an ARCKHÉ recommendation."
     },
     {
       "tipo": "passos",
@@ -78,7 +78,7 @@
           "sub": "the case and what it does not prove",
           "texto": [
             "According to SignalFire's 2025 talent report, Anthropic retained 80% of its hires after two years. On 01/22/2026, the company published a constitution for Claude: values, priorities and the reason behind each one, used in training.",
-            "Retention is not happiness, and the number does not prove a superior culture. INEMA's reading is a hypothesis: both cultures, the people's and the AI's, want someone who uses judgment, and not just obeys."
+            "Retention is not happiness, and the number does not prove a superior culture. ARCKHÉ's reading is a hypothesis: both cultures, the people's and the AI's, want someone who uses judgment, and not just obeys."
           ],
           "exemplo": {
             "rot": "For your team",
@@ -168,7 +168,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Write the values for Patrícia's team and Hora's version; then those for your own team, with them.",
-      "fonte": "Pieces: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">WhatsApp agent (c-201 and c-202)</a> and the <a href=\"https://github.com/inematds/constituicao-agentes\">9-section constitution template</a>.",
+      "fonte": "Pieces: <a href=\"https://linnoff88-dev.github.io/ agent (c-201 and c-202)</a> and the <a href=\"https://github.com/linnoff88-dev/constituicao-agentes\">9-section constitution template</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -265,17 +265,17 @@
       "links": [
         {
           "t": "Agent Constitution: a template with 9 sections and 8 test cases",
-          "href": "https://inematds.github.io/constituicao-agentes/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         },
         {
           "t": "Companies of 2027 Course: from the Anthropic case to your agent's constitution",
-          "href": "https://inematds.github.io/empresas-2027-v62/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "G3 · Agents: the agent constitution",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/aulas/constituicao/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         }
       ]

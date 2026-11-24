@@ -65,7 +65,7 @@
           "detalhe": "O que só gente faz bem: o cliente difícil que ficou, o colega novo que aprendeu. Evidência: casos contados pela própria pessoa e por quem ela atendeu ou formou."
         }
       ],
-      "legenda": "Critérios recomendados pelo INEMA para cargos que trabalham com agentes; não substituem a política de avaliação nem a legislação trabalhista da sua empresa."
+      "legenda": "Critérios recomendados pelo ARCKHÉ para cargos que trabalham com agentes; não substituem a política de avaliação nem a legislação trabalhista da sua empresa."
     },
     {
       "tipo": "passos",
@@ -252,17 +252,17 @@
       "links": [
         {
           "t": "G3 · Agentes: a fila de exceções e os três verbos",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/aulas/supervisao/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "fila"
         },
         {
           "t": "Área Gestão de IA: os indicadores de um agente e da equipe híbrida",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "grafico"
         },
         {
           "t": "Gestoria: administrar uma operação híbrida de ponta a ponta",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         }
       ]

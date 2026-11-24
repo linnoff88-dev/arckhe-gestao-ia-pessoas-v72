@@ -60,7 +60,7 @@
           "detalhe": "Take care of a small, defined slice: the weekly sample of one type of case, with a new test case proposed. At the end of the week, a handoff conversation: move on to the next step or repeat the week."
         }
       ],
-      "legenda": "Path recommended by INEMA: do before reviewing, one new verb per week. The sample and hit-rate numbers at Horizonte are didactic, fictional thresholds; adjust them to your risk."
+      "legenda": "Path recommended by ARCKHÉ: do before reviewing, one new verb per week. The sample and hit-rate numbers at Horizonte are didactic, fictional thresholds; adjust them to your risk."
     },
     {
       "tipo": "passos",
@@ -71,7 +71,7 @@
           "titulo": "The step disappeared",
           "sub": "and someone needs to put it back",
           "texto": [
-            "The tasks where the junior used to learn (the simple question, the routine order) are the first ones to go to the agent. In the INEMA overview of Oct/2026, the share of entry-level openings fell from 29% to 10% (Indeed).",
+            "The tasks where the junior used to learn (the simple question, the routine order) are the first ones to go to the agent. In the ARCKHÉ overview of Oct/2026, the share of entry-level openings fell from 29% to 10% (Indeed).",
             "Critics of flattened structures remind us that removing a layer does not eliminate its work, and training juniors is part of that work. If no one puts the step back, the company loses the people who will supervise the agents tomorrow."
           ],
           "exemplo": {
@@ -156,7 +156,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Design Lucas's path; then the path for the person joining your team.",
-      "fonte": "Lab piece: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">WhatsApp agent (conversations c-201 to c-203)</a>, a good sample for week 2.",
+      "fonte": "Lab piece: <a href=\"https://linnoff88-dev.github.io/ agent (conversations c-201 to c-203)</a>, a good sample for week 2.",
       "exercicios": [
         {
           "id": "e1",
@@ -253,17 +253,17 @@
       "links": [
         {
           "t": "Horizonte Lab: Hora's conversations (fictional study company)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "chat"
         },
         {
           "t": "G3 · Agents: supervision and exceptions",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "fila"
         },
         {
           "t": "AI Management Area: the manager of 2027",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         }
       ]

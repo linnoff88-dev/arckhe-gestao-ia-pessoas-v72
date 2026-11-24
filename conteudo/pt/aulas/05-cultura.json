@@ -66,7 +66,7 @@
           "detalhe": "Um caso difícil que põe o valor à prova, com o que fazer e por quê. Roda antes e depois de cada mudança na constituição: se a nota não melhora nos mesmos casos, o agente não melhorou."
         }
       ],
-      "legenda": "Duas culturas, constituição por agente e casos de teste: área Gestão de IA (§03) e projeto Constituição dos Agentes (INEMA). A página de valores da equipe é recomendação INEMA."
+      "legenda": "Duas culturas, constituição por agente e casos de teste: área Gestão de IA (§03) e projeto Constituição dos Agentes (ARCKHÉ). A página de valores da equipe é recomendação ARCKHÉ."
     },
     {
       "tipo": "passos",
@@ -78,7 +78,7 @@
           "sub": "o caso e o que ele não prova",
           "texto": [
             "Segundo o relatório de talentos de 2025 da SignalFire, a Anthropic reteve 80% dos contratados em dois anos. Em 22/01/2026, a empresa publicou uma constituição para o Claude: valores, prioridades e o porquê de cada um, usada no treinamento.",
-            "Retenção não é felicidade, e o número não prova cultura superior. A leitura do INEMA é uma hipótese: as duas culturas, a das pessoas e a da IA, querem alguém que exerça julgamento, e não só obedeça."
+            "Retenção não é felicidade, e o número não prova cultura superior. A leitura do ARCKHÉ é uma hipótese: as duas culturas, a das pessoas e a da IA, querem alguém que exerça julgamento, e não só obedeça."
           ],
           "exemplo": {
             "rot": "Para a sua equipe",
@@ -168,7 +168,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "Escreva os valores da equipe da Patrícia e a versão da Hora; depois os da sua equipe, com ela.",
-      "fonte": "Peças: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp (c-201 e c-202)</a> e o <a href=\"https://github.com/inematds/constituicao-agentes\">modelo de constituição em 9 seções</a>.",
+      "fonte": "Peças: <a href=\"https://linnoff88-dev.github.io/ de WhatsApp (c-201 e c-202)</a> e o <a href=\"https://github.com/linnoff88-dev/constituicao-agentes\">modelo de constituição em 9 seções</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -265,17 +265,17 @@
       "links": [
         {
           "t": "Constituição dos Agentes: modelo em 9 seções e 8 casos de teste",
-          "href": "https://inematds.github.io/constituicao-agentes/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         },
         {
           "t": "Curso Empresas de 2027: do caso Anthropic à constituição do seu agente",
-          "href": "https://inematds.github.io/empresas-2027-v62/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "G3 · Agentes: a constituição do agente",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/aulas/constituicao/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         }
       ]

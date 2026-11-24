@@ -426,7 +426,7 @@
       "tipo": "texto",
       "titulo": "Certificate",
       "paragrafos": [
-        "INEMA qualification certificate \"AI Manager\", coming soon at cert.inema.pro. It is not a regulated professional certification.",
+        "ARCKHÉ qualification certificate \"AI Manager\", coming soon at cert.ARCKHÉ.pro. It is not a regulated professional certification.",
         "This is course G1 of the AI Management Program 2027. The other courses cover the agentic company (G0), processes (G2), agents (G3), resources (G4) and governing, measuring and evolving (G5), where the program's final project lives. Block 4 of the final rubric, people, is this plan."
       ]
     },
@@ -436,17 +436,17 @@
       "links": [
         {
           "t": "AI Management Area: the program and the courses",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "G3 · Agents: hire, delegate and supervise",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "usuario"
         },
         {
           "t": "Gestoria: running a hybrid operation from end to end",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         }
       ]

@@ -60,7 +60,7 @@
           "detalhe": "Cuidar de uma fatia pequena e definida: a amostra semanal de um tipo de caso, com um caso de teste novo proposto. No fim da semana, conversa de passagem: segue para o próximo degrau ou repete a semana."
         }
       ],
-      "legenda": "Trilha recomendada pelo INEMA: fazer antes de revisar, um verbo novo por semana. Os números de amostra e de acerto da Horizonte são limiares didáticos e fictícios; ajuste ao seu risco."
+      "legenda": "Trilha recomendada pelo ARCKHÉ: fazer antes de revisar, um verbo novo por semana. Os números de amostra e de acerto da Horizonte são limiares didáticos e fictícios; ajuste ao seu risco."
     },
     {
       "tipo": "passos",
@@ -71,7 +71,7 @@
           "titulo": "O degrau sumiu",
           "sub": "e alguém precisa repor",
           "texto": [
-            "As tarefas em que o júnior aprendia (a dúvida simples, o pedido de rotina) são as primeiras que vão para o agente. No panorama INEMA de out/2026, a fatia de vagas de entrada caiu de 29% para 10% (Indeed).",
+            "As tarefas em que o júnior aprendia (a dúvida simples, o pedido de rotina) são as primeiras que vão para o agente. No panorama ARCKHÉ de out/2026, a fatia de vagas de entrada caiu de 29% para 10% (Indeed).",
             "Os críticos do achatamento das estruturas lembram que tirar uma camada não elimina o trabalho dela, e formar júniores é parte desse trabalho. Se ninguém repõe o degrau, a empresa perde quem vai supervisionar os agentes amanhã."
           ],
           "exemplo": {
@@ -156,7 +156,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "Desenhe a trilha do Lucas; depois a de quem entra na sua equipe.",
-      "fonte": "Peça do laboratório: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp (conversas c-201 a c-203)</a>, boa amostra para a semana 2.",
+      "fonte": "Peça do laboratório: <a href=\"https://linnoff88-dev.github.io/ de WhatsApp (conversas c-201 a c-203)</a>, boa amostra para a semana 2.",
       "exercicios": [
         {
           "id": "e1",
@@ -253,17 +253,17 @@
       "links": [
         {
           "t": "Laboratório Horizonte: as conversas da Hora (empresa fictícia de estudo)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "chat"
         },
         {
           "t": "G3 · Agentes: supervisão e exceções",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "fila"
         },
         {
           "t": "Área Gestão de IA: o gerente de 2027",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         }
       ]
