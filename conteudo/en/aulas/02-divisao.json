@@ -60,7 +60,7 @@
           "detalhe": "What goes to the agent is whatever repeats often, has a written rule, and is cheap to undo if it goes wrong: catalog questions, delivery times, orders from registered customers within the limit. Always with a record and someone checking a sample."
         }
       ],
-      "legenda": "Order of the questions: INEMA recommendation. The healthcare, legal and accounting examples come from the AI Management Area (§02). Horizonte's figures: fictional study policy."
+      "legenda": "Order of the questions: ARCKHÉ recommendation. The healthcare, legal and accounting examples come from the AI Management Area (§02). Horizonte's figures: fictional study policy."
     },
     {
       "tipo": "passos",
@@ -151,7 +151,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Split the work of Patrícia's team; then your own team's, together with them.",
-      "fonte": "Lab pieces: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">WhatsApp agent (Hora)</a> and <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">internal survey</a>.",
+      "fonte": "Lab pieces: <a href=\"https://linnoff88-dev.github.io/arckhe-/pecas/agente-whatsapp/\">WhatsApp agent (Hora)</a> and <a href=\"https://linnoff88-dev.github.io/arckhe-/inventario.html\">internal survey</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -248,17 +248,17 @@
       "links": [
         {
           "t": "AI Management Area: the thesis (accounting, legal, health)",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "G2 · Processes: a process is not sacred",
-          "href": "https://inematds.github.io/gestao-ia-processos-v72/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "camadas"
         },
         {
           "t": "G3 · Agents: the authority limit for each action",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "escudo"
         }
       ]
