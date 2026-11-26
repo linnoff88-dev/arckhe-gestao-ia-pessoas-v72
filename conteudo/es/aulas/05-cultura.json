@@ -66,7 +66,7 @@
           "detalhe": "Un caso difícil que pone el valor a prueba, con qué hacer y por qué. Se ejecuta antes y después de cada cambio en la constitución: si la nota no mejora en los mismos casos, el agente no mejoró."
         }
       ],
-      "legenda": "Dos culturas, constitución por agente y casos de prueba: área Gestión de IA (§03) y proyecto Constituição dos Agentes (ARCKHÉ). La página de valores del equipo es una recomendación ARCKHÉ."
+      "legenda": "Dos culturas, constitución por agente y casos de prueba: área Gestión de IA (§03) y proyecto Constituiçêo dos Agentes (ARCKHÉ). La página de valores del equipo es una recomendación ARCKHÉ."
     },
     {
       "tipo": "passos",

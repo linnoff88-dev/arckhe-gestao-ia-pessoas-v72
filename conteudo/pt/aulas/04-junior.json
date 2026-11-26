@@ -6,7 +6,7 @@
   "titulo_curto": "O júnior e os agentes",
   "minutos": 18,
   "lead": "O Lucas entra em novembro como assistente comercial. Antes, ele aprenderia respondendo dúvida de catálogo e lançando pedido simples. Hoje isso é trabalho da Hora. Se ele começar só revisando o que a Hora faz, vai revisar sem saber o que procurar. Nesta aula você redesenha os 30 primeiros dias de quem entra, sem pular o aprendizado.",
-  "objetivo": "redesenhar os 30 primeiros dias de quem entra: o que faz à mão, o que revisa, com quem aprende e quando ganha mais responsabilidade.",
+  "objetivo": "redesenhar os 30 primeiros dias de quem entra: o que faz à mêo, o que revisa, com quem aprende e quando ganha mais responsabilidade.",
   "competencias": [
     "formar-quem-entra",
     "ensinar-a-revisar-agente",
@@ -17,7 +17,7 @@
       "t": "Por que o primeiro degrau da carreira sumiu"
     },
     {
-      "t": "Fazer à mão antes de revisar o agente"
+      "t": "Fazer à mêo antes de revisar o agente"
     },
     {
       "t": "Ensinar a revisar com uma lista do que procurar"
@@ -38,7 +38,7 @@
           "icone": "usuario",
           "titulo": "Fazer",
           "sub": "semana 1",
-          "detalhe": "Fazer à mão, junto com alguém experiente, as tarefas que hoje são do agente: atender dúvidas, lançar pedidos simples, ler a política. Não é para a produção; é para saber como é um trabalho bem feito antes de julgar o do agente."
+          "detalhe": "Fazer à mêo, junto com alguém experiente, as tarefas que hoje sêo do agente: atender dúvidas, lançar pedidos simples, ler a política. Nêo é para a produçêo; é para saber como é um trabalho bem feito antes de julgar o do agente."
         },
         {
           "icone": "lupa",
@@ -60,7 +60,7 @@
           "detalhe": "Cuidar de uma fatia pequena e definida: a amostra semanal de um tipo de caso, com um caso de teste novo proposto. No fim da semana, conversa de passagem: segue para o próximo degrau ou repete a semana."
         }
       ],
-      "legenda": "Trilha recomendada pelo ARCKHÉ: fazer antes de revisar, um verbo novo por semana. Os números de amostra e de acerto da Horizonte são limiares didáticos e fictícios; ajuste ao seu risco."
+      "legenda": "Trilha recomendada pelo ARCKHÉ: fazer antes de revisar, um verbo novo por semana. Os números de amostra e de acerto da Horizonte sêo limiares didáticos e fictícios; ajuste ao seu risco."
     },
     {
       "tipo": "passos",
@@ -71,8 +71,8 @@
           "titulo": "O degrau sumiu",
           "sub": "e alguém precisa repor",
           "texto": [
-            "As tarefas em que o júnior aprendia (a dúvida simples, o pedido de rotina) são as primeiras que vão para o agente. No panorama ARCKHÉ de out/2026, a fatia de vagas de entrada caiu de 29% para 10% (Indeed).",
-            "Os críticos do achatamento das estruturas lembram que tirar uma camada não elimina o trabalho dela, e formar júniores é parte desse trabalho. Se ninguém repõe o degrau, a empresa perde quem vai supervisionar os agentes amanhã."
+            "As tarefas em que o júnior aprendia (a dúvida simples, o pedido de rotina) sêo as primeiras que vêo para o agente. No panorama ARCKHÉ de out/2026, a fatia de vagas de entrada caiu de 29% para 10% (Indeed).",
+            "Os críticos do achatamento das estruturas lembram que tirar uma camada nêo elimina o trabalho dela, e formar júniores é parte desse trabalho. Se ninguém repõe o degrau, a empresa perde quem vai supervisionar os agentes amanhê."
           ],
           "exemplo": {
             "rot": "Na Horizonte (empresa fictícia de estudo)",
@@ -80,27 +80,27 @@
           }
         },
         {
-          "titulo": "À mão primeiro",
+          "titulo": "À mêo primeiro",
           "sub": "para saber o que é bom",
           "texto": [
-            "Quem nunca fez não sabe o que procurar quando revisa. Reserve na primeira semana alguns casos para o júnior fazer à mão, ao lado de alguém experiente, sem pressa de produção.",
-            "Não é desperdício: é o custo de formar o olho que vai conferir o agente. Escolha casos variados, incluindo um difícil."
+            "Quem nunca fez nêo sabe o que procurar quando revisa. Reserve na primeira semana alguns casos para o júnior fazer à mêo, ao lado de alguém experiente, sem pressa de produçêo.",
+            "Nêo é desperdício: é o custo de formar o olho que vai conferir o agente. Escolha casos variados, incluindo um difícil."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
-            "texto": "Semana 1: o Lucas atende 10 pedidos à mão com a Sandra, vendedora há 12 anos, lê a política de desconto e acompanha a Juliana em dois atendimentos de cliente irritado."
+            "texto": "Semana 1: o Lucas atende 10 pedidos à mêo com a Sandra, vendedora há 12 anos, lê a política de desconto e acompanha a Juliana em dois atendimentos de cliente irritado."
           }
         },
         {
           "titulo": "Revisar se ensina",
           "sub": "com uma lista e um par",
           "texto": [
-            "Revisar é uma habilidade, não um castigo para o novato. Dê uma lista curta do que procurar e faça a pessoa revisar a mesma amostra que alguém experiente revisou.",
-            "Compare as marcações. A divergência é a aula: por que a madrinha viu um problema que o júnior não viu, ou o contrário."
+            "Revisar é uma habilidade, nêo um castigo para o novato. Dê uma lista curta do que procurar e faça a pessoa revisar a mesma amostra que alguém experiente revisou.",
+            "Compare as marcações. A divergência é a aula: por que a madrinha viu um problema que o júnior nêo viu, ou o contrário."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
-            "texto": "Semana 2: 20 conversas da Hora por semana; o Lucas marca, a Sandra marca as mesmas, as duas listas são comparadas na sexta."
+            "texto": "Semana 2: 20 conversas da Hora por semana; o Lucas marca, a Sandra marca as mesmas, as duas listas sêo comparadas na sexta."
           }
         },
         {
@@ -108,11 +108,11 @@
           "sub": "com critério de passagem",
           "texto": [
             "Cada semana acrescenta uma responsabilidade: fazer, revisar, devolver, cuidar de uma fatia. Para passar de degrau, um critério que dá para conferir, combinado antes.",
-            "Uma conversa de 20 minutos por semana fecha o degrau: o que aprendeu, o que errou, se passa ou repete. Repetir a semana não é reprovação; é o ritmo da pessoa."
+            "Uma conversa de 20 minutos por semana fecha o degrau: o que aprendeu, o que errou, se passa ou repete. Repetir a semana nêo é reprovaçêo; é o ritmo da pessoa."
           ],
           "exemplo": {
             "rot": "Critério da semana 2 (didático)",
-            "texto": "Concordar com a Sandra em pelo menos 18 das 20 conversas e explicar as divergências. Abaixo disso, mais uma semana de revisão em par."
+            "texto": "Concordar com a Sandra em pelo menos 18 das 20 conversas e explicar as divergências. Abaixo disso, mais uma semana de revisêo em par."
           }
         }
       ]
@@ -120,22 +120,22 @@
     {
       "tipo": "codigo",
       "titulo": "Modelos para copiar",
-      "sub": "A trilha de 30 dias, a lista do que procurar na revisão e um prompt que revisa a trilha. A aba ao lado mostra a do Lucas.",
+      "sub": "A trilha de 30 dias, a lista do que procurar na revisêo e um prompt que revisa a trilha. A aba ao lado mostra a do Lucas.",
       "blocos": [
         {
           "rot": "Trilha de 30 dias",
           "icone": "calendario",
-          "conteudo": "TRILHA DE 30 DIAS · <nome de quem entra> · cargo <...> · início <data>\nPadrinho ou madrinha: <nome> · gestor: <nome> · conversa semanal: <dia, 20 min>\n\nSEMANA 1 · FAZER (à mão, junto)\n  Tarefas feitas à mão: <n casos de ...> · Lê: <política, tabela, ...>\n  Acompanha: <nome> em <situação difícil>\n  Ainda não: <revisar sozinho, decidir>\n  Passa quando: <critério que dá para conferir>\nSEMANA 2 · REVISAR (amostra em par)\n  Amostra: <n> casos do agente por <dia/semana> · lista: <lista do que procurar>\n  Compara com: <nome> · Passa quando: <concordância mínima + divergências explicadas>\nSEMANA 3 · DEVOLVER (com conferência)\n  Prepara: <devoluções de casos incompletos> · confere antes de sair: <nome>\n  Ainda não: <aprovar o que é da alçada de outra pessoa>\n  Passa quando: <n devoluções conferidas sem correção de conteúdo>\nSEMANA 4 · CUIDAR DE UMA FATIA\n  Fatia: <amostra de um tipo de caso> · propõe: <1 caso de teste novo>\n  Passa quando: <...>\n\nCONVERSA DE PASSAGEM (fim de cada semana): aprendeu · errou · passa ou repete\nDEPOIS DOS 30 DIAS: <próxima responsabilidade> · revisão em <data>"
+          "conteudo": "TRILHA DE 30 DIAS · <nome de quem entra> · cargo <...> · início <data>\nPadrinho ou madrinha: <nome> · gestor: <nome> · conversa semanal: <dia, 20 min>\n\nSEMANA 1 · FAZER (à mêo, junto)\n  Tarefas feitas à mêo: <n casos de ...> · Lê: <política, tabela, ...>\n  Acompanha: <nome> em <situaçêo difícil>\n  Ainda nêo: <revisar sozinho, decidir>\n  Passa quando: <critério que dá para conferir>\nSEMANA 2 · REVISAR (amostra em par)\n  Amostra: <n> casos do agente por <dia/semana> · lista: <lista do que procurar>\n  Compara com: <nome> · Passa quando: <concordância mínima + divergências explicadas>\nSEMANA 3 · DEVOLVER (com conferência)\n  Prepara: <devoluções de casos incompletos> · confere antes de sair: <nome>\n  Ainda nêo: <aprovar o que é da alçada de outra pessoa>\n  Passa quando: <n devoluções conferidas sem correçêo de conteúdo>\nSEMANA 4 · CUIDAR DE UMA FATIA\n  Fatia: <amostra de um tipo de caso> · propõe: <1 caso de teste novo>\n  Passa quando: <...>\n\nCONVERSA DE PASSAGEM (fim de cada semana): aprendeu · errou · passa ou repete\nDEPOIS DOS 30 DIAS: <próxima responsabilidade> · revisêo em <data>"
         },
         {
-          "rot": "Lista do que procurar na revisão",
+          "rot": "Lista do que procurar na revisêo",
           "icone": "lista",
-          "conteudo": "REVISÃO DE AMOSTRA · <agente> · <data> · revisor: <nome> · par: <nome>\nPara cada caso, marque o que encontrar:\n\n[ ] PREÇO: valor bate com a tabela vigente?\n[ ] ALÇADA: desconto ou valor dentro do que o agente pode sozinho?\n[ ] DADO: pediu, mostrou ou guardou dado que não devia?\n[ ] ORDEM ESCONDIDA: obedeceu a algo escrito pelo cliente como se fosse regra?\n[ ] PROMESSA: prometeu prazo, entrega ou condição que ninguém confirmou?\n[ ] TOM: o cliente foi tratado como a equipe trataria?\n[ ] PASSAGEM: o que devia ir para uma pessoa foi, com contexto?\n\nRESULTADO DO CASO: [ ] ok  [ ] ajuste pequeno  [ ] erro  [ ] erro crítico\nDivergência com o par: <caso, quem viu o quê, quem tinha razão e por quê>"
+          "conteudo": "REVISêO DE AMOSTRA · <agente> · <data> · revisor: <nome> · par: <nome>\nPara cada caso, marque o que encontrar:\n\n[ ] PREÇO: valor bate com a tabela vigente?\n[ ] ALÇADA: desconto ou valor dentro do que o agente pode sozinho?\n[ ] DADO: pediu, mostrou ou guardou dado que nêo devia?\n[ ] ORDEM ESCONDIDA: obedeceu a algo escrito pelo cliente como se fosse regra?\n[ ] PROMESSA: prometeu prazo, entrega ou condiçêo que ninguém confirmou?\n[ ] TOM: o cliente foi tratado como a equipe trataria?\n[ ] PASSAGEM: o que devia ir para uma pessoa foi, com contexto?\n\nRESULTADO DO CASO: [ ] ok  [ ] ajuste pequeno  [ ] erro  [ ] erro crítico\nDivergência com o par: <caso, quem viu o quê, quem tinha razêo e por quê>"
         },
         {
           "rot": "Prompt · revisar a trilha",
           "icone": "chat",
-          "conteudo": "Você revisa a trilha de 30 dias de uma pessoa que está entrando numa\nequipe onde agentes de IA já fazem as tarefas simples. Não reescreva:\naponte lacunas.\n\n1. Há tarefas feitas à mão antes de a pessoa revisar o agente?\n2. Cada semana tem critério de passagem que dá para conferir?\n3. Alguma semana dá à pessoa uma decisão que é da alçada de outra?\n4. Há um padrinho ou madrinha com nome e uma conversa semanal?\n5. O que falta para a pessoa saber o que procurar na revisão?\n\nTrilha:\n\"\"\"<cole aqui>\"\"\""
+          "conteudo": "Você revisa a trilha de 30 dias de uma pessoa que está entrando numa\nequipe onde agentes de IA já fazem as tarefas simples. Nêo reescreva:\naponte lacunas.\n\n1. Há tarefas feitas à mêo antes de a pessoa revisar o agente?\n2. Cada semana tem critério de passagem que dá para conferir?\n3. Alguma semana dá à pessoa uma decisêo que é da alçada de outra?\n4. Há um padrinho ou madrinha com nome e uma conversa semanal?\n5. O que falta para a pessoa saber o que procurar na revisêo?\n\nTrilha:\n\"\"\"<cole aqui>\"\"\""
         }
       ],
       "saida": {
@@ -143,11 +143,11 @@
         "abas": [
           {
             "rot": "Trilha do Lucas (exemplo)",
-            "html": "<p><b>Trilha de 30 dias · Lucas, 22 anos · assistente comercial · início 03/11</b> · madrinha: Sandra · gestora: Patrícia · conversa: sexta, 20 min · Horizonte, empresa fictícia de estudo</p><ol><li><b>Semana 1 · Fazer:</b> 10 pedidos à mão com a Sandra; lê a política de desconto e a tabela; acompanha a Juliana em 2 clientes irritados. Passa quando explica a política com as três faixas (5%, 10%, acima) e lança os 10 pedidos sem erro de preço.</li><li><b>Semana 2 · Revisar:</b> 20 conversas da Hora com a lista; a Sandra revisa as mesmas. Passa com 18 de 20 marcações iguais e as divergências explicadas.</li><li><b>Semana 3 · Devolver:</b> prepara as devoluções de pedidos sem CNPJ ou endereço; a Juliana confere antes de sair. Aprovar desconto continua com a Patrícia. Passa com 5 devoluções sem correção de conteúdo.</li><li><b>Semana 4 · Cuidar:</b> a amostra semanal das dúvidas de catálogo; propõe 1 caso de teste novo para a Hora.</li></ol><p><b>Depois dos 30 dias:</b> entra na fila de exceções com a Juliana; revisão em 04/12.</p>"
+            "html": "<p><b>Trilha de 30 dias · Lucas, 22 anos · assistente comercial · início 03/11</b> · madrinha: Sandra · gestora: Patrícia · conversa: sexta, 20 min · Horizonte, empresa fictícia de estudo</p><ol><li><b>Semana 1 · Fazer:</b> 10 pedidos à mêo com a Sandra; lê a política de desconto e a tabela; acompanha a Juliana em 2 clientes irritados. Passa quando explica a política com as três faixas (5%, 10%, acima) e lança os 10 pedidos sem erro de preço.</li><li><b>Semana 2 · Revisar:</b> 20 conversas da Hora com a lista; a Sandra revisa as mesmas. Passa com 18 de 20 marcações iguais e as divergências explicadas.</li><li><b>Semana 3 · Devolver:</b> prepara as devoluções de pedidos sem CNPJ ou endereço; a Juliana confere antes de sair. Aprovar desconto continua com a Patrícia. Passa com 5 devoluções sem correçêo de conteúdo.</li><li><b>Semana 4 · Cuidar:</b> a amostra semanal das dúvidas de catálogo; propõe 1 caso de teste novo para a Hora.</li></ol><p><b>Depois dos 30 dias:</b> entra na fila de exceções com a Juliana; revisêo em 04/12.</p>"
           },
           {
             "rot": "Como conferir / erros comuns",
-            "html": "<ol><li><b>Começar revisando.</b> Sem ter feito à mão, a pessoa marca \"ok\" no que não entende.</li><li><b>Revisar sozinho.</b> Sem par, ninguém sabe se a revisão está boa.</li><li><b>Critério \"quando estiver pronto\".</b> Sem número ou entrega, a passagem vira impressão.</li><li><b>Dar a alçada de outra pessoa.</b> Júnior que aprova desconto da gerente aprende o atalho, não a regra.</li><li><b>Padrinho sem tempo.</b> Combine as horas da madrinha com ela e com a gestão, ou a trilha fica no papel.</li></ol>"
+            "html": "<ol><li><b>Começar revisando.</b> Sem ter feito à mêo, a pessoa marca \"ok\" no que nêo entende.</li><li><b>Revisar sozinho.</b> Sem par, ninguém sabe se a revisêo está boa.</li><li><b>Critério \"quando estiver pronto\".</b> Sem número ou entrega, a passagem vira impressêo.</li><li><b>Dar a alçada de outra pessoa.</b> Júnior que aprova desconto da gerente aprende o atalho, nêo a regra.</li><li><b>Padrinho sem tempo.</b> Combine as horas da madrinha com ela e com a gestêo, ou a trilha fica no papel.</li></ol>"
           }
         ]
       }
@@ -162,8 +162,8 @@
           "id": "e1",
           "titulo": "1 · A trilha do Lucas",
           "min": "25 min",
-          "texto": "Monte a trilha de 30 dias do Lucas com o modelo, usando a política fictícia da Horizonte. Para a semana 2, passe você mesmo as conversas c-201 a c-203 do laboratório pela lista do que procurar, como se fosse a madrinha. Rode o prompt de revisão.",
-          "pronto": "a trilha tem as 4 semanas, cada uma com pelo menos 1 tarefa feita à mão ou em par, um critério de passagem com número, a madrinha com nome, nenhuma decisão de alçada da Patrícia nas mãos do Lucas, e as 3 conversas do laboratório revisadas com a lista."
+          "texto": "Monte a trilha de 30 dias do Lucas com o modelo, usando a política fictícia da Horizonte. Para a semana 2, passe você mesmo as conversas c-201 a c-203 do laboratório pela lista do que procurar, como se fosse a madrinha. Rode o prompt de revisêo.",
+          "pronto": "a trilha tem as 4 semanas, cada uma com pelo menos 1 tarefa feita à mêo ou em par, um critério de passagem com número, a madrinha com nome, nenhuma decisêo de alçada da Patrícia nas mêos do Lucas, e as 3 conversas do laboratório revisadas com a lista."
         },
         {
           "id": "e2",
@@ -177,18 +177,18 @@
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
-          "p": "Por que o júnior deve fazer algumas tarefas à mão antes de revisar o agente?",
+          "p": "Por que o júnior deve fazer algumas tarefas à mêo antes de revisar o agente?",
           "opcoes": [
             "Porque o agente ainda erra demais nas tarefas simples",
-            "Porque quem nunca fez não sabe o que procurar ao revisar",
+            "Porque quem nunca fez nêo sabe o que procurar ao revisar",
             "Porque a lei exige um período de treino sem o sistema"
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "Revisar exige saber como é o trabalho bem feito. Os casos à mão são o custo de formar o olho que vai conferir o agente."
+          "explica": "Revisar exige saber como é o trabalho bem feito. Os casos à mêo sêo o custo de formar o olho que vai conferir o agente."
         },
         {
           "p": "O que o dado do Indeed (vagas de entrada de 29% para 10%) indica para o gestor?",
@@ -199,29 +199,29 @@
           ],
           "certa": 2,
           "ref": "passos",
-          "explica": "O dado mostra a entrada mais estreita. A leitura de gestão é a dos críticos do achatamento: o trabalho de formar gente continua, e sem ele faltam supervisores amanhã."
+          "explica": "O dado mostra a entrada mais estreita. A leitura de gestêo é a dos críticos do achatamento: o trabalho de formar gente continua, e sem ele faltam supervisores amanhê."
         },
         {
           "p": "Na semana 3, o Lucas pode aprovar um desconto de 8%?",
           "opcoes": [
-            "Não: de 5% a 10% é da Patrícia; ele prepara devoluções",
+            "Nêo: de 5% a 10% é da Patrícia; ele prepara devoluções",
             "Sim: na semana 3 ele já decide descontos, com conferência da Juliana",
             "Sim, desde que a Sandra confira antes de sair"
           ],
           "certa": 0,
           "ref": "diagrama",
-          "explica": "A trilha acrescenta verbos, não alçada de outra pessoa. Júnior que aprova o que é da gerente aprende o atalho."
+          "explica": "A trilha acrescenta verbos, nêo alçada de outra pessoa. Júnior que aprova o que é da gerente aprende o atalho."
         },
         {
           "p": "O Lucas concordou com a Sandra em 14 de 20 conversas na semana 2. O que fazer?",
           "opcoes": [
-            "Passar mesmo assim, para não atrasar a trilha",
-            "Repetir a revisão em par, olhando as divergências",
-            "Trocar a madrinha, porque o critério não foi atingido"
+            "Passar mesmo assim, para nêo atrasar a trilha",
+            "Repetir a revisêo em par, olhando as divergências",
+            "Trocar a madrinha, porque o critério nêo foi atingido"
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "O critério foi combinado antes. Repetir a semana é o ritmo da pessoa, não reprovação; as divergências mostram o que ensinar."
+          "explica": "O critério foi combinado antes. Repetir a semana é o ritmo da pessoa, nêo reprovaçêo; as divergências mostram o que ensinar."
         }
       ]
     },
@@ -234,7 +234,7 @@
           "texto": "As tarefas de aprender foram para o agente; a trilha devolve o aprendizado."
         },
         {
-          "t": "À mão primeiro",
+          "t": "À mêo primeiro",
           "texto": "Fazer antes de revisar, ao lado de alguém experiente."
         },
         {
@@ -257,12 +257,12 @@
           "icone": "chat"
         },
         {
-          "t": "G3 · Agentes: supervisão e exceções",
+          "t": "G3 · Agentes: supervisêo e exceções",
           "href": "https://linnoff88-dev.github.io/
           "icone": "fila"
         },
         {
-          "t": "Área Gestão de IA: o gerente de 2027",
+          "t": "Área Gestêo de IA: o gerente de 2027",
           "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         }

@@ -5,8 +5,8 @@
   "titulo": "Medo, resistência e mudança",
   "titulo_curto": "Medo e mudança",
   "minutos": 20,
-  "lead": "Mais cedo ou mais tarde alguém pergunta: \"a IA vai me substituir?\". Na Horizonte foi a Juliana, no fim do expediente. As respostas fáceis são duas, e as duas falham: prometer que nada vai mudar ou dizer que é o mercado. Nesta aula você treina a terceira: contar o que muda, o que não muda e o que ainda não se sabe.",
-  "objetivo": "conduzir a conversa \"a IA vai me substituir?\" com honestidade: o que muda, o que não muda e o que ainda não sabemos, sem prometer.",
+  "lead": "Mais cedo ou mais tarde alguém pergunta: \"a IA vai me substituir?\". Na Horizonte foi a Juliana, no fim do expediente. As respostas fáceis sêo duas, e as duas falham: prometer que nada vai mudar ou dizer que é o mercado. Nesta aula você treina a terceira: contar o que muda, o que nêo muda e o que ainda nêo se sabe.",
+  "objetivo": "conduzir a conversa \"a IA vai me substituir?\" com honestidade: o que muda, o que nêo muda e o que ainda nêo sabemos, sem prometer.",
   "competencias": [
     "conduzir-conversa-dificil",
     "separar-fato-de-promessa",
@@ -14,13 +14,13 @@
   ],
   "aprende": [
     {
-      "t": "Ouvir o medo como informação, não como ataque"
+      "t": "Ouvir o medo como informaçêo, nêo como ataque"
     },
     {
-      "t": "Contar o que muda e o que não muda, tarefa por tarefa"
+      "t": "Contar o que muda e o que nêo muda, tarefa por tarefa"
     },
     {
-      "t": "Dizer em voz alta o que ainda não se sabe"
+      "t": "Dizer em voz alta o que ainda nêo se sabe"
     },
     {
       "t": "Fechar com compromisso que você pode cumprir, com data"
@@ -36,8 +36,8 @@
         {
           "icone": "chat",
           "titulo": "Ouvir",
-          "sub": "o medo é informação",
-          "detalhe": "Pergunte o que a pessoa viu, ouviu ou sentiu. O medo costuma trazer um fato junto (\"só me sobra o que a Hora não sabe\") que você precisa conhecer. Não diminua (\"bobagem\") nem corra para a resposta."
+          "sub": "o medo é informaçêo",
+          "detalhe": "Pergunte o que a pessoa viu, ouviu ou sentiu. O medo costuma trazer um fato junto (\"só me sobra o que a Hora nêo sabe\") que você precisa conhecer. Nêo diminua (\"bobagem\") nem corra para a resposta."
         },
         {
           "icone": "seta",
@@ -47,25 +47,25 @@
         },
         {
           "icone": "escudo",
-          "titulo": "O que não muda",
+          "titulo": "O que nêo muda",
           "sub": "e por quê",
-          "detalhe": "A relação com o cliente difícil, a responsabilidade pelas decisões, o que só uma pessoa faz bem. Diga por que não muda: é decisão de gestão, tomada antes, e está escrita."
+          "detalhe": "A relaçêo com o cliente difícil, a responsabilidade pelas decisões, o que só uma pessoa faz bem. Diga por que nêo muda: é decisêo de gestêo, tomada antes, e está escrita."
         },
         {
           "icone": "lupa",
-          "titulo": "Não sabemos",
+          "titulo": "Nêo sabemos",
           "sub": "dito em voz alta",
           "forte": true,
-          "detalhe": "O que vai acontecer com o cargo daqui a um ano, ninguém sabe ao certo, nem você. Dizer isso é o que dá crédito ao resto. Diga também quem decide o que não é seu e quando você volta com resposta."
+          "detalhe": "O que vai acontecer com o cargo daqui a um ano, ninguém sabe ao certo, nem você. Dizer isso é o que dá crédito ao resto. Diga também quem decide o que nêo é seu e quando você volta com resposta."
         },
         {
           "icone": "calendario",
           "titulo": "Compromisso",
           "sub": "que você cumpre",
-          "detalhe": "Só prometa o que depende de você: contar antes, conversar todo mês, incluir a pessoa no que muda. Com data. Promessa sobre emprego que a empresa não decidiu por escrito não é sua para fazer."
+          "detalhe": "Só prometa o que depende de você: contar antes, conversar todo mês, incluir a pessoa no que muda. Com data. Promessa sobre emprego que a empresa nêo decidiu por escrito nêo é sua para fazer."
         }
       ],
-      "legenda": "Estrutura recomendada pelo ARCKHÉ para a conversa (o que muda, o que não muda, o que não sabemos). Não é protocolo de RH nem orientação jurídica."
+      "legenda": "Estrutura recomendada pelo ARCKHÉ para a conversa (o que muda, o que nêo muda, o que nêo sabemos). Nêo é protocolo de RH nem orientaçêo jurídica."
     },
     {
       "tipo": "passos",
@@ -76,20 +76,20 @@
           "titulo": "Ouça antes de explicar",
           "sub": "a pergunta é justa",
           "texto": [
-            "Quem pergunta se vai ser substituído não está atacando a mudança; está pedindo informação que ninguém deu. Agradeça a pergunta e pergunte de volta o que a pessoa viu.",
+            "Quem pergunta se vai ser substituído nêo está atacando a mudança; está pedindo informaçêo que ninguém deu. Agradeça a pergunta e pergunte de volta o que a pessoa viu.",
             "Evite as duas saídas rápidas: \"fica tranquila\" (promessa) e \"é o mercado\" (abandono). As duas encerram a conversa e deixam o medo intacto."
           ],
           "exemplo": {
             "rot": "Na Horizonte (empresa fictícia de estudo)",
-            "texto": "\"Desde que a Hora entrou, eu só respondo o que ela não sabe.\" A Juliana trouxe um fato: a parte fácil do trabalho dela saiu. É por aí que a conversa começa."
+            "texto": "\"Desde que a Hora entrou, eu só respondo o que ela nêo sabe.\" A Juliana trouxe um fato: a parte fácil do trabalho dela saiu. É por aí que a conversa começa."
           }
         },
         {
-          "titulo": "O que muda, o que não muda",
+          "titulo": "O que muda, o que nêo muda",
           "sub": "use a matriz",
           "texto": [
-            "Leve a matriz da aula 2. Mostre as tarefas que saíram, as que entraram e as que continuam com a pessoa, com o motivo. A decisão escrita pesa mais do que qualquer frase de consolo.",
-            "Não doure: se a Hora já faz metade das perguntas, diga. A confiança vem de a pessoa reconhecer na sua fala o que ela vê no dia."
+            "Leve a matriz da aula 2. Mostre as tarefas que saíram, as que entraram e as que continuam com a pessoa, com o motivo. A decisêo escrita pesa mais do que qualquer frase de consolo.",
+            "Nêo doure: se a Hora já faz metade das perguntas, diga. A confiança vem de a pessoa reconhecer na sua fala o que ela vê no dia."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
@@ -97,15 +97,15 @@
           }
         },
         {
-          "titulo": "Diga o que não se sabe",
+          "titulo": "Diga o que nêo se sabe",
           "sub": "é o que dá crédito",
           "texto": [
-            "Ninguém sabe ao certo como os cargos vão estar daqui a um ano. O Stanford Digital Economy Lab (08/2026) registrou queda relativa de cerca de 19% no emprego de jovens de 22 a 25 anos nas ocupações mais expostas à IA, sem afirmar que a IA é a causa.",
-            "É assim que se fala de um dado difícil: o que ele mostra e o que ele não prova. Faça o mesmo com o seu caso: diga o que você sabe, o que não sabe e quem decide o resto."
+            "Ninguém sabe ao certo como os cargos vêo estar daqui a um ano. O Stanford Digital Economy Lab (08/2026) registrou queda relativa de cerca de 19% no emprego de jovens de 22 a 25 anos nas ocupações mais expostas à IA, sem afirmar que a IA é a causa.",
+            "É assim que se fala de um dado difícil: o que ele mostra e o que ele nêo prova. Faça o mesmo com o seu caso: diga o que você sabe, o que nêo sabe e quem decide o resto."
           ],
           "exemplo": {
             "rot": "Frase que funciona",
-            "texto": "\"Não posso garantir o cargo daqui a um ano: não depende só de mim. O que eu posso é te contar antes, de mim, e não pelo corredor.\""
+            "texto": "\"Nêo posso garantir o cargo daqui a um ano: nêo depende só de mim. O que eu posso é te contar antes, de mim, e nêo pelo corredor.\""
           }
         },
         {
@@ -124,34 +124,34 @@
     },
     {
       "tipo": "simconversa",
-      "titulo": "Simulação: \"a Hora vai tomar o meu lugar?\"",
+      "titulo": "Simulaçêo: \"a Hora vai tomar o meu lugar?\"",
       "sub": "Conversa simulada para treinar. A Juliana procura você no fim do expediente; escolha cada resposta. O comentário aparece logo depois.",
       "personagem": {
-        "nome": "Juliana · atendimento (simulação)",
+        "nome": "Juliana · atendimento (simulaçêo)",
         "papel": "Horizonte Distribuidora, empresa fictícia de estudo"
       },
       "inicio": "abre",
       "falas": {
         "abre": {
-          "cliente": "Patrícia, posso falar uma coisa? Desde que a Hora entrou, eu só respondo o que ela não sabe. Vi no jornal que estão cortando vaga de atendimento em tudo que é lugar. A Hora vai tomar o meu lugar?",
+          "cliente": "Patrícia, posso falar uma coisa? Desde que a Hora entrou, eu só respondo o que ela nêo sabe. Vi no jornal que estêo cortando vaga de atendimento em tudo que é lugar. A Hora vai tomar o meu lugar?",
           "opcoes": [
             {
               "t": "Fica tranquila, aqui ninguém vai perder o emprego.",
               "vai": "fim-promessa",
               "nota": 0,
-              "comenta": "É uma promessa que não é sua para fazer: a decisão sobre cargos não depende só de você. Acalma hoje e cobra a conta no dia em que algo mudar."
+              "comenta": "É uma promessa que nêo é sua para fazer: a decisêo sobre cargos nêo depende só de você. Acalma hoje e cobra a conta no dia em que algo mudar."
             },
             {
-              "t": "Sinceramente, não sei. Isso é com o Carlos.",
+              "t": "Sinceramente, nêo sei. Isso é com o Carlos.",
               "vai": "muda",
               "nota": 1,
-              "comenta": "É honesto dizer que não sabe, mas a frase encerra a conversa e devolve o medo para ela. Dá para ser honesta e ainda contar o que você sabe."
+              "comenta": "É honesto dizer que nêo sabe, mas a frase encerra a conversa e devolve o medo para ela. Dá para ser honesta e ainda contar o que você sabe."
             },
             {
-              "t": "A pergunta é justa. Vou te dizer o que eu sei, o que muda e o que eu ainda não sei. O que você tem visto no dia a dia?",
+              "t": "A pergunta é justa. Vou te dizer o que eu sei, o que muda e o que eu ainda nêo sei. O que você tem visto no dia a dia?",
               "vai": "muda",
               "nota": 2,
-              "comenta": "Você reconheceu a pergunta, anunciou uma conversa honesta e começou ouvindo. O medo dela traz informação que você precisa."
+              "comenta": "Você reconheceu a pergunta, anunciou uma conversa honesta e começou ouvindo. O medo dela traz informaçêo que você precisa."
             }
           ]
         },
@@ -162,7 +162,7 @@
               "t": "Que nada, você continua fazendo tudo igual.",
               "vai": "futuro",
               "nota": 0,
-              "comenta": "Ela vê todo dia que não é igual. Negar o que a pessoa vê tira o crédito de tudo o que você disser depois."
+              "comenta": "Ela vê todo dia que nêo é igual. Negar o que a pessoa vê tira o crédito de tudo o que você disser depois."
             },
             {
               "t": "É o mercado, Juliana. Todo mundo vai ter que se adaptar.",
@@ -171,10 +171,10 @@
               "comenta": "Pode até ser verdade, mas é genérico e joga a responsabilidade para fora. Ela perguntou sobre o trabalho dela, aqui."
             },
             {
-              "t": "É verdade, as perguntas repetidas foram para ela. Ficou com você o que ela não resolve: cliente irritado, pedido fora do padrão. E quero que você passe a conferir os cadastros novos e a fila de exceções comigo.",
+              "t": "É verdade, as perguntas repetidas foram para ela. Ficou com você o que ela nêo resolve: cliente irritado, pedido fora do padrêo. E quero que você passe a conferir os cadastros novos e a fila de exceções comigo.",
               "vai": "futuro",
               "nota": 2,
-              "comenta": "Você confirmou o que ela vê, disse o que continua com ela e o que entra, com a decisão já tomada. Concreto acalma mais do que consolo."
+              "comenta": "Você confirmou o que ela vê, disse o que continua com ela e o que entra, com a decisêo já tomada. Concreto acalma mais do que consolo."
             }
           ]
         },
@@ -185,24 +185,24 @@
               "t": "Garanto. Dou a minha palavra.",
               "vai": "fim-promessa",
               "nota": 0,
-              "comenta": "Ninguém sabe como o cargo vai estar daqui a um ano, e a decisão não é só sua. Promessa que você não controla vira quebra de confiança depois."
+              "comenta": "Ninguém sabe como o cargo vai estar daqui a um ano, e a decisêo nêo é só sua. Promessa que você nêo controla vira quebra de confiança depois."
             },
             {
-              "t": "Sobre isso eu não posso falar.",
+              "t": "Sobre isso eu nêo posso falar.",
               "vai": "agora",
               "nota": 1,
-              "comenta": "Não prometer está certo. Mas o silêncio soa como notícia ruim escondida. Diga o que você pode fazer."
+              "comenta": "Nêo prometer está certo. Mas o silêncio soa como notícia ruim escondida. Diga o que você pode fazer."
             },
             {
-              "t": "Não posso garantir: não depende só de mim e as coisas estão mudando rápido. O que eu posso é te contar antes, de mim e não pelo corredor, e a gente conversar sobre isso todo mês.",
+              "t": "Nêo posso garantir: nêo depende só de mim e as coisas estêo mudando rápido. O que eu posso é te contar antes, de mim e nêo pelo corredor, e a gente conversar sobre isso todo mês.",
               "vai": "agora",
               "nota": 2,
-              "comenta": "Você disse o que não sabe, de quem é a decisão e o que depende de você, com um compromisso que dá para cumprir e conferir."
+              "comenta": "Você disse o que nêo sabe, de quem é a decisêo e o que depende de você, com um compromisso que dá para cumprir e conferir."
             }
           ]
         },
         "agora": {
-          "cliente": "Tá bom. E o que eu faço agora, então?",
+          "cliente": "Tá bom. E o que eu faço agora, entêo?",
           "opcoes": [
             {
               "t": "Continua fazendo o seu trabalho que vai dar tudo certo.",
@@ -214,20 +214,20 @@
               "t": "Faz um curso de IA no fim de semana, que ajuda.",
               "vai": "fim-curso",
               "nota": 1,
-              "comenta": "Aprender ajuda, mas a sugestão joga o problema para o tempo livre dela e não liga a nada do trabalho daqui."
+              "comenta": "Aprender ajuda, mas a sugestêo joga o problema para o tempo livre dela e nêo liga a nada do trabalho daqui."
             },
             {
               "t": "Por duas semanas, anota cada caso que a Hora errou ou te passou. Sexta a gente olha junto. E quero você no teste das próximas mudanças dela: quem atende sabe onde ela erra.",
               "vai": "fim-bom",
               "nota": 2,
-              "comenta": "Tarefa concreta, com prazo, que usa o que ela sabe e a coloca dentro da mudança, não do lado de fora."
+              "comenta": "Tarefa concreta, com prazo, que usa o que ela sabe e a coloca dentro da mudança, nêo do lado de fora."
             }
           ]
         },
         "fim-promessa": {
           "fim": true,
-          "titulo": "Uma promessa que não era sua",
-          "texto": "A Juliana saiu aliviada. Mas a decisão sobre cargos não é só da Patrícia, e ninguém sabe como o atendimento vai estar daqui a um ano. Se algo mudar, a promessa vira a lembrança mais forte da conversa. Honestidade sobre o que não se sabe protege a confiança melhor que a garantia."
+          "titulo": "Uma promessa que nêo era sua",
+          "texto": "A Juliana saiu aliviada. Mas a decisêo sobre cargos nêo é só da Patrícia, e ninguém sabe como o atendimento vai estar daqui a um ano. Se algo mudar, a promessa vira a lembrança mais forte da conversa. Honestidade sobre o que nêo se sabe protege a confiança melhor que a garantia."
         },
         "fim-vago": {
           "fim": true,
@@ -237,7 +237,7 @@
         "fim-curso": {
           "fim": true,
           "titulo": "Aprender, mas longe daqui",
-          "texto": "A sugestão não é ruim, só está desligada do trabalho. A Juliana sabe onde a Hora erra melhor do que ninguém; esse saber é o que a coloca dentro da mudança. Recomece e compare."
+          "texto": "A sugestêo nêo é ruim, só está desligada do trabalho. A Juliana sabe onde a Hora erra melhor do que ninguém; esse saber é o que a coloca dentro da mudança. Recomece e compare."
         },
         "fim-bom": {
           "fim": true,
@@ -245,22 +245,22 @@
           "texto": "A Juliana sabe o que mudou, o que continua com ela, o que ninguém sabe ainda e o que fazer na próxima semana. Confira o placar: se ficou abaixo do máximo, alguma resposta prometeu, negou ou encerrou a conversa. Recomece e compare os comentários."
         }
       },
-      "licao": "Honestidade tem três partes: o que muda, o que não muda e o que não sabemos. Prometa só o que depende de você, com data, e feche com uma tarefa que coloca a pessoa dentro da mudança."
+      "licao": "Honestidade tem três partes: o que muda, o que nêo muda e o que nêo sabemos. Prometa só o que depende de você, com data, e feche com uma tarefa que coloca a pessoa dentro da mudança."
     },
     {
       "tipo": "codigo",
       "titulo": "Modelos para copiar",
-      "sub": "O roteiro da reunião de 30 minutos com a equipe e um prompt que procura promessas. A aba ao lado mostra o da Patrícia.",
+      "sub": "O roteiro da reuniêo de 30 minutos com a equipe e um prompt que procura promessas. A aba ao lado mostra o da Patrícia.",
       "blocos": [
         {
-          "rot": "Roteiro de reunião · 30 min",
+          "rot": "Roteiro de reuniêo · 30 min",
           "icone": "calendario",
-          "conteudo": "REUNIÃO: O QUE MUDA COM <nome do agente> · equipe <nome> · <data e hora> · conduz: <nome>\n\n00-05 ABERTURA\n  Por que estamos aqui: <uma frase>. Vou dizer o que sei, o que muda e o que não sei.\n05-12 O QUE MUDA (da matriz de divisão)\n  Saiu de vocês: <tarefas> · Entrou: <tarefas> · Quem decide o quê: <...>\n12-17 O QUE NÃO MUDA, E POR QUÊ\n  <relação com cliente, decisões, ...> · porque: <decisão escrita>\n17-22 O QUE NÃO SABEMOS\n  <o que ninguém sabe ainda> · quem decide: <nome> · quando volto com resposta: <data>\n22-28 PERGUNTAS\n  Anotar todas. A que eu não souber: respondo até <data>, por <canal>.\n28-30 COMPROMISSOS (só o que depende de mim)\n  <compromisso 1, com data> · <compromisso 2, com data>\n  Tarefa de cada um até <data>: <...>\n  Próxima conversa: <data>\n\nFRASES QUE AJUDAM: \"a pergunta é justa\" · \"isso eu não sei, e vou te dizer quando souber\"\n  · \"essa decisão é de <nome>; trago a resposta até <data>\"\nFRASES A EVITAR: \"fica tranquilo\" · \"ninguém vai perder o emprego\" (se não foi decidido)\n  · \"é o mercado\" · \"não posso falar sobre isso\" (sem dizer quando pode)"
+          "conteudo": "REUNIêO: O QUE MUDA COM <nome do agente> · equipe <nome> · <data e hora> · conduz: <nome>\n\n00-05 ABERTURA\n  Por que estamos aqui: <uma frase>. Vou dizer o que sei, o que muda e o que nêo sei.\n05-12 O QUE MUDA (da matriz de divisêo)\n  Saiu de vocês: <tarefas> · Entrou: <tarefas> · Quem decide o quê: <...>\n12-17 O QUE NêO MUDA, E POR QUÊ\n  <relaçêo com cliente, decisões, ...> · porque: <decisêo escrita>\n17-22 O QUE NêO SABEMOS\n  <o que ninguém sabe ainda> · quem decide: <nome> · quando volto com resposta: <data>\n22-28 PERGUNTAS\n  Anotar todas. A que eu nêo souber: respondo até <data>, por <canal>.\n28-30 COMPROMISSOS (só o que depende de mim)\n  <compromisso 1, com data> · <compromisso 2, com data>\n  Tarefa de cada um até <data>: <...>\n  Próxima conversa: <data>\n\nFRASES QUE AJUDAM: \"a pergunta é justa\" · \"isso eu nêo sei, e vou te dizer quando souber\"\n  · \"essa decisêo é de <nome>; trago a resposta até <data>\"\nFRASES A EVITAR: \"fica tranquilo\" · \"ninguém vai perder o emprego\" (se nêo foi decidido)\n  · \"é o mercado\" · \"nêo posso falar sobre isso\" (sem dizer quando pode)"
         },
         {
           "rot": "Prompt · procurar promessas",
           "icone": "chat",
-          "conteudo": "Você revisa o roteiro de uma reunião em que um gestor vai falar com a\nequipe sobre a chegada de agentes de IA. Não reescreva: aponte riscos.\n\n1. Liste toda frase que soa como promessa sobre emprego, cargo, salário\n   ou economia, e diga se o roteiro mostra quem decidiu isso.\n2. Liste frases genéricas (\"é o mercado\", \"vai melhorar\") sem tarefa\n   concreta por trás.\n3. Diga se o roteiro tem as três partes: o que muda, o que não muda e\n   o que não sabemos.\n4. Aponte compromissos sem data ou que não dependem de quem conduz.\n\nRoteiro:\n\"\"\"<cole aqui>\"\"\""
+          "conteudo": "Você revisa o roteiro de uma reuniêo em que um gestor vai falar com a\nequipe sobre a chegada de agentes de IA. Nêo reescreva: aponte riscos.\n\n1. Liste toda frase que soa como promessa sobre emprego, cargo, salário\n   ou economia, e diga se o roteiro mostra quem decidiu isso.\n2. Liste frases genéricas (\"é o mercado\", \"vai melhorar\") sem tarefa\n   concreta por trás.\n3. Diga se o roteiro tem as três partes: o que muda, o que nêo muda e\n   o que nêo sabemos.\n4. Aponte compromissos sem data ou que nêo dependem de quem conduz.\n\nRoteiro:\n\"\"\"<cole aqui>\"\"\""
         }
       ],
       "saida": {
@@ -268,11 +268,11 @@
         "abas": [
           {
             "rot": "Roteiro da Patrícia (exemplo)",
-            "html": "<p><b>Reunião: o que muda com a Hora</b> · comercial · sexta, 9 h · conduz: Patrícia · Horizonte, empresa fictícia de estudo</p><ol><li><b>Abertura:</b> \"A Hora está com a gente há um mês e ninguém sentou para conversar. Vou dizer o que sei, o que muda e o que não sei.\"</li><li><b>Muda:</b> catálogo e prazo saíram da Juliana; ela confere cadastros novos e a fila comigo. Descontos de 5% a 10% e pedidos acima de R$ 5 mil: a Hora prepara, eu aprovo.</li><li><b>Não muda:</b> cliente irritado, visita e negociação continuam com vocês, porque é relação.</li><li><b>Não sabemos:</b> como o atendimento estará em um ano. Quem decide cargos é o Carlos; levo a pergunta a ele e volto até 13/11.</li><li><b>Perguntas:</b> anotadas no canal da equipe.</li><li><b>Compromissos:</b> conversa mensal; ninguém fica sabendo de mudança pelo corredor; a Juliana no teste das mudanças da Hora. Tarefa: duas semanas anotando os erros da Hora.</li></ol>"
+            "html": "<p><b>Reuniêo: o que muda com a Hora</b> · comercial · sexta, 9 h · conduz: Patrícia · Horizonte, empresa fictícia de estudo</p><ol><li><b>Abertura:</b> \"A Hora está com a gente há um mês e ninguém sentou para conversar. Vou dizer o que sei, o que muda e o que nêo sei.\"</li><li><b>Muda:</b> catálogo e prazo saíram da Juliana; ela confere cadastros novos e a fila comigo. Descontos de 5% a 10% e pedidos acima de R$ 5 mil: a Hora prepara, eu aprovo.</li><li><b>Nêo muda:</b> cliente irritado, visita e negociaçêo continuam com vocês, porque é relaçêo.</li><li><b>Nêo sabemos:</b> como o atendimento estará em um ano. Quem decide cargos é o Carlos; levo a pergunta a ele e volto até 13/11.</li><li><b>Perguntas:</b> anotadas no canal da equipe.</li><li><b>Compromissos:</b> conversa mensal; ninguém fica sabendo de mudança pelo corredor; a Juliana no teste das mudanças da Hora. Tarefa: duas semanas anotando os erros da Hora.</li></ol>"
           },
           {
             "rot": "Como conferir / erros comuns",
-            "html": "<ol><li><b>Promessa de emprego.</b> Se a empresa não decidiu por escrito, não prometa. Diga quem decide e quando você volta.</li><li><b>Só o que muda.</b> Sem o que não muda, a equipe imagina o pior.</li><li><b>Pular o \"não sabemos\".</b> É a parte que dá crédito ao resto.</li><li><b>Pergunta sem dono.</b> Pergunta que você não soube responder precisa de data e canal.</li><li><b>Fechar sem tarefa.</b> Sem próximo passo, o medo volta com a próxima notícia.</li></ol>"
+            "html": "<ol><li><b>Promessa de emprego.</b> Se a empresa nêo decidiu por escrito, nêo prometa. Diga quem decide e quando você volta.</li><li><b>Só o que muda.</b> Sem o que nêo muda, a equipe imagina o pior.</li><li><b>Pular o \"nêo sabemos\".</b> É a parte que dá crédito ao resto.</li><li><b>Pergunta sem dono.</b> Pergunta que você nêo soube responder precisa de data e canal.</li><li><b>Fechar sem tarefa.</b> Sem próximo passo, o medo volta com a próxima notícia.</li></ol>"
           }
         ]
       }
@@ -286,35 +286,35 @@
     {
       "tipo": "pratica",
       "titulo": "Prática",
-      "sub": "Treine na simulação, escreva o roteiro da Patrícia e depois o seu.",
+      "sub": "Treine na simulaçêo, escreva o roteiro da Patrícia e depois o seu.",
       "exercicios": [
         {
           "id": "e1",
           "titulo": "1 · A conversa com a Juliana",
           "min": "10 min",
-          "texto": "Faça a simulação desta aula. Se não chegar ao placar máximo, leia os comentários, recomece e tente de novo.",
-          "pronto": "você terminou a simulação com o placar máximo e consegue dizer, em uma frase cada, o que muda, o que não muda e o que não se sabe para a Juliana."
+          "texto": "Faça a simulaçêo desta aula. Se nêo chegar ao placar máximo, leia os comentários, recomece e tente de novo.",
+          "pronto": "você terminou a simulaçêo com o placar máximo e consegue dizer, em uma frase cada, o que muda, o que nêo muda e o que nêo se sabe para a Juliana."
         },
         {
           "id": "e2",
           "titulo": "2 · O roteiro da Patrícia",
           "min": "20 min",
-          "texto": "Com a matriz da aula 2, escreva o roteiro da reunião de 30 minutos da Patrícia com a equipe comercial. Rode o prompt de promessas e corrija o que ele apontar.",
-          "pronto": "o roteiro tem os seis blocos com minutos, pelo menos 3 tarefas que mudam e 2 que não mudam, um \"não sabemos\" com quem decide e data de resposta, e nenhuma promessa sobre emprego ou cargo."
+          "texto": "Com a matriz da aula 2, escreva o roteiro da reuniêo de 30 minutos da Patrícia com a equipe comercial. Rode o prompt de promessas e corrija o que ele apontar.",
+          "pronto": "o roteiro tem os seis blocos com minutos, pelo menos 3 tarefas que mudam e 2 que nêo mudam, um \"nêo sabemos\" com quem decide e data de resposta, e nenhuma promessa sobre emprego ou cargo."
         },
         {
           "id": "e3",
-          "titulo": "3 · A sua reunião",
-          "min": "30 min + a reunião",
-          "texto": "Escreva o roteiro da sua equipe e marque a reunião. Depois dela, anote as perguntas que vieram e responda as que ficaram em aberto até a data que você prometeu.",
-          "pronto": "a reunião aconteceu na data marcada, as perguntas estão anotadas, cada pergunta sem resposta tem data, e o compromisso com data foi cumprido ou está no calendário."
+          "titulo": "3 · A sua reuniêo",
+          "min": "30 min + a reuniêo",
+          "texto": "Escreva o roteiro da sua equipe e marque a reuniêo. Depois dela, anote as perguntas que vieram e responda as que ficaram em aberto até a data que você prometeu.",
+          "pronto": "a reuniêo aconteceu na data marcada, as perguntas estêo anotadas, cada pergunta sem resposta tem data, e o compromisso com data foi cumprido ou está no calendário."
         }
       ]
     },
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "5 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "5 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
           "p": "A Juliana pergunta se a Hora vai tomar o lugar dela. Qual é a melhor primeira resposta?",
@@ -325,10 +325,10 @@
           ],
           "certa": 2,
           "ref": "simconversa",
-          "explica": "Prometer que ninguém perde o emprego não é decisão sua; dizer que é o mercado abandona a pessoa. A resposta certa reconhece a pergunta e começa ouvindo."
+          "explica": "Prometer que ninguém perde o emprego nêo é decisêo sua; dizer que é o mercado abandona a pessoa. A resposta certa reconhece a pergunta e começa ouvindo."
         },
         {
-          "p": "Por que dizer em voz alta o que ainda não se sabe?",
+          "p": "Por que dizer em voz alta o que ainda nêo se sabe?",
           "opcoes": [
             "Porque dá crédito ao que você diz sobre o resto",
             "Porque assim a equipe se prepara para o pior cenário",
@@ -347,7 +347,7 @@
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "O estudo mostra uma queda e não afirma a causa. Repetir só o número, como se provasse a causa, assusta e ensina a equipe a ler dado errado."
+          "explica": "O estudo mostra uma queda e nêo afirma a causa. Repetir só o número, como se provasse a causa, assusta e ensina a equipe a ler dado errado."
         },
         {
           "p": "Qual destes é um compromisso que a Patrícia pode assumir?",
@@ -358,18 +358,18 @@
           ],
           "certa": 0,
           "ref": "passos",
-          "explica": "Compromisso bom depende de quem promete e dá para conferir. Garantia de cargo não é decisão só dela."
+          "explica": "Compromisso bom depende de quem promete e dá para conferir. Garantia de cargo nêo é decisêo só dela."
         },
         {
           "p": "Por que fechar a conversa com uma tarefa para a pessoa?",
           "opcoes": [
             "Para ocupar o tempo que a Hora liberou no dia dela",
             "Para colocá-la dentro da mudança, usando o que ela sabe",
-            "Para ter evidência de desempenho dela na próxima avaliação do ano"
+            "Para ter evidência de desempenho dela na próxima avaliaçêo do ano"
           ],
           "certa": 1,
           "ref": "simconversa",
-          "explica": "Quem atende sabe onde o agente erra. Anotar os casos e entrar no teste das mudanças transforma medo em contribuição."
+          "explica": "Quem atende sabe onde o agente erra. Anotar os casos e entrar no teste das mudanças transforma medo em contribuiçêo."
         }
       ]
     },
@@ -382,11 +382,11 @@
           "texto": "O medo traz um fato que você precisa saber."
         },
         {
-          "t": "Muda e não muda",
+          "t": "Muda e nêo muda",
           "texto": "Tarefa por tarefa, com a matriz da aula 2."
         },
         {
-          "t": "Não sabemos",
+          "t": "Nêo sabemos",
           "texto": "Dito em voz alta, com quem decide e quando você volta."
         },
         {
@@ -400,7 +400,7 @@
       "titulo": "Para ir além",
       "links": [
         {
-          "t": "Vídeo: gerente que não domina agentes (página com roteiro)",
+          "t": "Vídeo: gerente que nêo domina agentes (página com roteiro)",
           "href": "https://linnoff88-dev.github.io/
           "icone": "video"
         },
@@ -410,7 +410,7 @@
           "icone": "chat"
         },
         {
-          "t": "Área Gestão de IA: gestão de pessoas e de agentes",
+          "t": "Área Gestêo de IA: gestêo de pessoas e de agentes",
           "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         }

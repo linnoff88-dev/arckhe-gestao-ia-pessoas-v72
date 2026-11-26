@@ -1,11 +1,11 @@
 {
   "slug": "divisao",
   "num": 2,
-  "menu": "Divisão",
+  "menu": "Divisêo",
   "titulo": "O que fica com as pessoas",
   "titulo_curto": "O que fica com as pessoas",
   "minutos": 18,
-  "lead": "A Hora entrou e ninguém disse o que mudava para a Juliana. Ela descobriu sozinha: as perguntas fáceis sumiram da fila dela, as difíceis ficaram. Dividir o trabalho é decisão de gestão, tomada antes, tarefa por tarefa, com o motivo escrito. Nesta aula você decide o que fica com a pessoa, o que vai para o agente e o que os dois fazem juntos.",
+  "lead": "A Hora entrou e ninguém disse o que mudava para a Juliana. Ela descobriu sozinha: as perguntas fáceis sumiram da fila dela, as difíceis ficaram. Dividir o trabalho é decisêo de gestêo, tomada antes, tarefa por tarefa, com o motivo escrito. Nesta aula você decide o que fica com a pessoa, o que vai para o agente e o que os dois fazem juntos.",
   "objetivo": "decidir, tarefa por tarefa, o que fica com a pessoa, o que vai para o agente e o que os dois fazem juntos, com o motivo escrito.",
   "competencias": [
     "dividir-trabalho-pessoa-agente",
@@ -26,7 +26,7 @@
       "t": "Decidir para onde vai o tempo que sobra, sem prometer economia"
     }
   ],
-  "hero_alt": "Dois colegas organizam bilhetes adesivos coloridos, em branco, em três colunas num quadro de vidro da sala de reunião.",
+  "hero_alt": "Dois colegas organizam bilhetes adesivos coloridos, em branco, em três colunas num quadro de vidro da sala de reuniêo.",
   "secoes": [
     {
       "tipo": "diagrama",
@@ -38,20 +38,20 @@
           "icone": "x",
           "titulo": "Some?",
           "sub": "antes de dividir",
-          "detalhe": "Primeiro pergunte se a tarefa ainda precisa existir. Tarefa que só existe por hábito (copiar o que outro sistema já registra, relatório que ninguém lê) não vai para a pessoa nem para o agente: some. Redesenhar o processo é assunto do G2."
+          "detalhe": "Primeiro pergunte se a tarefa ainda precisa existir. Tarefa que só existe por hábito (copiar o que outro sistema já registra, relatório que ninguém lê) nêo vai para a pessoa nem para o agente: some. Redesenhar o processo é assunto do G2."
         },
         {
           "icone": "usuario",
           "titulo": "Pessoa",
-          "sub": "relação, julgamento",
-          "detalhe": "Fica com a pessoa o que depende de relação e de julgamento sobre gente: cliente importante irritado, negociação fora da política, conflito na equipe, formar alguém, exceção nova que ninguém previu. Na área Gestão de IA, o exemplo da saúde: o administrativo para a IA, as pessoas para a equipe."
+          "sub": "relaçêo, julgamento",
+          "detalhe": "Fica com a pessoa o que depende de relaçêo e de julgamento sobre gente: cliente importante irritado, negociaçêo fora da política, conflito na equipe, formar alguém, exceçêo nova que ninguém previu. Na área Gestêo de IA, o exemplo da saúde: o administrativo para a IA, as pessoas para a equipe."
         },
         {
           "icone": "check",
           "titulo": "Os dois",
           "sub": "agente prepara",
           "forte": true,
-          "detalhe": "Quando alguém precisa responder pela decisão (aprovar, assinar, cadastrar), o agente prepara e a pessoa decide. É o exemplo do jurídico na área: o agente faz a primeira leitura, o advogado decide e assina. E o do contábil: quem lança não aprova."
+          "detalhe": "Quando alguém precisa responder pela decisêo (aprovar, assinar, cadastrar), o agente prepara e a pessoa decide. É o exemplo do jurídico na área: o agente faz a primeira leitura, o advogado decide e assina. E o do contábil: quem lança nêo aprova."
         },
         {
           "icone": "chip",
@@ -60,7 +60,7 @@
           "detalhe": "Vai para o agente o que se repete muito, tem regra escrita e se desfaz barato se der errado: dúvida de catálogo, prazo de entrega, pedido de cliente cadastrado dentro do limite. Sempre com registro e alguém olhando a amostra."
         }
       ],
-      "legenda": "Ordem das perguntas: recomendação ARCKHÉ. Os exemplos de saúde, jurídico e contábil são da área Gestão de IA (§02). Valores da Horizonte: política fictícia de estudo."
+      "legenda": "Ordem das perguntas: recomendaçêo ARCKHÉ. Os exemplos de saúde, jurídico e contábil sêo da área Gestêo de IA (§02). Valores da Horizonte: política fictícia de estudo."
     },
     {
       "tipo": "passos",
@@ -69,10 +69,10 @@
       "passos": [
         {
           "titulo": "Liste como se trabalha",
-          "sub": "não como está no cargo",
+          "sub": "nêo como está no cargo",
           "texto": [
-            "A descrição do cargo diz \"atendimento ao cliente\". O dia da pessoa tem vinte tarefas diferentes, algumas que ninguém sabe que ela faz. Liste com ela, olhando uma semana real.",
-            "Para cada tarefa, anote quem faz hoje e com que frequência. É essa lista, e não o organograma, que a matriz divide."
+            "A descriçêo do cargo diz \"atendimento ao cliente\". O dia da pessoa tem vinte tarefas diferentes, algumas que ninguém sabe que ela faz. Liste com ela, olhando uma semana real.",
+            "Para cada tarefa, anote quem faz hoje e com que frequência. É essa lista, e nêo o organograma, que a matriz divide."
           ],
           "exemplo": {
             "rot": "Na Horizonte (empresa fictícia de estudo)",
@@ -83,12 +83,12 @@
           "titulo": "Passe pelas quatro perguntas",
           "sub": "e escreva o motivo",
           "texto": [
-            "Some? Depende de relação ou julgamento sobre gente? Alguém precisa responder pela decisão? É repetida, com regra, e se desfaz barato? A primeira resposta \"sim\" decide a coluna.",
-            "Escreva o motivo em uma frase. Sem motivo, a divisão vira opinião, e opinião muda a cada reclamação."
+            "Some? Depende de relaçêo ou julgamento sobre gente? Alguém precisa responder pela decisêo? É repetida, com regra, e se desfaz barato? A primeira resposta \"sim\" decide a coluna.",
+            "Escreva o motivo em uma frase. Sem motivo, a divisêo vira opiniêo, e opiniêo muda a cada reclamaçêo."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
-            "texto": "\"Cliente reclamando de atraso\": relação, fica com a Juliana. \"Prazo de entrega para Americana\": regra e volume, vai para a Hora."
+            "texto": "\"Cliente reclamando de atraso\": relaçêo, fica com a Juliana. \"Prazo de entrega para Americana\": regra e volume, vai para a Hora."
           }
         },
         {
@@ -96,7 +96,7 @@
           "sub": "quem prepara, quem decide",
           "texto": [
             "A coluna do meio é a mais comum e a mais mal desenhada. Para cada tarefa dela, escreva o que o agente entrega pronto, quem decide e em quanto tempo.",
-            "Se ninguém tem nome na decisão, a tarefa caiu no agente sem ninguém perceber. A alçada de cada ação está no G3; aqui a pergunta é de quem é o trabalho."
+            "Se ninguém tem nome na decisêo, a tarefa caiu no agente sem ninguém perceber. A alçada de cada açêo está no G3; aqui a pergunta é de quem é o trabalho."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
@@ -105,10 +105,10 @@
         },
         {
           "titulo": "Decida para onde vai o tempo",
-          "sub": "capacidade, não economia",
+          "sub": "capacidade, nêo economia",
           "texto": [
-            "Tirar tarefa de alguém libera horas, e horas liberadas não são economia. Só viram resultado se você decidir o que a pessoa passa a fazer, e disser isso a ela.",
-            "Não prometa o que não foi decidido. \"Seu tempo vai para conferir os cadastros e a fila comigo\" é uma decisão; \"ninguém vai mudar de função\" é uma promessa."
+            "Tirar tarefa de alguém libera horas, e horas liberadas nêo sêo economia. Só viram resultado se você decidir o que a pessoa passa a fazer, e disser isso a ela.",
+            "Nêo prometa o que nêo foi decidido. \"Seu tempo vai para conferir os cadastros e a fila comigo\" é uma decisêo; \"ninguém vai mudar de funçêo\" é uma promessa."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
@@ -125,12 +125,12 @@
         {
           "rot": "Matriz tarefa × pessoa × agente",
           "icone": "lista",
-          "conteudo": "MATRIZ DE DIVISÃO · equipe <nome> · versão <1.0> · <data> · responsável: <nome>\nLegenda: P = fica com a pessoa · 2 = os dois (agente prepara, pessoa decide) · A = agente · S = some\n\n| Tarefa (verbo + objeto) | Quem faz hoje | Frequência | Pergunta que decidiu | Coluna | No \"2\": o agente entrega... / quem decide · prazo | O que muda para a pessoa |\n|---|---|---|---|---|---|---|\n| <redigitar pedido na planilha> | <nome> | <diária> | some? sim: o sistema já registra | S | - | <deixa de fazer> |\n| <cliente irritado com atraso> | <nome> | <semanal> | relação | P | - | <continua; ganha tempo para isso> |\n| <aprovar desconto acima de X%> | <nome> | <...> | alguém responde | 2 | <pedido com histórico> / <nome> · <prazo> | <decide com pacote pronto> |\n| <dúvida de catálogo> | <nome> | <dezenas por dia> | regra e volume | A | - | <sai da fila dela> |\n\nPARA ONDE VAI O TEMPO LIBERADO (decidido, não prometido):\n<nome>: <tarefa nova ou ampliada> · combinado com a pessoa em <data>\nREGRA: nenhuma tarefa de aprovar, assinar ou cadastrar na coluna A."
+          "conteudo": "MATRIZ DE DIVISêO · equipe <nome> · versêo <1.0> · <data> · responsável: <nome>\nLegenda: P = fica com a pessoa · 2 = os dois (agente prepara, pessoa decide) · A = agente · S = some\n\n| Tarefa (verbo + objeto) | Quem faz hoje | Frequência | Pergunta que decidiu | Coluna | No \"2\": o agente entrega... / quem decide · prazo | O que muda para a pessoa |\n|---|---|---|---|---|---|---|\n| <redigitar pedido na planilha> | <nome> | <diária> | some? sim: o sistema já registra | S | - | <deixa de fazer> |\n| <cliente irritado com atraso> | <nome> | <semanal> | relaçêo | P | - | <continua; ganha tempo para isso> |\n| <aprovar desconto acima de X%> | <nome> | <...> | alguém responde | 2 | <pedido com histórico> / <nome> · <prazo> | <decide com pacote pronto> |\n| <dúvida de catálogo> | <nome> | <dezenas por dia> | regra e volume | A | - | <sai da fila dela> |\n\nPARA ONDE VAI O TEMPO LIBERADO (decidido, nêo prometido):\n<nome>: <tarefa nova ou ampliada> · combinado com a pessoa em <data>\nREGRA: nenhuma tarefa de aprovar, assinar ou cadastrar na coluna A."
         },
         {
           "rot": "Prompt · revisar a matriz",
           "icone": "chat",
-          "conteudo": "Você revisa a divisão de trabalho entre pessoas e agentes de IA de uma\nequipe. Não reescreva a matriz e não decida: aponte riscos.\n\n1. Liste tarefas na coluna A (agente) que envolvem aprovar, assinar,\n   cadastrar, dinheiro ou dado pessoal.\n2. Liste tarefas na coluna 2 (os dois) sem nome de quem decide ou sem prazo.\n3. Aponte tarefas que parecem existir só por hábito (candidatas a S).\n4. Aponte qualquer frase que soe como promessa sobre emprego ou cargo.\n\nResponda em tópicos, citando a linha.\n\nMatriz:\n\"\"\"<cole aqui>\"\"\""
+          "conteudo": "Você revisa a divisêo de trabalho entre pessoas e agentes de IA de uma\nequipe. Nêo reescreva a matriz e nêo decida: aponte riscos.\n\n1. Liste tarefas na coluna A (agente) que envolvem aprovar, assinar,\n   cadastrar, dinheiro ou dado pessoal.\n2. Liste tarefas na coluna 2 (os dois) sem nome de quem decide ou sem prazo.\n3. Aponte tarefas que parecem existir só por hábito (candidatas a S).\n4. Aponte qualquer frase que soe como promessa sobre emprego ou cargo.\n\nResponda em tópicos, citando a linha.\n\nMatriz:\n\"\"\"<cole aqui>\"\"\""
         }
       ],
       "saida": {
@@ -138,11 +138,11 @@
         "abas": [
           {
             "rot": "Matriz da equipe da Patrícia (exemplo)",
-            "html": "<p><b>Matriz de divisão · comercial · v1.0</b> · Horizonte, empresa fictícia de estudo · responsável: Patrícia</p><ul><li><b>Redigitar na planilha os pedidos do app</b> · Juliana · S (o app já registra).</li><li><b>Dúvida de catálogo e prazo de entrega</b> · Juliana · A (Hora), com amostra semanal.</li><li><b>Pedido de cliente cadastrado até R$ 5 mil</b> · vendedores · A (Hora), preço de tabela.</li><li><b>Desconto de 5% a 10%</b> · 2 · Hora prepara com histórico / Patrícia aprova na hora.</li><li><b>Pedido acima de R$ 5 mil</b> · 2 · Hora prepara / Patrícia aprova em até 2 h úteis.</li><li><b>Cadastro de cliente novo</b> · 2 · Hora coleta dados e CNPJ / Juliana confere e cadastra.</li><li><b>Proposta para cliente grande</b> · 2 · rascunho em IA da empresa, sem a planilha inteira / vendedor revisa e envia.</li><li><b>Cliente irritado com atraso</b> · P · Juliana.</li><li><b>Visita e negociação com cliente grande</b> · P · vendedores e Patrícia.</li><li><b>Formar o júnior que entra em novembro</b> · P · Sandra (aula 4).</li></ul><p><b>Tempo liberado:</b> Juliana passa a conferir cadastros e a fila de exceções com a Patrícia (combinado em 22/10). Vendedores: mais visitas.</p>"
+            "html": "<p><b>Matriz de divisêo · comercial · v1.0</b> · Horizonte, empresa fictícia de estudo · responsável: Patrícia</p><ul><li><b>Redigitar na planilha os pedidos do app</b> · Juliana · S (o app já registra).</li><li><b>Dúvida de catálogo e prazo de entrega</b> · Juliana · A (Hora), com amostra semanal.</li><li><b>Pedido de cliente cadastrado até R$ 5 mil</b> · vendedores · A (Hora), preço de tabela.</li><li><b>Desconto de 5% a 10%</b> · 2 · Hora prepara com histórico / Patrícia aprova na hora.</li><li><b>Pedido acima de R$ 5 mil</b> · 2 · Hora prepara / Patrícia aprova em até 2 h úteis.</li><li><b>Cadastro de cliente novo</b> · 2 · Hora coleta dados e CNPJ / Juliana confere e cadastra.</li><li><b>Proposta para cliente grande</b> · 2 · rascunho em IA da empresa, sem a planilha inteira / vendedor revisa e envia.</li><li><b>Cliente irritado com atraso</b> · P · Juliana.</li><li><b>Visita e negociaçêo com cliente grande</b> · P · vendedores e Patrícia.</li><li><b>Formar o júnior que entra em novembro</b> · P · Sandra (aula 4).</li></ul><p><b>Tempo liberado:</b> Juliana passa a conferir cadastros e a fila de exceções com a Patrícia (combinado em 22/10). Vendedores: mais visitas.</p>"
           },
           {
             "rot": "Como conferir / erros comuns",
-            "html": "<ol><li><b>Lista do cargo, não do dia.</b> Sem conversar com a pessoa, faltam as tarefas invisíveis.</li><li><b>Aprovar na coluna A.</b> Se o agente aprova sozinho, ninguém responde pela decisão.</li><li><b>\"Os dois\" sem nome.</b> Sem quem decide e prazo, a tarefa caiu no agente sem ninguém ver.</li><li><b>Pular o \"some?\".</b> Dividir uma tarefa inútil entre pessoa e agente é desperdício em dobro.</li><li><b>Prometer em vez de decidir.</b> Diga o que a pessoa passa a fazer; não garanta o que não foi decidido.</li></ol>"
+            "html": "<ol><li><b>Lista do cargo, nêo do dia.</b> Sem conversar com a pessoa, faltam as tarefas invisíveis.</li><li><b>Aprovar na coluna A.</b> Se o agente aprova sozinho, ninguém responde pela decisêo.</li><li><b>\"Os dois\" sem nome.</b> Sem quem decide e prazo, a tarefa caiu no agente sem ninguém ver.</li><li><b>Pular o \"some?\".</b> Dividir uma tarefa inútil entre pessoa e agente é desperdício em dobro.</li><li><b>Prometer em vez de decidir.</b> Diga o que a pessoa passa a fazer; nêo garanta o que nêo foi decidido.</li></ol>"
           }
         ]
       }
@@ -157,7 +157,7 @@
           "id": "e1",
           "titulo": "1 · A matriz da equipe da Patrícia",
           "min": "25 min",
-          "texto": "Use a configuração da Hora e a pesquisa interna do laboratório para listar o trabalho da equipe comercial (Juliana, vendedores, Patrícia). Passe cada tarefa pelas quatro perguntas e preencha a matriz. Rode o prompt de revisão e corrija o que fizer sentido.",
+          "texto": "Use a configuraçêo da Hora e a pesquisa interna do laboratório para listar o trabalho da equipe comercial (Juliana, vendedores, Patrícia). Passe cada tarefa pelas quatro perguntas e preencha a matriz. Rode o prompt de revisêo e corrija o que fizer sentido.",
           "pronto": "a matriz tem pelo menos 10 tarefas, usa as quatro colunas (S, P, 2 e A), cada linha tem o motivo, toda tarefa \"2\" tem quem decide e prazo, nenhuma tarefa de aprovar, assinar ou cadastrar está na coluna A, e o destino do tempo da Juliana está escrito."
         },
         {
@@ -165,14 +165,14 @@
           "titulo": "2 · A matriz da sua equipe",
           "min": "40 min",
           "texto": "Escolha uma pessoa da sua equipe e liste com ela as tarefas de uma semana real. Monte a matriz. Mostre a ela e anote o que ela corrigiu.",
-          "pronto": "a matriz tem pelo menos 8 tarefas com coluna e motivo, foi lida pela pessoa, há pelo menos uma mudança feita por causa do que ela disse, e o destino do tempo liberado foi combinado com ela, não prometido."
+          "pronto": "a matriz tem pelo menos 8 tarefas com coluna e motivo, foi lida pela pessoa, há pelo menos uma mudança feita por causa do que ela disse, e o destino do tempo liberado foi combinado com ela, nêo prometido."
         }
       ]
     },
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
           "p": "Cadastro de cliente novo, na Horizonte. Em que coluna?",
@@ -188,8 +188,8 @@
         {
           "p": "Por que perguntar \"some?\" antes de dividir?",
           "opcoes": [
-            "Porque tarefa que só existe por hábito não deve ir para ninguém",
-            "Porque o agente não consegue fazer as tarefas antigas do processo",
+            "Porque tarefa que só existe por hábito nêo deve ir para ninguém",
+            "Porque o agente nêo consegue fazer as tarefas antigas do processo",
             "Porque tarefa antiga deve ficar com a pessoa, que já sabe fazer"
           ],
           "certa": 0,
@@ -199,13 +199,13 @@
         {
           "p": "A Juliana perdeu as perguntas de catálogo para a Hora. O que a Patrícia deve dizer?",
           "opcoes": [
-            "\"Fica tranquila: ninguém aqui vai mudar de função, isso eu garanto.\"",
+            "\"Fica tranquila: ninguém aqui vai mudar de funçêo, isso eu garanto.\"",
             "\"Aproveita o tempo livre para descansar um pouco mais.\"",
             "\"Seu tempo vai para conferir cadastros e a fila comigo.\""
           ],
           "certa": 2,
           "ref": "passos",
-          "explica": "Hora liberada é capacidade, não economia, e só vira resultado se alguém decidir o destino. Dizer a decisão é diferente de prometer o que não foi decidido."
+          "explica": "Hora liberada é capacidade, nêo economia, e só vira resultado se alguém decidir o destino. Dizer a decisêo é diferente de prometer o que nêo foi decidido."
         },
         {
           "p": "Qual destas tarefas fica com a pessoa?",
@@ -216,7 +216,7 @@
           ],
           "certa": 0,
           "ref": "diagrama",
-          "explica": "Relação e julgamento sobre gente ficam com a pessoa. As outras duas têm regra, se repetem e se desfazem barato."
+          "explica": "Relaçêo e julgamento sobre gente ficam com a pessoa. As outras duas têm regra, se repetem e se desfazem barato."
         }
       ]
     },
@@ -230,7 +230,7 @@
         },
         {
           "t": "Quatro perguntas",
-          "texto": "Some? Relação? Alguém responde? Regra e volume?"
+          "texto": "Some? Relaçêo? Alguém responde? Regra e volume?"
         },
         {
           "t": "Os dois",
@@ -238,7 +238,7 @@
         },
         {
           "t": "Tempo decidido",
-          "texto": "Capacidade liberada tem destino combinado, não promessa."
+          "texto": "Capacidade liberada tem destino combinado, nêo promessa."
         }
       ]
     },
@@ -247,17 +247,17 @@
       "titulo": "Para ir além",
       "links": [
         {
-          "t": "Área Gestão de IA: a tese (contábil, jurídico, saúde)",
+          "t": "Área Gestêo de IA: a tese (contábil, jurídico, saúde)",
           "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
-          "t": "G2 · Processos: processo não é sagrado",
+          "t": "G2 · Processos: processo nêo é sagrado",
           "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
-          "t": "G3 · Agentes: a alçada de cada ação",
+          "t": "G3 · Agentes: a alçada de cada açêo",
           "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         }

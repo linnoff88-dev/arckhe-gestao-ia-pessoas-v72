@@ -3,22 +3,22 @@
   "lang": "pt-BR",
   "url": "https://linnoff88-dev.github.io/
   "nome": "Pessoas: liderar a equipe híbrida",
-  "sub": "Formação Gestão de IA 2027 · G1",
+  "sub": "Formaçêo Gestêo de IA 2027 · G1",
   "volta": {
-    "t": "Área Gestão de IA",
+    "t": "Área Gestêo de IA",
     "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
   },
   "lado_card": {
-    "rot": "Formação Gestão de IA 2027 · G1",
+    "rot": "Formaçêo Gestêo de IA 2027 · G1",
     "t": "Comece pela porta de entrada",
-    "texto": "O G0 mostra a empresa agêntica e o papel do gestor de 2027. Os outros cursos da formação partem dele.",
+    "texto": "O G0 mostra a empresa agêntica e o papel do gestor de 2027. Os outros cursos da formaçêo partem dele.",
     "link": "Ir para o G0",
     "href": "https://linnoff88-dev.github.io/
   },
   "rodape": "ARCKHÉ AI · conteúdo aberto e gratuito · formato ARCKHÉ Learning v7.2 · <a href=\"https://eventos.ARCKHÉ.pro/gestao-ia/\">eventos.ARCKHÉ.pro/gestao-ia</a> · <a href=\"https://linnoff88-dev.github.io/ Horizonte (empresa fictícia de estudo)</a> · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a>",
   "videos": {
     "gerente-de-agentes": {
-      "titulo": "Gerente que não domina agentes",
+      "titulo": "Gerente que nêo domina agentes",
       "duracao": "5 min 12 s",
       "mp4": "https://github.com/linnoff88-dev/gerente-de-agentes/releases/download/video-v2.0.0/gerente-de-agentes-completo-16x9.mp4",
       "vtt": "assets/vtt/gerente-de-agentes.vtt",
@@ -63,12 +63,12 @@
     }
   },
   "inicio": {
-    "kicker": "Formação Gestão de IA 2027 · G1 · 8 aulas",
+    "kicker": "Formaçêo Gestêo de IA 2027 · G1 · 8 aulas",
     "titulo": "Pessoas: liderar a equipe híbrida",
-    "lead": "O agente chega e a pergunta que fica na sala não é técnica: \"o que acontece comigo?\". Em oito aulas você dá o exemplo, decide o que fica com as pessoas, conduz a conversa difícil com honestidade, forma quem está entrando, escreve a cultura da equipe e a do agente, muda a avaliação e cuida da entrada e da saída de agentes. Fecha com o plano de pessoas da área.",
+    "lead": "O agente chega e a pergunta que fica na sala nêo é técnica: \"o que acontece comigo?\". Em oito aulas você dá o exemplo, decide o que fica com as pessoas, conduz a conversa difícil com honestidade, forma quem está entrando, escreve a cultura da equipe e a do agente, muda a avaliaçêo e cuida da entrada e da saída de agentes. Fecha com o plano de pessoas da área.",
     "cta": "Começar pela aula 1",
     "cta2": {
-      "t": "Ver a área Gestão de IA",
+      "t": "Ver a área Gestêo de IA",
       "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
     },
     "capa_alt": "No fim do expediente, a gerente comercial de uma distribuidora, sentada à cabeceira da mesa da equipe, observa dois colegas que saem; atrás do vidro, o estoque.",
@@ -79,16 +79,16 @@
       {"v": "1", "t": "conversa difícil simulada"}
     ],
     "cursos": {
-      "titulo": "Os 6 cursos da formação",
+      "titulo": "Os 6 cursos da formaçêo",
       "sub": "Ordem sugerida: G0 → G2 → G3 → G4 → G1 → G5. O G1 (pessoas) pode correr em paralelo aos outros, e quem é de RH pode começar por ele. O plano de pessoas da aula 8 é o bloco 4 do projeto final, no G5.",
       "abrir": "Abrir o curso",
       "itens": [
-        {"rot": "G0 · porta de entrada · publicado", "t": "A empresa agêntica e o gestor de 2027", "l": "O que mudou na gestão, o que dizem as consultorias, o Brasil, a carreira e o seu primeiro processo.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g0.jpg"},
-        {"rot": "G2 · processos · publicado", "t": "Processos: processo não é sagrado", "l": "Desmontar o processo antes de automatizar: eliminar, simplificar, redesenhar e decidir quem faz cada etapa.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g2.jpg"},
-        {"rot": "G3 · agentes · publicado", "t": "Agentes: contratar, delegar e supervisionar", "l": "Cargo, delegação, constituição, alçada, confiança progressiva, equipe de agentes e fila de exceções.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g3.jpg"},
+        {"rot": "G0 · porta de entrada · publicado", "t": "A empresa agêntica e o gestor de 2027", "l": "O que mudou na gestêo, o que dizem as consultorias, o Brasil, a carreira e o seu primeiro processo.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g0.jpg"},
+        {"rot": "G2 · processos · publicado", "t": "Processos: processo nêo é sagrado", "l": "Desmontar o processo antes de automatizar: eliminar, simplificar, redesenhar e decidir quem faz cada etapa.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g2.jpg"},
+        {"rot": "G3 · agentes · publicado", "t": "Agentes: contratar, delegar e supervisionar", "l": "Cargo, delegaçêo, constituiçêo, alçada, confiança progressiva, equipe de agentes e fila de exceções.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g3.jpg"},
         {"rot": "G4 · recursos · publicado", "t": "Recursos: modelos, dados e orçamento", "l": "Escolher modelo por caso, cuidar do contexto e do conhecimento da empresa e medir o custo por resultado.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g4.jpg"},
-        {"rot": "G1 · pessoas · você está aqui", "t": "Pessoas: liderar a equipe híbrida", "l": "O que fica com as pessoas, a conversa sobre mudança, o júnior que supervisiona agentes e a formação da equipe.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g1.jpg"},
-        {"rot": "G5 · fechamento + projeto final · publicado", "t": "Governar, medir e evoluir", "l": "Responsáveis, permissões e registro; avaliação e indicadores; um ciclo LOOP-R com volta e o projeto final da formação.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g5.jpg"}
+        {"rot": "G1 · pessoas · você está aqui", "t": "Pessoas: liderar a equipe híbrida", "l": "O que fica com as pessoas, a conversa sobre mudança, o júnior que supervisiona agentes e a formaçêo da equipe.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g1.jpg"},
+        {"rot": "G5 · fechamento + projeto final · publicado", "t": "Governar, medir e evoluir", "l": "Responsáveis, permissões e registro; avaliaçêo e indicadores; um ciclo LOOP-R com volta e o projeto final da formaçêo.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g5.jpg"}
       ]
     },
     "aulas_titulo": "As aulas",
@@ -98,7 +98,7 @@
         "t": "Para quem é",
         "itens": [
           "Gestor de área, dono de pequena ou média empresa, líder de operações ou de RH cuja equipe já trabalha, ou vai trabalhar, ao lado de agentes de IA.",
-          "Quem não programa e não quer programar: aqui o assunto é liderar gente. Construir agente é outro curso.",
+          "Quem nêo programa e nêo quer programar: aqui o assunto é liderar gente. Construir agente é outro curso.",
           "Quem já ouviu na equipe a pergunta \"a IA vai me substituir?\" e quer responder sem mentir e sem assustar."
         ]
       },
@@ -107,16 +107,16 @@
         "itens": [
           "Usar agentes no seu trabalho na frente da equipe e combinar a regra do dado e o tempo para experimentar.",
           "Dividir, tarefa por tarefa, o que fica com a pessoa, o que vai para o agente e o que os dois fazem juntos.",
-          "Conduzir a conversa sobre o medo da substituição e desenhar os 30 primeiros dias de quem está entrando.",
-          "Escrever os valores da equipe e a versão deles para o agente, avaliar pelo que a pessoa decide e revisa, e cuidar da entrada e da saída de agentes."
+          "Conduzir a conversa sobre o medo da substituiçêo e desenhar os 30 primeiros dias de quem está entrando.",
+          "Escrever os valores da equipe e a versêo deles para o agente, avaliar pelo que a pessoa decide e revisa, e cuidar da entrada e da saída de agentes."
         ]
       },
       {
         "t": "O caso que atravessa o curso",
         "itens": [
-          "A <b>Horizonte Distribuidora</b>, <a href=\"https://linnoff88-dev.github.io/ fictícia de estudo</a> de 40 pessoas que distribui produtos de limpeza no interior de São Paulo.",
+          "A <b>Horizonte Distribuidora</b>, <a href=\"https://linnoff88-dev.github.io/ fictícia de estudo</a> de 40 pessoas que distribui produtos de limpeza no interior de Sêo Paulo.",
           "Você faz o papel da <b>Patrícia Lima, gerente comercial</b>. A equipe dela (a Juliana no atendimento e os vendedores) recebeu a <b>Hora</b>, um agente que vende pelo WhatsApp. Em novembro entra o Lucas, o primeiro júnior depois da Hora.",
-          "O laboratório mostra o que acontece quando ninguém lidera a mudança: ferramentas de IA escondidas, uma automação que manda conversas de clientes para fora sem contrato. Toda aula tem uma prática na Horizonte e outra na sua própria equipe."
+          "O laboratório mostra o que acontece quando ninguém lidera a mudança: ferramentas de IA escondidas, uma automaçêo que manda conversas de clientes para fora sem contrato. Toda aula tem uma prática na Horizonte e outra na sua própria equipe."
         ]
       }
     ]
@@ -135,7 +135,7 @@
     "dg_dica": "Clique em cada bloco do diagrama para ver o que ele faz.",
     "copiar": "Copiar",
     "copiado": "Copiado",
-    "selo_simulacao": "Simulação: exemplo ilustrativo",
+    "selo_simulacao": "Simulaçêo: exemplo ilustrativo",
     "selo_real": "Exemplo do repositório",
     "pronto_quando": "Pronto quando:",
     "fiz": "Fiz este exercício",
@@ -144,8 +144,8 @@
     "de": "de",
     "cert_tag": "competência",
     "correto": "Correto",
-    "errado": "Não é essa",
-    "quiz_aguarda": "Escolha uma alternativa. A explicação aparece depois da sua tentativa.",
+    "errado": "Nêo é essa",
+    "quiz_aguarda": "Escolha uma alternativa. A explicaçêo aparece depois da sua tentativa.",
     "proxima_pergunta": "Próxima pergunta",
     "quiz_ver": "Ver resultado",
     "quiz_fim": "Teste concluído",
@@ -172,7 +172,7 @@
     "baixar_ics": "Baixar para o calendário (.ics)",
     "ind_estudo": "Estudo (aulas)",
     "ind_pratica": "Prática declarada",
-    "ind_nota": "Prática = exercícios que você marcou como feitos. A comprovação vem na prova da certificação.",
+    "ind_nota": "Prática = exercícios que você marcou como feitos. A comprovaçêo vem na prova da certificaçêo.",
     "estudo": {
       "titulo": "Seu estudo",
       "continuar": "Continuar de onde parei",
@@ -185,7 +185,7 @@
       "notas": "Minhas anotações",
       "dados": "Copiar meus dados",
       "sem_testes": "Nenhum teste feito ainda. O teste fica no fim de cada aula.",
-      "nao_fez": "teste ainda não feito",
+      "nao_fez": "teste ainda nêo feito",
       "ultimo": "Último",
       "melhor": "Melhor",
       "tentativas": "tentativas",
@@ -194,21 +194,21 @@
       "rever": "Para rever",
       "resposta": "Resposta certa:",
       "ir_teste": "Refazer o teste",
-      "sem_notas": "Nenhuma anotação ainda. Na aula, selecione um trecho do texto e toque em Marcar ou Anotar.",
+      "sem_notas": "Nenhuma anotaçêo ainda. Na aula, selecione um trecho do texto e toque em Marcar ou Anotar.",
       "so_marcado": "(só marcado)",
       "marcar": "Marcar",
       "anotar": "Anotar",
       "salvar": "Salvar",
       "apagar": "Apagar marca",
       "fechar": "Fechar",
-      "nota_ph": "Escreva sua anotação sobre este trecho…",
+      "nota_ph": "Escreva sua anotaçêo sobre este trecho…",
       "um_bloco": "Marque dentro de um parágrafo só.",
-      "nao_marca": "Este trecho não pode ser marcado.",
-      "dados_exp": "Seu progresso, suas anotações e as notas dos testes ficam só neste navegador. Baixe uma cópia (.json) para guardar ou para continuar em outro computador ou navegador; lá, carregue a cópia. Carregar soma com o que já existe e não apaga nada.",
+      "nao_marca": "Este trecho nêo pode ser marcado.",
+      "dados_exp": "Seu progresso, suas anotações e as notas dos testes ficam só neste navegador. Baixe uma cópia (.json) para guardar ou para continuar em outro computador ou navegador; lá, carregue a cópia. Carregar soma com o que já existe e nêo apaga nada.",
       "exportar": "Baixar cópia",
       "importar": "Carregar cópia",
       "import_ok": "Cópia carregada ({n} itens). Atualizando a página…",
-      "import_erro": "Arquivo não reconhecido. Nada foi alterado.",
+      "import_erro": "Arquivo nêo reconhecido. Nada foi alterado.",
       "import_outro": "Esta cópia é de outro curso. Nada foi alterado.",
       "export_ok": "Cópia baixada."
     },
@@ -220,7 +220,7 @@
     "conv_ruim": "Escolha fraca",
     "conv_fim": "Fim da conversa",
     "conv_placar": "Você fez {p} de {m} pontos possíveis.",
-    "conv_licao": "Lição:",
+    "conv_licao": "Liçêo:",
     "conv_recomecar": "Recomeçar a conversa",
     "conv_feita": "Seu melhor placar: {p} de {m} pontos."
   },

@@ -14,32 +14,32 @@
   ],
   "aprende": [
     {
-      "t": "O que a admissão de um agente precisa ter"
+      "t": "O que a admissêo de um agente precisa ter"
     },
     {
       "t": "O registro de agentes, como a lista de quem trabalha na empresa"
     },
     {
-      "t": "Formar quem supervisiona, não só o agente"
+      "t": "Formar quem supervisiona, nêo só o agente"
     },
     {
-      "t": "Desligar um agente sem deixar trabalho órfão nem acesso aberto"
+      "t": "Desligar um agente sem deixar trabalho órfêo nem acesso aberto"
     }
   ],
-  "hero_alt": "Uma profissional de RH e um técnico de TI conferem uma lista de verificação numa prancheta ao lado de um notebook; um crachá com cordão está sobre a mesa.",
+  "hero_alt": "Uma profissional de RH e um técnico de TI conferem uma lista de verificaçêo numa prancheta ao lado de um notebook; um crachá com cordêo está sobre a mesa.",
   "secoes": [
     {
       "tipo": "diagrama",
       "titulo": "O ciclo de vida de um agente",
       "sub": "As mesmas etapas de uma pessoa, com o que muda para o agente. Clique em cada etapa.",
-      "volta": "Mudança de modelo, ferramenta ou constituição volta para a experiência: as ações afetadas recomeçam no amarelo",
+      "volta": "Mudança de modelo, ferramenta ou constituiçêo volta para a experiência: as ações afetadas recomeçam no amarelo",
       "nos": [
         {
           "icone": "usuario",
-          "titulo": "Admissão",
+          "titulo": "Admissêo",
           "sub": "dono e acesso mínimo",
           "forte": true,
-          "detalhe": "Entra no registro de agentes com cargo, dono do negócio (não a TI), quem supervisiona, versão e data. Recebe só os acessos de que precisa, com identidade própria, nunca a senha de uma pessoa."
+          "detalhe": "Entra no registro de agentes com cargo, dono do negócio (nêo a TI), quem supervisiona, versêo e data. Recebe só os acessos de que precisa, com identidade própria, nunca a senha de uma pessoa."
         },
         {
           "icone": "relogio",
@@ -50,14 +50,14 @@
         {
           "icone": "grafico",
           "titulo": "Acompanhamento",
-          "sub": "revisão com data",
-          "detalhe": "Rotina de supervisão e revisão periódica, como a avaliação de uma pessoa. Cada mudança fica registrada: o quê, quem aprovou, quando, como voltar atrás."
+          "sub": "revisêo com data",
+          "detalhe": "Rotina de supervisêo e revisêo periódica, como a avaliaçêo de uma pessoa. Cada mudança fica registrada: o quê, quem aprovou, quando, como voltar atrás."
         },
         {
           "icone": "camadas",
           "titulo": "Mudança",
-          "sub": "de função ou de modelo",
-          "detalhe": "Troca de modelo, de ferramenta ou de constituição é mudança de função: nova rodada de casos de teste e as ações afetadas voltam ao amarelo até haver evidência."
+          "sub": "de funçêo ou de modelo",
+          "detalhe": "Troca de modelo, de ferramenta ou de constituiçêo é mudança de funçêo: nova rodada de casos de teste e as ações afetadas voltam ao amarelo até haver evidência."
         },
         {
           "icone": "x",
@@ -66,7 +66,7 @@
           "detalhe": "Acessos e credenciais revogados no mesmo dia, quem assume o trabalho com data, o que fazer com os dados que ficaram no fornecedor, o registro guardado e a equipe avisada."
         }
       ],
-      "legenda": "Ciclo recomendado pelo ARCKHÉ, com base no método Gestoria (níveis, registro, mudança com reversão). Não substitui a política de segurança da informação da empresa."
+      "legenda": "Ciclo recomendado pelo ARCKHÉ, com base no método Gestoria (níveis, registro, mudança com reversêo). Nêo substitui a política de segurança da informaçêo da empresa."
     },
     {
       "tipo": "passos",
@@ -77,41 +77,41 @@
           "titulo": "Agente também é admitido",
           "sub": "com dono do negócio",
           "texto": [
-            "A Deloitte (Tech Trends 2026) trata os agentes como uma força de trabalho que precisa de onboarding nos dados e na operação, de autonomia graduada com gatilhos de supervisão humana, e lembra que os supervisores humanos também precisam de treinamento.",
-            "Na prática, a admissão tem três perguntas: quem é o dono do resultado, o que ele pode acessar e com qual identidade, e quem supervisiona. Sem dono do negócio, o agente fica com a TI, que não responde pelo resultado comercial."
+            "A Deloitte (Tech Trends 2026) trata os agentes como uma força de trabalho que precisa de onboarding nos dados e na operaçêo, de autonomia graduada com gatilhos de supervisêo humana, e lembra que os supervisores humanos também precisam de treinamento.",
+            "Na prática, a admissêo tem três perguntas: quem é o dono do resultado, o que ele pode acessar e com qual identidade, e quem supervisiona. Sem dono do negócio, o agente fica com a TI, que nêo responde pelo resultado comercial."
           ],
           "exemplo": {
             "rot": "Na Horizonte (empresa fictícia de estudo)",
-            "texto": "No inventário do laboratório, o responsável pela Hora é o Rafael, da TI. Na admissão retroativa, a dona passa a ser a Patrícia; o Rafael continua cuidando do acesso técnico."
+            "texto": "No inventário do laboratório, o responsável pela Hora é o Rafael, da TI. Na admissêo retroativa, a dona passa a ser a Patrícia; o Rafael continua cuidando do acesso técnico."
           }
         },
         {
           "titulo": "O registro de agentes",
           "sub": "a lista de quem trabalha",
           "texto": [
-            "Toda empresa sabe quem trabalha nela. O registro de agentes é a mesma lista para os agentes: nome, função, dono, quem supervisiona, versão, acessos, data de entrada, próxima revisão e situação (ativo, em experiência, suspenso, desligado).",
-            "Comece pelo inventário da TI e acrescente o que a pesquisa de IA na sombra achou. Agente que não está no registro não tem dono, e agente sem dono não tem quem o desligue."
+            "Toda empresa sabe quem trabalha nela. O registro de agentes é a mesma lista para os agentes: nome, funçêo, dono, quem supervisiona, versêo, acessos, data de entrada, próxima revisêo e situaçêo (ativo, em experiência, suspenso, desligado).",
+            "Comece pelo inventário da TI e acrescente o que a pesquisa de IA na sombra achou. Agente que nêo está no registro nêo tem dono, e agente sem dono nêo tem quem o desligue."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
-            "texto": "O registro começa com a Hora e o assistente de e-mail, que estão no inventário oficial, e com o resumo diário de atendimento (F10), que o inventário nem listava. Depois entram as ferramentas que a pesquisa achou por conta própria (F12)."
+            "texto": "O registro começa com a Hora e o assistente de e-mail, que estêo no inventário oficial, e com o resumo diário de atendimento (F10), que o inventário nem listava. Depois entram as ferramentas que a pesquisa achou por conta própria (F12)."
           }
         },
         {
           "titulo": "Forme quem supervisiona",
           "sub": "o lado das pessoas",
           "texto": [
-            "Admitir um agente cria trabalho novo para alguém: revisar amostra, ler pacote de exceção, decidir com o verbo certo, apertar o botão de desligar. Esse alguém precisa ser formado, com tempo reservado para isso.",
-            "Escreva quem supervisiona cada agente, o que essa pessoa aprendeu e quem a substitui nas férias. Supervisor sem formação vira carimbo."
+            "Admitir um agente cria trabalho novo para alguém: revisar amostra, ler pacote de exceçêo, decidir com o verbo certo, apertar o botêo de desligar. Esse alguém precisa ser formado, com tempo reservado para isso.",
+            "Escreva quem supervisiona cada agente, o que essa pessoa aprendeu e quem a substitui nas férias. Supervisor sem formaçêo vira carimbo."
           ],
           "exemplo": {
             "rot": "Na Horizonte",
-            "texto": "A Juliana supervisiona a fila com a Patrícia. Formação: a lista de revisão da aula 4, o pacote de exceção e o botão de desligar, testado uma vez com o Rafael. Substituta: a Sandra."
+            "texto": "A Juliana supervisiona a fila com a Patrícia. Formaçêo: a lista de revisêo da aula 4, o pacote de exceçêo e o botêo de desligar, testado uma vez com o Rafael. Substituta: a Sandra."
           }
         },
         {
           "titulo": "Desligar é um processo",
-          "sub": "ninguém fica órfão",
+          "sub": "ninguém fica órfêo",
           "texto": [
             "Desligar um agente tem os mesmos cuidados de um desligamento: cortar o acesso no mesmo dia, dizer quem assume o trabalho a partir de quando, decidir o que fazer com os dados que ficaram no fornecedor e guardar o registro.",
             "O passo mais esquecido é o trabalho que o agente fazia. Se ninguém o assume, ele volta escondido para quem já estava sobrecarregado, ou some sem ninguém perceber."
@@ -126,22 +126,22 @@
     {
       "tipo": "codigo",
       "titulo": "Modelos para copiar",
-      "sub": "A admissão com a linha do registro, o desligamento e um prompt que procura buracos. A aba ao lado mostra os da Horizonte.",
+      "sub": "A admissêo com a linha do registro, o desligamento e um prompt que procura buracos. A aba ao lado mostra os da Horizonte.",
       "blocos": [
         {
-          "rot": "Admissão de agente + linha do registro",
+          "rot": "Admissêo de agente + linha do registro",
           "icone": "usuario",
-          "conteudo": "ADMISSÃO DE AGENTE · <nome> · <data>\n\n[ ] Ficha de cargo escrita (missão, entrega, proibidos) · versão <...>\n[ ] Dono do negócio: <nome> (não a TI) · responsável técnico: <nome>\n[ ] Supervisor: <nome> · formado em <revisão, pacote, botão de desligar> em <data>\n    · substituto: <nome>\n[ ] Acessos: <ferramenta · ler/escrever · limite> (só o necessário)\n[ ] Identidade própria do agente (não usa a senha de ninguém)\n[ ] Casos de teste rodados antes de começar: <n> · resultado <...>\n[ ] Experiência: começa no amarelo até <data> · amostra de <n> por <dia/semana>\n[ ] Botão de desligar: quem <nomes> · testado em <data>\n[ ] Equipe avisada do que muda (reunião de <data>)\n\nLINHA DO REGISTRO DE AGENTES\n| Agente | Função | Dono | Supervisor | Versão | Acessos | Entrada | Próxima revisão | Situação |\n| <nome> | <...> | <nome> | <nome> | <v> | <...> | <data> | <data> | <ativo / em experiência / suspenso / desligado> |"
+          "conteudo": "ADMISSêO DE AGENTE · <nome> · <data>\n\n[ ] Ficha de cargo escrita (missêo, entrega, proibidos) · versêo <...>\n[ ] Dono do negócio: <nome> (nêo a TI) · responsável técnico: <nome>\n[ ] Supervisor: <nome> · formado em <revisêo, pacote, botêo de desligar> em <data>\n    · substituto: <nome>\n[ ] Acessos: <ferramenta · ler/escrever · limite> (só o necessário)\n[ ] Identidade própria do agente (nêo usa a senha de ninguém)\n[ ] Casos de teste rodados antes de começar: <n> · resultado <...>\n[ ] Experiência: começa no amarelo até <data> · amostra de <n> por <dia/semana>\n[ ] Botêo de desligar: quem <nomes> · testado em <data>\n[ ] Equipe avisada do que muda (reuniêo de <data>)\n\nLINHA DO REGISTRO DE AGENTES\n| Agente | Funçêo | Dono | Supervisor | Versêo | Acessos | Entrada | Próxima revisêo | Situaçêo |\n| <nome> | <...> | <nome> | <nome> | <v> | <...> | <data> | <data> | <ativo / em experiência / suspenso / desligado> |"
         },
         {
           "rot": "Desligamento de agente",
           "icone": "x",
-          "conteudo": "DESLIGAMENTO DE AGENTE · <nome> · motivo <...> · <data> · decidido por <nome>\n\n[ ] Acessos e credenciais revogados hoje: <lista> · por <nome> · conferido por <nome>\n[ ] Automações e integrações paradas: <lista>\n[ ] QUEM ASSUME O TRABALHO: <pessoa ou agente> · a partir de <data>\n    · o que muda para essa pessoa: <...> · combinado com ela em <data>\n[ ] Dados no fornecedor: <o que ficou lá> · pedido de exclusão: <feito / não é possível, por quê>\n[ ] Registro e histórico guardados em <onde> por <prazo>\n[ ] Registro de agentes atualizado: situação = desligado (ou suspenso)\n[ ] Avisados: equipe <data> · clientes, se algo muda para eles <...>\n[ ] Revisão em <data>: o trabalho está sendo feito? alguém voltou a usar escondido?"
+          "conteudo": "DESLIGAMENTO DE AGENTE · <nome> · motivo <...> · <data> · decidido por <nome>\n\n[ ] Acessos e credenciais revogados hoje: <lista> · por <nome> · conferido por <nome>\n[ ] Automações e integrações paradas: <lista>\n[ ] QUEM ASSUME O TRABALHO: <pessoa ou agente> · a partir de <data>\n    · o que muda para essa pessoa: <...> · combinado com ela em <data>\n[ ] Dados no fornecedor: <o que ficou lá> · pedido de exclusêo: <feito / nêo é possível, por quê>\n[ ] Registro e histórico guardados em <onde> por <prazo>\n[ ] Registro de agentes atualizado: situaçêo = desligado (ou suspenso)\n[ ] Avisados: equipe <data> · clientes, se algo muda para eles <...>\n[ ] Revisêo em <data>: o trabalho está sendo feito? alguém voltou a usar escondido?"
         },
         {
           "rot": "Prompt · procurar buracos",
           "icone": "chat",
-          "conteudo": "Você revisa a admissão ou o desligamento de um agente de IA numa\nempresa. Não decida nada: aponte buracos.\n\n1. Há dono do negócio com nome (não só a TI)?\n2. Algum acesso é maior que o necessário, ou usa a credencial de uma\n   pessoa?\n3. Quem supervisiona foi formado e tem substituto?\n4. No desligamento: quem assume o trabalho, a partir de quando, e essa\n   pessoa foi consultada?\n5. O que acontece com os dados que ficaram no fornecedor?\n\nDocumento:\n\"\"\"<cole aqui>\"\"\""
+          "conteudo": "Você revisa a admissêo ou o desligamento de um agente de IA numa\nempresa. Nêo decida nada: aponte buracos.\n\n1. Há dono do negócio com nome (nêo só a TI)?\n2. Algum acesso é maior que o necessário, ou usa a credencial de uma\n   pessoa?\n3. Quem supervisiona foi formado e tem substituto?\n4. No desligamento: quem assume o trabalho, a partir de quando, e essa\n   pessoa foi consultada?\n5. O que acontece com os dados que ficaram no fornecedor?\n\nDocumento:\n\"\"\"<cole aqui>\"\"\""
         }
       ],
       "saida": {
@@ -149,11 +149,11 @@
         "abas": [
           {
             "rot": "Hora e resumo diário (exemplo)",
-            "html": "<p><b>Admissão retroativa · Hora · 05/11</b> · Horizonte, empresa fictícia de estudo</p><ul><li><b>Dona:</b> Patrícia (antes: o Rafael, no inventário) · responsável técnico: Rafael.</li><li><b>Supervisora:</b> Juliana, formada na lista de revisão, no pacote de exceção e no botão de desligar · substituta: Sandra.</li><li><b>Acessos:</b> catálogo (ler) · cadastro do cliente da conversa (ler) · app de pedidos (escrever até R$ 5 mil e 5%) · identidade própria.</li><li><b>Experiência:</b> amostra de 20 conversas por semana até 04/12.</li></ul><p><b>Desligamento (suspensão) · resumo diário de atendimento · F10</b></p><ul><li><b>Motivo:</b> conversas com CPF e endereço num serviço gratuito fora do Brasil, sem contrato.</li><li><b>Parado:</b> a automação das 18 h, pelo Rafael, conferido pela Patrícia.</li><li><b>Quem assume:</b> a Juliana lê a fila de exceções e 20 conversas por dia, combinado com ela; sobe para a Patrícia o que não couber.</li><li><b>Dados no fornecedor:</b> o Rafael pede a exclusão e registra a resposta.</li><li><b>Registro:</b> situação = suspenso até a troca de fornecedor.</li></ul>"
+            "html": "<p><b>Admissêo retroativa · Hora · 05/11</b> · Horizonte, empresa fictícia de estudo</p><ul><li><b>Dona:</b> Patrícia (antes: o Rafael, no inventário) · responsável técnico: Rafael.</li><li><b>Supervisora:</b> Juliana, formada na lista de revisêo, no pacote de exceçêo e no botêo de desligar · substituta: Sandra.</li><li><b>Acessos:</b> catálogo (ler) · cadastro do cliente da conversa (ler) · app de pedidos (escrever até R$ 5 mil e 5%) · identidade própria.</li><li><b>Experiência:</b> amostra de 20 conversas por semana até 04/12.</li></ul><p><b>Desligamento (suspensêo) · resumo diário de atendimento · F10</b></p><ul><li><b>Motivo:</b> conversas com CPF e endereço num serviço gratuito fora do Brasil, sem contrato.</li><li><b>Parado:</b> a automaçêo das 18 h, pelo Rafael, conferido pela Patrícia.</li><li><b>Quem assume:</b> a Juliana lê a fila de exceções e 20 conversas por dia, combinado com ela; sobe para a Patrícia o que nêo couber.</li><li><b>Dados no fornecedor:</b> o Rafael pede a exclusêo e registra a resposta.</li><li><b>Registro:</b> situaçêo = suspenso até a troca de fornecedor.</li></ul>"
           },
           {
             "rot": "Como conferir / erros comuns",
-            "html": "<ol><li><b>Dono da TI.</b> A TI cuida do acesso; o resultado é de quem responde pelo processo.</li><li><b>Senha emprestada.</b> Agente usando a conta de uma pessoa não tem registro próprio e não se desliga sem desligar a pessoa.</li><li><b>Supervisor sem formação.</b> Vira carimbo de aprovação.</li><li><b>Trabalho órfão.</b> Desligou o agente e ninguém assumiu: o trabalho volta escondido ou some.</li><li><b>Esquecer o fornecedor.</b> Dado que ficou lá continua lá até alguém pedir para apagar.</li></ol>"
+            "html": "<ol><li><b>Dono da TI.</b> A TI cuida do acesso; o resultado é de quem responde pelo processo.</li><li><b>Senha emprestada.</b> Agente usando a conta de uma pessoa nêo tem registro próprio e nêo se desliga sem desligar a pessoa.</li><li><b>Supervisor sem formaçêo.</b> Vira carimbo de aprovaçêo.</li><li><b>Trabalho órfêo.</b> Desligou o agente e ninguém assumiu: o trabalho volta escondido ou some.</li><li><b>Esquecer o fornecedor.</b> Dado que ficou lá continua lá até alguém pedir para apagar.</li></ol>"
           }
         ]
       }
@@ -168,25 +168,25 @@
           "id": "e1",
           "titulo": "1 · Admitir a Hora, desligar o resumo",
           "min": "30 min",
-          "texto": "Faça a admissão retroativa da Hora com o modelo. Depois faça o desligamento (suspensão) do resumo diário de atendimento, que manda conversas para um serviço gratuito sem contrato. Monte o registro de agentes da Horizonte com o que o inventário e a pesquisa mostram. Rode o prompt nos dois documentos.",
-          "pronto": "a admissão tem dona do negócio, supervisora formada com substituta e acessos com limite; o desligamento diz quem assume a leitura das conversas, a partir de quando e o que acontece com os dados no fornecedor; e o registro tem pelo menos 3 agentes ou automações, cada um com dono e situação."
+          "texto": "Faça a admissêo retroativa da Hora com o modelo. Depois faça o desligamento (suspensêo) do resumo diário de atendimento, que manda conversas para um serviço gratuito sem contrato. Monte o registro de agentes da Horizonte com o que o inventário e a pesquisa mostram. Rode o prompt nos dois documentos.",
+          "pronto": "a admissêo tem dona do negócio, supervisora formada com substituta e acessos com limite; o desligamento diz quem assume a leitura das conversas, a partir de quando e o que acontece com os dados no fornecedor; e o registro tem pelo menos 3 agentes ou automações, cada um com dono e situaçêo."
         },
         {
           "id": "e2",
           "titulo": "2 · O registro da sua área",
           "min": "40 min",
-          "texto": "Liste os agentes e automações de IA da sua área, incluindo os que a equipe usa por conta própria. Monte o registro. Escolha um deles e faça a admissão completa (ou o desligamento, se for o caso).",
-          "pronto": "o registro tem todos os agentes que você conhece, cada um com dono e situação, há pelo menos um checklist completo, e cada supervisor nomeado tem substituto."
+          "texto": "Liste os agentes e automações de IA da sua área, incluindo os que a equipe usa por conta própria. Monte o registro. Escolha um deles e faça a admissêo completa (ou o desligamento, se for o caso).",
+          "pronto": "o registro tem todos os agentes que você conhece, cada um com dono e situaçêo, há pelo menos um checklist completo, e cada supervisor nomeado tem substituto."
         }
       ]
     },
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
-          "p": "No inventário, o responsável pela Hora é o Rafael, da TI. O que a admissão muda?",
+          "p": "No inventário, o responsável pela Hora é o Rafael, da TI. O que a admissêo muda?",
           "opcoes": [
             "Nada: a TI conhece melhor o sistema da Hora",
             "O Carlos vira dono, porque é ele quem responde pela empresa toda",
@@ -194,7 +194,7 @@
           ],
           "certa": 2,
           "ref": "passos",
-          "explica": "Quem responde pelo resultado comercial é quem tem a alçada comercial. A TI cuida do acesso, não do desconto que a Hora deu."
+          "explica": "Quem responde pelo resultado comercial é quem tem a alçada comercial. A TI cuida do acesso, nêo do desconto que a Hora deu."
         },
         {
           "p": "Qual é o passo mais esquecido no desligamento de um agente?",
@@ -205,10 +205,10 @@
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "Sem sucessão, o trabalho volta escondido para alguém sobrecarregado ou some. No caso do resumo diário, a Juliana assumiu uma leitura menor, combinada com ela."
+          "explica": "Sem sucessêo, o trabalho volta escondido para alguém sobrecarregado ou some. No caso do resumo diário, a Juliana assumiu uma leitura menor, combinada com ela."
         },
         {
-          "p": "Por que o agente precisa de identidade própria, e não da senha de alguém?",
+          "p": "Por que o agente precisa de identidade própria, e nêo da senha de alguém?",
           "opcoes": [
             "Para ter registro e limite próprios e ser desligado à parte",
             "Porque a senha de uma pessoa custa mais caro à empresa",
@@ -227,7 +227,7 @@
           ],
           "certa": 1,
           "ref": "diagrama",
-          "explica": "Troca de modelo, ferramenta ou constituição pode mudar o comportamento. Volta para a experiência, não para o zero."
+          "explica": "Troca de modelo, ferramenta ou constituiçêo pode mudar o comportamento. Volta para a experiência, nêo para o zero."
         }
       ]
     },
@@ -236,12 +236,12 @@
       "titulo": "Resumo",
       "itens": [
         {
-          "t": "Admissão",
+          "t": "Admissêo",
           "texto": "Dono do negócio, acesso mínimo, identidade própria, experiência no amarelo."
         },
         {
           "t": "Registro de agentes",
-          "texto": "A lista de quem trabalha, agora com os agentes, cada um com dono e situação."
+          "texto": "A lista de quem trabalha, agora com os agentes, cada um com dono e situaçêo."
         },
         {
           "t": "Supervisor formado",
